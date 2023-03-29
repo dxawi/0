@@ -37,16 +37,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },   
+        },
         {
-            "key": "csp_Lib",
-            "name": "Libvio",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://libvio.me/"
+            "key":"pyjsLib",
+            "name":"LIB",
+            "type":3,
+            "api":"http://vod.98nb.com/gzpz/tslib/drpy2.min.js",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://vod.98nb.com/gzpz/jspy/LIBVIO.js"
         },
         {
             "key": "csp_AppMr",
