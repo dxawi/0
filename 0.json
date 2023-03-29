@@ -39,16 +39,6 @@
             "filterable": 0
         },
         {
-            "key":"pyjsLib",
-            "name":"LIB",
-            "type":3,
-            "api":"http://vod.98nb.com/gzpz/tslib/drpy2.min.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://vod.98nb.com/gzpz/jspy/LIBVIO.js"
-        },
-        {
             "key": "csp_AppMr",
             "name": "明明",
             "type": 3,
@@ -128,8 +118,30 @@
             "filterable": 1,
             "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
-        {"key":"爱看","name":"爱看[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/ak.js"},
-        {"key":"六度TV","name":"六度[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/6dtv.js"},
+        {
+            "key":"pyjsLib",
+            "name":"Libvio(js)",
+            "type":3,
+            "api":"http://vod.98nb.com/gzpz/tslib/drpy2.min.js",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://vod.98nb.com/gzpz/jspy/LIBVIO.js"
+        },
+        {
+            "key":"爱看",
+            "name":"爱看(js)",
+            "type":3,
+            "api":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/drpy2.min.js",
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/ak.js"
+        },
+        {
+            "key":"六度TV",
+            "name":"六度(js)",
+            "type":3,
+            "api":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/drpy2.min.js",
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/6dtv.js"
+        },
         {
             "key": "csp_fantuan",
             "name": "饭团",
