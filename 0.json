@@ -213,6 +213,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_Lgyy",
+            "name": "蓝光",
+            "type": 3,
+            "api": "csp_Lgyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.lgyy.vip"
+        },
+        {
             "key": "csp_Ysgc",
             "name": "工厂",
             "type": 3,
