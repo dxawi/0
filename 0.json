@@ -1,14 +1,25 @@
 
 {
-    "sites": [      
+    "sites": [
         {
-            "key": "csp_kuaikan",
-            "name": "快看",
+            "key": "js豆瓣",
+            "name": "豆瓣推荐",
             "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
+            "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key":"pyjsLib",
+            "name":"LIBVIO",
+            "type":3,
+            "api":"http://vod.98nb.com/gzpz/tslib/drpy2.min.js",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://vod.98nb.com/gzpz/jspy/LIBVIO.js"
         },
         {
             "key": "农民",
@@ -21,6 +32,15 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/nm.json"
         },
         {
+            "key": "csp_kuaikan",
+            "name": "快看",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_77",
             "name": "七七",
             "type": 3,
@@ -28,16 +48,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key":"pyjsLib",
-            "name":"Libvio",
-            "type":3,
-            "api":"http://vod.98nb.com/gzpz/tslib/drpy2.min.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://vod.98nb.com/gzpz/jspy/LIBVIO.js"
         },
         {
             "key": "csp_DiDuan",
