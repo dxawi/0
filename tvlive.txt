@@ -4,6 +4,7 @@ CCTV-2,http://218.29.55.44:808/hls/2/index.m3u8
 CCTV-3,http://218.29.55.44:808/hls/3/index.m3u8
 CCTV-4,http://218.29.55.44:808/hls/4/index.m3u8
 CCTV-5,http://218.29.55.44:808/hls/5/index.m3u8
+CCTV-5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV-6,http://218.29.55.44:808/hls/6/index.m3u8
 CCTV-7,http://218.29.55.44:808/hls/7/index.m3u8
 CCTV-8,http://218.29.55.44:808/hls/8/index.m3u8
@@ -19,6 +20,7 @@ CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212258
 CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV-4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV-5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV-5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV-6,http://cm.wshls.homecdn.com/live/11ee8.m3u8
 CCTV-7,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225778/index.m3u8?
 CCTV-8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
@@ -47,7 +49,7 @@ CCTV-14,http://125.210.152.19:9120/live/hzgq-cctvsegq-h264.m3u8
 CCTV-15,http://125.210.152.19:9120/live/hzgq-cctvmusicgq-h264.m3u8
 CCTV-16,http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
 CCTV-17,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
-CCTV-5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
+
 地方,#genre#
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
