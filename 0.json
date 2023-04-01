@@ -12,16 +12,6 @@
             "filterable": 0
         },
         {
-            "key":"pyjsLib",
-            "name":"LIBVIO",
-            "type":3,
-            "api":"http://vod.98nb.com/gzpz/tslib/drpy2.min.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://vod.98nb.com/gzpz/jspy/LIBVIO.js"
-        },
-        {
             "key": "农民",
             "name": "农民",
             "type": 3,
@@ -60,6 +50,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_Lib",
+            "name": "Libvio",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tv.libvio.cc/"
+        },
+        {
             "key": "csp_DiDuan",
             "name": "低端",
             "type": 3,
@@ -78,16 +78,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_apple",
-            "name": "小苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Xinsj",
             "name": "新视觉",
             "type": 3,
@@ -96,6 +86,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.6080dy3.com"
+        },
+        {
+            "key": "csp_apple",
+            "name": "小苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_YQKAPP",
@@ -107,16 +107,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://api-tx.11ty.top"
-        },
-        {
-            "key": "csp_MeiJu69",
-            "name": "美剧",
-            "type": 3,
-            "api": "csp_MeiJu69",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.69mj.com/"
         },
         {
             "key": "csp_AppTT",
@@ -148,14 +138,13 @@
             "filterable": 1
         },
         {
-            "key": "csp_Lib",
-            "name": "Libvio",
+            "key": "Bttwoo",
+            "name": "Bttwoo",
             "type": 3,
-            "api": "csp_Libvio",
+            "api": "csp_Bttwoo",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tv.libvio.cc/"
+            "filterable": 1
         },
         {
             "key": "csp_Auete",
@@ -171,15 +160,6 @@
             "name": "Cokemv",
             "type": 3,
             "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Bttwoo",
-            "name": "Bttwoo",
-            "type": 3,
-            "api": "csp_Bttwoo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
