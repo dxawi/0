@@ -491,7 +491,17 @@
             "name": "jsonplayer",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
-        }
+        },
+        {
+		"name": "xmflv",
+		"type": 0,
+		"url": "https://jx.xmflv.com/?url="
+		},
+		{
+		"name": "yemu",
+		"type": 0,
+		"url": "https://www.yemu.xyz/?url="
+		} 
         ],
     "flags":[
 "youku",
