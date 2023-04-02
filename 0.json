@@ -50,6 +50,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_Bd",
+            "name": "哔嘀",
+            "type": 3,
+            "api": "csp_Bdys01",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Lib",
             "name": "Libvio",
             "type": 3,
@@ -128,6 +138,16 @@
             "filterable": 1,
             "ext": "https://www.fantuanhd.com"
         }, 
+        {
+            "key": "csp_MeiJu69",
+            "name": "69美剧",
+            "type": 3,
+            "api": "csp_MeiJu69",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.69mj.com/"
+        },
         {
             "key": "csp_panghu",
             "name": "胖虎",
@@ -217,16 +237,6 @@
             "name": "难看",
             "type": 3,
             "api": "csp_Nkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Bd",
-            "name": "哔嘀",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
