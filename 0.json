@@ -88,6 +88,15 @@
             "filterable": 1
         },
         {
+            "key": "csp_Dy1010",
+            "name": "1010",
+            "type": 3,
+            "api": "csp_Dy1010",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Xinsj",
             "name": "新视觉",
             "type": 3,
@@ -289,81 +298,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-        },
-        {
-            "key": "csp_FanYY",
-            "name": "饭影音",
-            "type": 3,
-            "api": "csp_FanYY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {
-            "key": "csp_Paper",
-            "name": "纸条",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {
-            "key": "YiSo",
-            "name": "一搜(搜索)",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {
-            "key": "PanSou",
-            "name": "盘搜(搜索)",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {
-            "key": "UpYun",
-            "name": "云搜(搜索)",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {
-            "key": "Zhaozy",
-            "name": "找资源(搜索)",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken$$$自己去注册$$$qq112233"
-        },
-        {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "csp_If101",
@@ -758,5 +692,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;2427acdd749c3d413e3c9d16d4bebce3"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;4e76031a18cb23b27867a2c0829492b7"
 }
