@@ -96,6 +96,35 @@
             "filterable": 1
         },
         {
+            "key": "csp_WoGG",
+            "name": "来自饭太硬(扫token)",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Paper",
+            "name": "小纸条(扫token)",
+            "type": 3,
+            "api": "csp_Paper",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "YiSo",
+            "name": "一搜(扫token)",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
             "key": "csp_Lib",
             "name": "Libvio",
             "type": 3,
@@ -317,35 +346,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "csp_WoGG",
-            "name": "WoGG(扫token)",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Paper",
-            "name": "小纸条(扫token)",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "YiSo",
-            "name": "一搜(扫token)",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
             "changeable": 0
         },
         {
