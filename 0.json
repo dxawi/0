@@ -102,7 +102,8 @@
             "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
         },
         {
             "key": "csp_Paper",
@@ -112,7 +113,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
         },
         {
             "key": "YiSo",
@@ -122,7 +124,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
         },
         {
             "key": "csp_Lib",
@@ -355,7 +358,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
         },
         {
             "key": "UpYun",
@@ -365,7 +369,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
         },
         {
             "key": "push_agent",
@@ -374,7 +379,8 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0
+            "filterable": 0,
+            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
         },
         {
             "key": "csp_If101",
