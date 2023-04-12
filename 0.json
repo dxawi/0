@@ -50,6 +50,25 @@
             "filterable": 1
         },
         {
+            "key": "csp_AppTT",
+            "name": "图图",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+        },
+        {
+            "key": "csp_BuLei",
+            "name": "布雷",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Bd",
             "name": "哔嘀",
             "type": 3,
@@ -87,17 +106,8 @@
             "filterable": 1
         },
         {
-            "key": "csp_BuLei",
-            "name": "布雷",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_WoGG",
-            "name": "来自饭太硬(扫token)",
+            "name": "来自饭太硬(阿里)",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
@@ -106,8 +116,19 @@
             "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
         },
         {
+            "key": "csp_FanYY",
+            "name": "剥饭(阿里)",
+            "type": 3,
+            "api": "csp_FanYY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+        },
+        {
             "key": "csp_Paper",
-            "name": "小纸条(扫token)",
+            "name": "小纸条(阿里)",
             "type": 3,
             "api": "csp_Paper",
             "searchable": 1,
@@ -118,7 +139,7 @@
         },
         {
             "key": "YiSo",
-            "name": "一搜(扫token)",
+            "name": "一搜(阿里)",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
@@ -362,7 +383,7 @@
         },
         {
             "key": "PanSou",
-            "name": "盘搜(扫token)",
+            "name": "盘搜(阿里)",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -373,7 +394,7 @@
         },
         {
             "key": "UpYun",
-            "name": "云搜(扫token)",
+            "name": "云搜(阿里)",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -384,7 +405,7 @@
         },
         {
             "key": "push_agent",
-            "name": "推送(扫token)",
+            "name": "推送(阿里)",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
@@ -785,5 +806,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;4e76031a18cb23b27867a2c0829492b7"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;613066b0150c902b3d51bde7a433be83"
 }
