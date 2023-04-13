@@ -145,9 +145,6 @@ CETV1,http://222.71.90.218:8888/newlive/live/hls/48/live.m3u8
 凤凰资讯,http://183.129.242.178:3333/tsfile/live/1003_1.m3u8
 凤凰中文,http://183.129.242.178:3333/tsfile/live/1001_1.m3u8
 浙江,#genre#
-义乌新闻综合,http://81.68.89.191:16888/aodian.php?id=ywxwzh
-义乌商贸频道,http://81.68.89.191:16888/aodian.php?id=ywsmpd
-义乌公共文艺,http://81.68.89.191:16888/aodian.php?id=ywggwy
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/360p.m3u8?zzhed
