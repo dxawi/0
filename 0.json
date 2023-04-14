@@ -106,6 +106,26 @@
             "filterable": 1
         },
         {
+            "key": "csp_Bili",
+            "name": "哔哔合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://饭太硬.ga/x/json/bilibili.json"
+        },
+        {
+            "key": "csp_Biliych",
+            "name": "哔哔演唱会",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://饭太硬.ga/x/json/biliych.json"
+        },
+        {
             "key": "csp_WoGG",
             "name": "来自饭太硬(阿里)",
             "type": 3,
