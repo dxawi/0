@@ -116,17 +116,6 @@
             "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
         },
         {
-            "key": "csp_FanYY",
-            "name": "剥饭(阿里)",
-            "type": 3,
-            "api": "csp_FanYY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
-        },
-        {
             "key": "csp_Paper",
             "name": "小纸条(阿里)",
             "type": 3,
@@ -147,16 +136,6 @@
             "filterable": 0,
             "changeable": 0,
             "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
-        },
-        {
-            "key": "csp_Jianying",
-            "name": "简影",
-            "type": 3,
-            "api": "csp_Jianying",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "hjju123@qq.com$$$123456"
         },
         {
             "key": "csp_Lib",
@@ -198,15 +177,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.fantuanhd.com"
-        },
-        {
-            "key": "csp_Vofl",
-            "name": "Voflix",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_apple",
@@ -269,15 +239,6 @@
             "name": "在线",
             "type": 3,
             "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },   
-        {
-            "key": "csp_Nkdy",
-            "name": "难看",
-            "type": 3,
-            "api": "csp_Nkdy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
