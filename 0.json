@@ -12,6 +12,16 @@
             "filterable": 0
         },
         {
+            "key": "csp_Bili",
+            "name": "哔哔合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://饭太硬.ga/x/json/bilibili.json"
+        },
+        {
             "key": "农民",
             "name": "农民",
             "type": 3,
@@ -20,6 +30,26 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/json/nm.json"
+        },
+        {
+            "key": "csp_AppTT",
+            "name": "图图",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+        },
+        {
+            "key": "csp_BuLei",
+            "name": "布雷",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://movie.bulei.cc"
         },
         {
             "key": "csp_kuaikan",
@@ -45,25 +75,6 @@
             "type": 3,
             "api": "csp_Czsapp",
             "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_AppTT",
-            "name": "图图",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-        },
-        {
-            "key": "csp_BuLei",
-            "name": "布雷",
-            "type": 3,
-            "api": "csp_BuLei",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -166,7 +177,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://api-tx.11ty.top"
+            "ext": "https://api-aws.11ty.top"
         },
         {
             "key": "csp_fantuan",
@@ -193,6 +204,15 @@
             "name": "胖虎",
             "type": 3,
             "api": "csp_Panghu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Vofl",
+            "name": "Vofl",
+            "type": 3,
+            "api": "csp_Voflix",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -400,16 +420,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Bili",
-            "name": "哔哔合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://饭太硬.ga/x/json/bilibili.json"
         },
         {
             "key": "csp_Biliych",
