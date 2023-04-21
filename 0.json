@@ -19,7 +19,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/nm.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/json/nm.json"
         },
         {
             "key": "csp_kuaikan",
@@ -439,7 +439,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx1.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/json/xx1.json"
         },
         {
             "key": "少儿教育",
@@ -449,7 +449,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx2.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/json/xx2.json"
         },
         {
             "key": "小学课堂",
@@ -459,7 +459,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx3.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/json/xx3.json"
         },
         {
             "key": "初中课堂",
@@ -469,7 +469,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx4.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/json/xx4.json"
         },
         {
             "key": "高中教育",
@@ -479,14 +479,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx5.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/json/xx5.json"
         }
     ],
     "lives": [
         {
             "name": "live",
             "type": 0,
-            "url": "https://dxawi.github.io/0/tvlive.txt"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt"
         }
     ],
     "parses": [
@@ -756,5 +756,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;613066b0150c902b3d51bde7a433be83"
+       "spider":"https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;613066b0150c902b3d51bde7a433be83"
 }
