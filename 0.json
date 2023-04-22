@@ -145,7 +145,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "csp_Paper",
@@ -156,7 +156,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "YiSo",
@@ -167,7 +167,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "csp_Bd",
@@ -371,7 +371,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "UpYun",
@@ -382,7 +382,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "push_agent",
@@ -392,7 +392,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "csp_If101",
