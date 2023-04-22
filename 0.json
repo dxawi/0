@@ -52,6 +52,27 @@
             "ext": "http://movie.bulei.cc"
         },
         {
+            "key": "csp_Xinsj",
+            "name": "新视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.6080dy3.com"
+        },
+        {
+            "key": "csp_YQKAPP",
+            "name": "一起看",
+            "type": 3,
+            "api": "csp_YQKAPP",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://api-aws.11ty.top"
+        },
+        {
             "key": "csp_kuaikan",
             "name": "快看",
             "type": 3,
@@ -80,16 +101,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Bd",
-            "name": "哔嘀",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_DiDuan",
             "name": "低端",
             "type": 3,
@@ -97,6 +108,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
+        },
+        {
+            "key": "csp_Lib",
+            "name": "Libvio",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tv.libvio.cc/"
         },
         {
             "key": "csp_AppMr",
@@ -149,35 +170,14 @@
             "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
         },
         {
-            "key": "csp_Lib",
-            "name": "Libvio",
+            "key": "csp_Bd",
+            "name": "哔嘀",
             "type": 3,
-            "api": "csp_Libvio",
+            "api": "csp_Bdys01",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tv.libvio.cc/"
-        },
-        {
-            "key": "csp_Xinsj",
-            "name": "新视觉",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.6080dy3.com"
-        },
-        {
-            "key": "csp_YQKAPP",
-            "name": "一起看",
-            "type": 3,
-            "api": "csp_YQKAPP",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://api-aws.11ty.top"
+            "filterable": 1
         },
         {
             "key": "csp_fantuan",
@@ -766,5 +766,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;613066b0150c902b3d51bde7a433be83"
+       "spider":"https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;43927c91e9c631d24057be2e400dc8a5"
 }
