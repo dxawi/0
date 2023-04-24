@@ -395,28 +395,10 @@
             "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
-            "key": "csp_If101",
-            "name": "If101(墙外)",
-            "type": 3,
-            "api": "csp_If101",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Nbys",
             "name": "泥视频(墙外)",
             "type": 3,
             "api": "csp_NiNi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_trj",
-            "name": "唐人街(墙外)",
-            "type": 3,
-            "api": "csp_Tangrenjie",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
