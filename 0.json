@@ -238,15 +238,6 @@
             "filterable": 1
         },
         {
-            "key": "Bttwoo",
-            "name": "Bttwoo",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Auete",
             "name": "Auete",
             "type": 3,
