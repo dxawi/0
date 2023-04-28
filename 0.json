@@ -479,7 +479,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt"
+            "url": "https://dxawi.github.io/0/tvlive.txt"
         }
     ],
     "parses": [
