@@ -39,9 +39,6 @@ CCTV-16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226
 CCTV-4,http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 地方,#genre#
-凤凰资讯高清,http://gxdl-lhs.8866.org:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文高清,http://gxdl-lhs.8866.org:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港高清,http://gxdl-lhs.8866.org:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
 湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
