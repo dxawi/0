@@ -19,7 +19,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/bili.json"
+            "ext": "http://饭太硬.ga/x/json/bilibili.json"
         },
         {
             "key": "csp_WoGG",
@@ -403,7 +403,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/biliych.json"
+            "ext": "http://饭太硬.ga/x/json/biliych.json"
         },
         {
             "key": "dr_兔小贝",
