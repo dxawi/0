@@ -53,14 +53,24 @@
             "ext": "https://api-aws.11ty.top"
         },
         {
-            "key": "csp_AppTT",
-            "name": "图图",
+            "key": "csp_Vofl",
+            "name": "Voflix",
             "type": 3,
-            "api": "csp_AppTT",
+            "api": "csp_Voflix",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+            "filterable": 1
+        },
+        {
+            "key": "PanSearch",
+            "name": "盘搜索(阿里)",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "https://php.tv73.repl.co/訂閱/tk.php"
         },
         {
             "key": "csp_kuaikan",
@@ -276,15 +286,6 @@
             "name": "胖虎",
             "type": 3,
             "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Vofl",
-            "name": "Vofl",
-            "type": 3,
-            "api": "csp_Voflix",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -792,5 +793,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://dxawi.github.io/1/json/colorful.png",
-       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;e911ef9b3f3c5101a90cdfd022f566f0"
+       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;ef9c0413c4a3d077ee95325fb5d1d02b"
 }
