@@ -63,27 +63,6 @@
             "ext": "dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
         {
-            "key":"drpy_js_乐猪TV",
-            "name":"乐猪TV[js]",
-            "type":3,
-            "api":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/branch/master/libs/drpy2.min.js",
-            "ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/js/乐猪TV.js"
-        },
-        {
-            "key":"drpy_js_鸭奈飞",
-            "name":"鸭奈飞[js]",
-            "type":3,
-            "api":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/branch/master/libs/drpy2.min.js",
-            "ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/js/鸭奈飞.js"
-        },
-        {
-            "key":"drpy_js_HDmoli",
-            "name":"HDmoli[js]",
-            "type":3,
-            "api":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/branch/master/libs/drpy2.min.js",
-            "ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/js/HDmoli.js"
-        },
-        {
             "key": "csp_kuaikan",
             "name": "快看",
             "type": 3,
@@ -167,17 +146,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },     
-        {
-            "key": "csp_Paper",
-            "name": "小纸条(阿里)",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
             "key": "YiSo",
