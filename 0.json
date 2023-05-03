@@ -70,7 +70,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://php.tv73.repl.co/訂閱/tk.php"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
             "key": "csp_kuaikan",
