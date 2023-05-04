@@ -33,7 +33,7 @@
         },
         {
             "key": "PanSearch",
-            "name": "盘搜索(阿里)",
+            "name": "盘搜索(阿里搜索)",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
@@ -44,7 +44,7 @@
         },
         {
             "key": "七夜",
-            "name": "七夜(阿里)",
+            "name": "七夜(阿里搜索)",
             "type": 3,
             "api": "csp_Dovx",
             "searchable": 1,
@@ -409,7 +409,7 @@
         },
         {
             "key": "YiSo",
-            "name": "一搜(阿里)",
+            "name": "一搜(阿里搜索)",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
@@ -420,7 +420,7 @@
         },
         {
             "key": "PanSou",
-            "name": "盘搜(阿里)",
+            "name": "盘搜(阿里搜索)",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -431,7 +431,7 @@
         },
         {
             "key": "UpYun",
-            "name": "云搜(阿里)",
+            "name": "云搜(阿里搜索)",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -442,7 +442,7 @@
         },
         {
             "key": "push_agent",
-            "name": "推送(阿里)",
+            "name": "推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
