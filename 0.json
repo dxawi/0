@@ -32,6 +32,28 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
+            "key": "PanSearch",
+            "name": "盘搜索(阿里)",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+        },
+        {
+            "key": "七夜",
+            "name": "七夜(阿里)",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+        },
+        {
             "key": "农民",
             "name": "农民",
             "type": 3,
@@ -384,17 +406,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-        },
-        {
-            "key": "PanSearch",
-            "name": "盘搜索(阿里)",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
             "key": "YiSo",
