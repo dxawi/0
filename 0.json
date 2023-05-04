@@ -32,28 +32,6 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
-            "key": "PanSearch",
-            "name": "盘搜索(阿里搜索)",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
-        },
-        {
-            "key": "七夜",
-            "name": "七夜(阿里搜索)",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
-        },
-        {
             "key": "农民",
             "name": "农民",
             "type": 3,
@@ -141,6 +119,15 @@
             "ext": "http://v.ilime.cc$$$login$$$dxawi111$$$dxawi111"
         },
         {
+            "key": "Dm84",
+            "name": "动漫巴士",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key":"drpy_js_LIBVIO",
             "name":"LIBVIO[js]",
             "type":3,
@@ -202,6 +189,27 @@
             "type":3,
             "api":"./lib/drpy2.min.js",
             "ext":"./js/皮皮鸭.js"
+        },
+        {
+            "key":"drpy_js_FreeOK",
+            "name":"FreeOK[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/FreeOK.js"
+        },
+        {
+            "key":"drpy_js_骚火电影",
+            "name":"骚火电影[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/骚火电影.js"
+        },
+        {
+            "key":"drpy_js_爱弹幕",
+            "name":"爱弹幕[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/爱弹幕.js"
         },
         {
             "key": "csp_Lib",
@@ -319,15 +327,6 @@
             "filterable": 1
         },
         {
-            "key": "Dm84",
-            "name": "动漫",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_555",
             "name": "三个五",
             "type": 3,
@@ -406,6 +405,28 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
+        },
+        {
+            "key": "PanSearch",
+            "name": "盘搜索(阿里搜索)",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+        },
+        {
+            "key": "七夜",
+            "name": "七夜(阿里搜索)",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
             "key": "YiSo",
