@@ -32,6 +32,13 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
+            "key":"drpy_js_FreeOK",
+            "name":"FreeOK[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/FreeOK.js"
+        },
+        {
             "key": "农民",
             "name": "农民",
             "type": 3,
@@ -90,16 +97,6 @@
             "filterable": 0
         },
         {
-            "key": "csp_Xinsj",
-            "name": "新视觉",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.6080dy3.com"
-        },
-        {
             "key": "csp_BuLei",
             "name": "布雷",
             "type": 3,
@@ -117,13 +114,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key":"drpy_js_FreeOK",
-            "name":"FreeOK[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/FreeOK.js"
         },
         {
             "key":"drpy_js_骚火电影",
