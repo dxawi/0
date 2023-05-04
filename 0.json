@@ -53,15 +53,6 @@
             "ext": "https://api-aws.11ty.top"
         },
         {
-            "key": "csp_Vofl",
-            "name": "Voflix",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_kuaikan",
             "name": "快看",
             "type": 3,
@@ -128,6 +119,27 @@
             "filterable": 1
         },
         {
+            "key":"drpy_js_FreeOK",
+            "name":"FreeOK[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/FreeOK.js"
+        },
+        {
+            "key":"drpy_js_骚火电影",
+            "name":"骚火电影[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/骚火电影.js"
+        },
+        {
+            "key":"drpy_js_爱弹幕",
+            "name":"爱弹幕[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/爱弹幕.js"
+        },
+        {
             "key":"drpy_js_LIBVIO",
             "name":"LIBVIO[js]",
             "type":3,
@@ -189,27 +201,6 @@
             "type":3,
             "api":"./lib/drpy2.min.js",
             "ext":"./js/皮皮鸭.js"
-        },
-        {
-            "key":"drpy_js_FreeOK",
-            "name":"FreeOK[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/FreeOK.js"
-        },
-        {
-            "key":"drpy_js_骚火电影",
-            "name":"骚火电影[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/骚火电影.js"
-        },
-        {
-            "key":"drpy_js_爱弹幕",
-            "name":"爱弹幕[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/爱弹幕.js"
         },
         {
             "key": "csp_Lib",
