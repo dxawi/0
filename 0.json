@@ -209,14 +209,11 @@
             "ext":"./js/素白白.js"
         }, 
         {
-            "key": "农民",
-            "name": "农民",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/nm.json"
+            "key":"drpy_js_农民影视",
+            "name":"农民影视[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/农民影视.js"
         },
         {
             "key": "csp_Lib",
