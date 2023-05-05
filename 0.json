@@ -560,21 +560,6 @@
     ],
     "parses": [
         {
-            "name": "聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "并发",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "轮询",
-            "type": 2,
-            "url": "Sequence"
-        },
-        {
             "name": "777",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url="
@@ -591,14 +576,24 @@
             "url": "https://jx.jsonplayer.com/player/?url="
         },
         {
-		"name": "xmflv",
-		"type": 0,
-		"url": "https://jx.xmflv.com/?url="
+            "name":"zhanlangbu",
+            "type":0,
+            "url":"https://jx.zhanlangbu.com/?url="
+        },
+        {
+            "name":"m3u8",
+            "type":0,
+            "url":"https://jx.m3u8.pw/?url="
+        },
+        {
+		    "name": "xmflv",
+		    "type": 0,
+	    	"url": "https://jx.xmflv.com/?url="
 		},
 		{
-		"name": "yemu",
-		"type": 0,
-		"url": "https://www.yemu.xyz/?url="
+	    	"name": "yemu",
+	    	"type": 0,
+	    	"url": "https://www.yemu.xyz/?url="
 		} 
         ],
     "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","csm3u8","QQ","PPTV","ltnb","rx","CL4K","xfyun","wuduzy","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
