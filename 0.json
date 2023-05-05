@@ -367,6 +367,13 @@
             "ext": "https://www.69mj.com/xgapp.php/v2/"
         },
         {
+            "key":"drpy_js_酷",
+            "name":"优[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/优酷.js"
+        },
+        {
             "key": "csp_SP33",
             "name": "360(解析)",
             "type": 3,
@@ -378,7 +385,7 @@
         },
         {
             "key": "Qtv",
-            "name": "企鹅(解析)",
+            "name": "腾(解析)",
             "type": 3,
             "api": "csp_Qtv",
             "searchable": 1,
@@ -388,7 +395,7 @@
         },
         {
             "key": "Itv",
-            "name": "奇异果(解析)",
+            "name": "爱(解析)",
             "type": 3,
             "api": "csp_Itv",
             "quickSearch": 1,
@@ -398,7 +405,7 @@
         },
         {
             "key": "Mtv",
-            "name": "芒果(解析)",
+            "name": "芒(解析)",
             "type": 3,
             "api": "csp_Mtv",
             "searchable": 1,
