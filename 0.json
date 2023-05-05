@@ -202,47 +202,12 @@
             "ext":"./js/皮皮鸭.js"
         },
         {
-            "key":"drpy_js_360影视",
-            "name":"360[js]",
+            "key":"drpy_js_素白白",
+            "name":"素白白[js]",
             "type":3,
             "api":"./lib/drpy2.min.js",
-            "ext":"./js/360影视.js"
-        },
-        {
-            "key":"drpy_js_爱",
-            "name":"爱[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/爱.js"
-        },
-        {
-            "key":"drpy_js_优",
-            "name":"优[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/优.js"
-        },
-        {
-            "key":"drpy_js_腾",
-            "name":"腾[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/腾.js"
-        },
-        {
-            "key":"drpy_js_芒",
-            "name":"芒[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/芒.js"
-        },
-        {
-            "key":"drpy_js_狗",
-            "name":"狗[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/狗.js"
-        },
+            "ext":"./js/素白白.js"
+        }, 
         {
             "key": "农民",
             "name": "农民",
@@ -481,6 +446,48 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+        },
+        {
+            "key":"drpy_js_360影视",
+            "name":"360[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/360影视.js"
+        },
+        {
+            "key":"drpy_js_爱",
+            "name":"爱[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/爱.js"
+        },
+        {
+            "key":"drpy_js_优",
+            "name":"优[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/优.js"
+        },
+        {
+            "key":"drpy_js_腾",
+            "name":"腾[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/腾.js"
+        },
+        {
+            "key":"drpy_js_芒",
+            "name":"芒[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/芒.js"
+        },
+        {
+            "key":"drpy_js_狗",
+            "name":"狗[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/狗.js"
         },
         {
             "key": "csp_Nbys",
