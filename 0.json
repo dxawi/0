@@ -202,6 +202,48 @@
             "ext":"./js/皮皮鸭.js"
         },
         {
+            "key":"drpy_js_360影视",
+            "name":"360[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/360影视.js"
+        },
+        {
+            "key":"drpy_js_爱",
+            "name":"爱[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/爱.js"
+        },
+        {
+            "key":"drpy_js_优",
+            "name":"优[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/优.js"
+        },
+        {
+            "key":"drpy_js_腾",
+            "name":"腾[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/腾.js"
+        },
+        {
+            "key":"drpy_js_芒",
+            "name":"芒[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/芒.js"
+        },
+        {
+            "key":"drpy_js_狗",
+            "name":"狗[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/狗.js"
+        },
+        {
             "key": "农民",
             "name": "农民",
             "type": 3,
@@ -374,53 +416,6 @@
             "quickSearch": 1,
             "searchable": 1,
             "ext": "https://www.69mj.com/xgapp.php/v2/"
-        },
-        {
-            "key":"drpy_js_酷",
-            "name":"优[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/优酷.js"
-        },
-        {
-            "key": "csp_SP33",
-            "name": "360(解析)",
-            "type": 3,
-            "api": "csp_SP33",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Qtv",
-            "name": "腾(解析)",
-            "type": 3,
-            "api": "csp_Qtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Itv",
-            "name": "爱(解析)",
-            "type": 3,
-            "api": "csp_Itv",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Mtv",
-            "name": "芒(解析)",
-            "type": 3,
-            "api": "csp_Mtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
         },
         {
             "key": "PanSearch",
@@ -600,6 +595,12 @@
             "name":"m3u8",
             "type":0,
             "url":"https://jx.m3u8.pw/?url="
+        },
+        {
+            "name":"365",
+            "type":0,
+            "url":"https://chaxun.truechat365.com/?url=",
+            "ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}
         },
         {
 		    "name": "xmflv",
