@@ -30,7 +30,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
-        },   
+        },
+        {
+            "key":"drpy_js_农民",
+            "name":"农民[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/农民.js"
+        },
         {
             "key": "csp_YQKAPP",
             "name": "一起看",
@@ -98,15 +105,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.6080dy3.com"
-        },
-        {
-            "key": "csp_Vofl",
-            "name": "Voflix",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "Dm84",
@@ -207,23 +205,6 @@
             "type":3,
             "api":"./lib/drpy2.min.js",
             "ext":"./js/素白白.js"
-        }, 
-        {
-            "key":"drpy_js_农民影视",
-            "name":"农民影视[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/农民影视.js"
-        },
-        {
-            "key": "csp_Lib",
-            "name": "Libvio",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tv.libvio.cc/"
         },
         {
             "key": "csp_AppMr",
