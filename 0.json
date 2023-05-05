@@ -107,6 +107,16 @@
             "ext": "http://v.ilime.cc$$$login$$$dxawi111$$$dxawi111"
         },
         {
+            "key": "csp_Xinsj",
+            "name": "新视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.6080dy3.com"
+        },
+        {
             "key": "Dm84",
             "name": "动漫巴士",
             "type": 3,
@@ -275,6 +285,15 @@
             "name": "胖虎",
             "type": 3,
             "api": "csp_Panghu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Bttoo",
+            "name": "2BT",
+            "type": 3,
+            "api": "csp_Bttwoo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -806,5 +825,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://dxawi.github.io/1/json/colorful.png",
-       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;ef9c0413c4a3d077ee95325fb5d1d02b"
+       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;528559dc26fc8138875e8bf32f670cac"
 }
