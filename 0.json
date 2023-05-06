@@ -135,11 +135,11 @@
             "filterable": 1
         },
         {
-            "key":"drpy_js_宅腐影视2",
-            "name":"宅腐影视2[js]",
+            "key":"drpy_js_宅腐影视",
+            "name":"宅腐影视[js]",
             "type":3,
             "api":"./lib/drpy2.min.js",
-            "ext":"./js/宅腐影视2.js"
+            "ext":"./js/宅腐影视.js"
         },
         {
             "key":"drpy_js_FreeOK",
