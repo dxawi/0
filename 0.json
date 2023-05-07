@@ -152,13 +152,6 @@
             "ext":"./js/HDmoli.js"
         },
         {
-            "key":"drpy_js_农民",
-            "name":"农民[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/农民.js"
-        },
-        {
             "key":"drpy_js_花猫TV",
             "name":"花猫TV[js]",
             "type":3,
