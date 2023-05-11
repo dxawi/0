@@ -386,18 +386,44 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
-            "key":"drpy_js_360影视",
-            "name":"360[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/360影视.js"
+            "key": "csp_SP33",
+            "name": "360(解析)",
+            "type": 3,
+            "api": "csp_SP33",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
         },
         {
-            "key":"drpy_js_爱",
-            "name":"爱[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/爱.js"
+            "key": "Qtv",
+            "name": "腾(解析)",
+            "type": 3,
+            "api": "csp_Qtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Itv",
+            "name": "爱(解析)",
+            "type": 3,
+            "api": "csp_Itv",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Mtv",
+            "name": "芒(解析)",
+            "type": 3,
+            "api": "csp_Mtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key":"drpy_js_优",
@@ -405,20 +431,6 @@
             "type":3,
             "api":"./lib/drpy2.min.js",
             "ext":"./js/优.js"
-        },
-        {
-            "key":"drpy_js_腾",
-            "name":"腾[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/腾.js"
-        },
-        {
-            "key":"drpy_js_芒",
-            "name":"芒[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/芒.js"
         },
         {
             "key":"drpy_js_狗",
@@ -782,5 +794,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://dxawi.github.io/1/json/colorful.png",
-       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;026ef7e0f42062200a7ad97d5585caad"
+       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;ca446b243a4b3263cc3e3da6ea2e9628"
 }
