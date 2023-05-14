@@ -1,12 +1,12 @@
 
 {
-    "wallpaper": "https://dxawi.github.io/1/json/colorful.png",
-    "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;8ab1e35a1845822bbeec2a7e647f809f",
+    "wallpaper": "https://raw.iqiq.io/dxawi/1/main/json/colorful.png",
+    "spider": "https://raw.iqiq.io/dxawi/1/main/jar/cc.jar;md5;8ab1e35a1845822bbeec2a7e647f809f",
     "lives": [
         {
             "name": "live",
             "type": 0,
-            "url": "https://dxawi.github.io/0/tvlive.txt"
+            "url": "https://raw.iqiq.io/dxawi/0/main/tvlive.txt"
         }
     ],
     "sites": [
@@ -28,7 +28,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/bilibili.json"
+            "ext": "https://raw.iqiq.io/dxawi/1/main/json/bilibili.json"
         },
         {
             "key": "csp_WoGG",
@@ -39,16 +39,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
-        },
-        {
-            "key": "csp_Nmys",
-            "name": "农民",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/nm.json"
         },
         {
             "key": "csp_YQKAPP",
@@ -194,6 +184,16 @@
             "type":3,
             "api":"./lib/drpy2.min.js",
             "ext":"./js/宅腐影视.js"
+        },
+        {
+            "key": "csp_Nmys",
+            "name": "农民",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.iqiq.io/dxawi/1/main/json/nm.json"
         },
         {
             "key": "csp_AppMr",
@@ -465,7 +465,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/biliych.json"
+            "ext": "https://raw.iqiq.io/dxawi/1/main/json/biliych.json"
         },
         {
             "key": "dr_兔小贝",
@@ -485,7 +485,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx1.json"
+            "ext": "https://raw.iqiq.io/dxawi/1/main/json/xx1.json"
         },
         {
             "key": "少儿教育",
@@ -495,7 +495,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx2.json"
+            "ext": "https://raw.iqiq.io/dxawi/1/main/json/xx2.json"
         },
         {
             "key": "小学课堂",
@@ -505,7 +505,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx3.json"
+            "ext": "https://raw.iqiq.io/dxawi/1/main/json/xx3.json"
         },
         {
             "key": "初中课堂",
@@ -515,7 +515,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx4.json"
+            "ext": "https://raw.iqiq.io/dxawi/1/main/json/xx4.json"
         },
         {
             "key": "高中教育",
@@ -525,7 +525,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx5.json"
+            "ext": "https://raw.iqiq.io/dxawi/1/main/json/xx5.json"
         }
     ],
     "parses": [
