@@ -1,4 +1,4 @@
-
+//使用FongMi影视app效果更佳，完全免费，无广告，手机和TV端app下载 https://t.me/fongmi_release 群组 https://t.me/fongmi_offical/54024
 {
     "spider": "https://dxawi.github.io/1/jar/cc.jar;md5;fa300af28b437c2b59a03554edf72fc8",
     "lives": [
@@ -651,12 +651,6 @@
             "name":"m3u8",
             "type":0,
             "url":"https://jx.m3u8.pw/?url="
-        },
-        {
-            "name":"365",
-            "type":0,
-            "url":"https://chaxun.truechat365.com/?url=",
-            "ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}
         },
         {
 		    "name": "xmflv",
