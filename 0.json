@@ -3,11 +3,25 @@
     "spider": "https://dxawi.github.io/1/jar/cc.jar;md5;fa300af28b437c2b59a03554edf72fc8",
     "lives": [
         {
-            "name": "live",
+            "name": "tvlive",
             "type": 0,
-            "url": "https://dxawi.github.io/0/tvlive.txt"
+            "url": "https://dxawi.github.io/0/tvlive.txt",
+            "playerType": 1
         }
     ],
+    "rules": [
+        {
+        "hosts": [
+            "vip.ffzy",
+            "vip.lz",
+            "hd.lz"
+         ],
+        "regex":[
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+         ]
+      }
+   ],
     "sites": [
         {
             "key": "js豆瓣",
@@ -54,7 +68,6 @@
             "name": "一起看",
             "type": 3,
             "api": "csp_YQKAPP",
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -83,7 +96,6 @@
             "name": "厂长",
             "type": 3,
             "api": "csp_Czsapp",
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -284,7 +296,6 @@
             "name": "Cokemv",
             "type": 3,
             "api": "csp_Cokemv",
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
