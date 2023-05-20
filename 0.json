@@ -351,16 +351,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Bd",
-            "name": "哔嘀",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Bttoo",
             "name": "2BT",
             "type": 3,
