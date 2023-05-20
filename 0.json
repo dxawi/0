@@ -19,7 +19,7 @@
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
          ]
-      }
+        }
    ],
     "sites": [
         {
@@ -197,6 +197,39 @@
             "type":3,
             "api":"./lib/drpy2.min.js",
             "ext":"./js/宅腐影视.js"
+        },
+        {
+            "key": "七夜",
+            "name": "七夜(阿里搜索)",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+        },
+        {
+            "key": "YiSo",
+            "name": "一搜(阿里搜索)",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+        },
+        {
+            "key": "UpYun",
+            "name": "云搜(阿里搜索)",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
             "key": "PanSearch",
@@ -415,28 +448,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.ysgc.fun"
-        },
-        {
-            "key": "YiSo",
-            "name": "一搜(阿里搜索)",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
-        },
-        {
-            "key": "UpYun",
-            "name": "云搜(阿里搜索)",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
             "key": "push_agent",
