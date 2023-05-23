@@ -1,3 +1,5 @@
+//这个不干了，请用https://xhdwc.tk/0
+
 {
     "spider": "https://dxawi.github.io/1/jar/cc.jar;md5;fa300af28b437c2b59a03554edf72fc8",
     "lives": [
@@ -38,16 +40,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
-        },
-        {
-            "key": "快看资源",
-            "name": "快看资源",
-            "type": 1,
-            "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "泰国剧", "海外剧", "国产动漫", "日韩动漫", "欧美动漫", "国内综艺", "海外综艺", "动作片", "喜剧片", "爱情片", "动画片", "冒险片", "武侠片", "科幻片", "战争片", "恐怖片","灾难片", "悬疑片", "纪录片", "惊悚片", "奇幻片", "剧情片"]
         },
         {
             "key": "csp_appys_酷影",
