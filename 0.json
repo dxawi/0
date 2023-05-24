@@ -13,7 +13,7 @@
     "sites": [
         {
             "key": "csp_77",
-            "name": "七七",
+            "name": "七七【这个不干了，请用https://xhdwc.tk/0】",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -22,7 +22,7 @@
         },
         {
             "key": "js豆瓣",
-            "name": "豆瓣推荐",
+            "name": "豆瓣推荐【这个不干了，请用https://xhdwc.tk/0】",
             "type": 3,
             "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
             "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js",
