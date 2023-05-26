@@ -1,7 +1,7 @@
 //这个不干了，请用https://xhdwc.tk/0
 
 {
-    "spider": "https://dxawi.github.io/1/jar/cc.jar;md5;fa300af28b437c2b59a03554edf72fc8",
+    "spider": "https://dxawi.github.io/1/jar/cc.jar;md5;f89c43655a15d4964c38573649a56702",
     "lives": [
         {
             "name": "tvlive",
@@ -11,6 +11,17 @@
         }
     ],
     "sites": [
+        
+        {
+            "key": "js豆瓣",
+            "name": "豆瓣推荐【这个不干了，请用https://xhdwc.tk/0】",
+            "type": 3,
+            "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
+            "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
         {
             "key": "csp_77",
             "name": "七七【这个不干了，请用https://xhdwc.tk/0】",
@@ -21,14 +32,14 @@
             "filterable": 1
         },
         {
-            "key": "js豆瓣",
-            "name": "豆瓣推荐【这个不干了，请用https://xhdwc.tk/0】",
+            "key": "csp_Nmys",
+            "name": "农民",
             "type": 3,
-            "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
-            "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/1/json/nm.json"
         },
         {
             "key": "csp_Bili",
@@ -51,6 +62,53 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
+            "key": "csp_AppTT",
+            "name": "图图",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+        },
+        {
+            "key": "csp_kuaikan",
+            "name": "快看",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key":"drpy_js_FreeOK",
+            "name":"FreeOK[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/FreeOK.js"
+        },
+        {
+            "key":"drpy_js_HDmoli",
+            "name":"HDmoli[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/HDmoli.js"
+        },
+        {
+            "key":"drpy_js_花猫TV",
+            "name":"花猫TV[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/花猫TV.js"
+        },
+        {
+            "key":"drpy_js_达达龟",
+            "name":"达达龟[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/达达龟.js"
+        },
+        {
             "key": "csp_appys_酷影",
             "name": "酷影",
             "type": 3,
@@ -69,15 +127,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://api-aws.11ty.top"
-        },
-        {
-            "key": "csp_kuaikan",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_Czsapp",
@@ -150,41 +199,6 @@
             "ext": "./js/网飞.TV.js"
         },
         {
-            "key": "drpy_js_真不卡",
-            "name": "真不卡[js]",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/真不卡.js"
-        },
-        {
-            "key":"drpy_js_FreeOK",
-            "name":"FreeOK[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/FreeOK.js"
-        },
-        {
-            "key":"drpy_js_HDmoli",
-            "name":"HDmoli[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/HDmoli.js"
-        },
-        {
-            "key":"drpy_js_花猫TV",
-            "name":"花猫TV[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/花猫TV.js"
-        },
-        {
-            "key":"drpy_js_达达龟",
-            "name":"达达龟[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/达达龟.js"
-        },
-        {
             "key":"drpy_js_骚火电影",
             "name":"骚火电影[js]",
             "type":3,
@@ -241,16 +255,6 @@
             "filterable": 0,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
-        },
-        {
-            "key": "csp_Nmys",
-            "name": "农民",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/nm.json"
         },
         {
             "key": "csp_AppMr",
@@ -725,7 +729,8 @@
     {
       "name": "非凡廣告",
       "hosts": [
-        "vip.ffzy"
+        "vip.ffzy",
+        "hd.ffzy"
       ],
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
