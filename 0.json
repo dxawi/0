@@ -1,7 +1,7 @@
 //这个不干了，请用https://xhdwc.tk/0
 
 {
-    "spider": "https://dxawi.github.io/1/jar/cc.jar;md5;f89c43655a15d4964c38573649a56702",
+    "spider": "https://dxawi.github.io/1/jar/cc.jar;md5;ebb1f03776fe4cb56896b10b7834739c",
     "lives": [
         {
             "name": "tvlive",
@@ -24,7 +24,7 @@
         },
         {
             "key": "csp_77",
-            "name": "七七【这个不干了，请用https://xhdwc.tk/0】",
+            "name": "七七",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -62,16 +62,6 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
-            "key": "csp_AppTT",
-            "name": "图图",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-        },
-        {
             "key": "csp_kuaikan",
             "name": "快看",
             "type": 3,
@@ -98,6 +88,26 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_Xinsj",
+            "name": "新视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.6080yy2.com/"
+        },
+        {
+            "key": "csp_AppTT",
+            "name": "图图",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
         {
             "key":"drpy_js_FreeOK",
@@ -128,16 +138,6 @@
             "ext":"./js/达达龟.js"
         },
         {
-            "key": "csp_appys_酷影",
-            "name": "酷影",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://kuyun.realku.cn/api.php/app/"
-        },
-        {
             "key": "csp_YQKAPP",
             "name": "一起看",
             "type": 3,
@@ -164,16 +164,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-            "key": "csp_Xinsj",
-            "name": "新视觉",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.6080dy3.com"
         },
         {
             "key": "Dm84",
@@ -204,11 +194,15 @@
             "filterable": 1
         },
         {
-            "key": "drpy_js_豆瓣",
-            "name": "豆瓣[js]",
+            "key": "Zhaozy",
+            "name": "找资源(阿里搜索)",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/drpy.js"
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$fanfan$$$qqq111"
         },
         {
             "key": "drpy_js_网飞.TV",
@@ -229,7 +223,10 @@
             "name":"宅腐影视[js]",
             "type":3,
             "api":"./lib/drpy2.min.js",
-            "ext":"./js/宅腐影视.js"
+            "ext":"./js/宅腐影视.js",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "七夜",
@@ -299,7 +296,6 @@
             "name": "小苹果",
             "type": 3,
             "api": "csp_LiteApple",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -309,7 +305,7 @@
             "name": "2BT",
             "type": 3,
             "api": "csp_Bttwoo",
-            "searchable": 1,
+            "searchable": 0,
             "quickSearch": 1,
             "filterable": 1
         },
