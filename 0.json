@@ -1,7 +1,8 @@
 //这个不干了，请用https://xhdwc.tk/0
 
 {
-    "spider": "https://dxawi.github.io/1/jar/cc.jar;md5;ebb1f03776fe4cb56896b10b7834739c",
+    "wallpaper": "https://xhdwc.tk/api/img.php",
+    "spider": "https://dxawi.github.io/1/jar/cc.jar;md5;10eb32e7f059984cba18ee3a8b764470",
     "lives": [
         {
             "name": "tvlive",
@@ -62,15 +63,6 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
-            "key": "csp_kuaikan",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_fantuan",
             "name": "饭团",
             "type": 3,
@@ -90,8 +82,37 @@
             "filterable": 1
         },
         {
+            "key": "csp_AppTT",
+            "name": "图图",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+        },
+        {
+            "key": "csp_kuaikan",
+            "name": "快看",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_BuLei",
+            "name": "布雷",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"
+        },
+        {
             "key": "csp_Xinsj",
-            "name": "新视觉",
+            "name": "视觉",
             "type": 3,
             "api": "csp_Xinsj",
             "searchable": 1,
@@ -100,14 +121,14 @@
             "ext": "https://www.6080yy2.com/"
         },
         {
-            "key": "csp_AppTT",
-            "name": "图图",
+            "key": "csp_如如",
+            "name": "如如",
             "type": 3,
-            "api": "csp_AppTT",
+            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+            "ext": "http://cms.maoyingshi.cc/api.php/app/"
         },
         {
             "key":"drpy_js_FreeOK",
