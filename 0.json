@@ -2,7 +2,7 @@
 
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://dxawi.github.io/1/jar/cc.jar;md5;07099ea7d907106be7990ad9db491f2a",
+    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;07099ea7d907106be7990ad9db491f2a",
     "lives": [
         {
             "name": "tvlive",
@@ -15,7 +15,7 @@
         
         {
             "key": "js豆瓣",
-            "name": "豆瓣推荐【这个不干了，请用https://xhdwc.tk/0】",
+            "name": "豆瓣推荐",
             "type": 3,
             "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
             "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js",
@@ -80,16 +80,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_AppTT",
-            "name": "图图",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
         {
             "key": "csp_kuaikan",
