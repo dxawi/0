@@ -91,15 +91,6 @@
             "ext": "https://tv.libvio.cc/"
         },
         {
-            "key": "csp_Miaobo",
-            "name": "秒播",
-            "type": 3,
-            "api": "csp_Miaobo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_AppTT",
             "name": "图图",
             "type": 3,
@@ -137,6 +128,16 @@
             "quickSearch": 1,
             "filterable": 1
         }, 
+        {
+            "key": "如如",
+            "name": "如如",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms.maoyingshi.cc/api.php/app/"
+        },
         {
             "key":"drpy_js_FreeOK",
             "name":"FreeOK[js]",
