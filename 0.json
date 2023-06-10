@@ -2,7 +2,7 @@
 
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;5ce71caef727c72289254da2925f7af5",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;f29e9bc19d40c5d4cbb271ec41172c74",
     "lives": [
         {
             "name": "tvlive",
@@ -54,13 +54,41 @@
         },
         {
             "key": "csp_WoGG",
-            "name": "来自饭太硬(阿里)",
+            "name": "玩偶哥哥(饭太硬阿里)",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$http://wogg.xyz/"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$http://tvfan.xxooo.cf/"
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "厂长",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_DiDuan",
+            "name": "低端",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "csp_Lib",
+            "name": "Libvio",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tv.libvio.cc/"
         },
         {
             "key": "csp_Miaobo",
@@ -108,17 +136,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },     
-        {
-            "key": "csp_如如",
-            "name": "如如",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cms.maoyingshi.cc/api.php/app/"
-        },
+        }, 
         {
             "key":"drpy_js_FreeOK",
             "name":"FreeOK[js]",
@@ -146,34 +164,6 @@
             "type":3,
             "api":"./lib/drpy2.min.js",
             "ext":"./js/达达龟.js"
-        },
-        {
-            "key": "csp_Czsapp",
-            "name": "厂长",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_DiDuan",
-            "name": "低端",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "csp_Lib",
-            "name": "Libvio",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tv.libvio.cc/"
         },
         {
             "key": "csp_YQKAPP",
