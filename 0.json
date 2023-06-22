@@ -2,7 +2,7 @@
 
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;aa78ba556383bd1adbad7745478ea5aa",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;09baf4a03d362d96f0fc14085c343191",
     "lives": [
         {
             "name": "tvlive",
@@ -90,6 +90,36 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://tv.libvio.cc/"
+        },
+        {
+            "key":"csp_apple",
+            "name":"小苹果",
+            "type":3,
+            "api":"csp_LiteApple",
+            "playerType":1,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"如如",
+            "name":"如如",
+            "type":3,
+            "api":"csp_AppYsV2",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://longfei.lfytyl.com/api.php/app/"
+        },
+        {
+            "key":"黄黄",
+            "name":"黄黄",
+            "api":"csp_AppYsV2",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1,
+            "ext":"https://api123.adys.app/xgapp.php/v3/"
         },
         {
             "key": "csp_AppTT",
