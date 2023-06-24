@@ -180,15 +180,12 @@
             "ext":"./js/达达龟.js"
         },
         {
-			"key":"csp_侦探TV",
-			"name":"侦探",
-			"type":3,
-			"api":"csp_AppYsV2",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"http://get.lfytyl.com/api.php/app/"
-		},
+            "key":"drpy_js_奇优影院",
+            "name":"奇优影院[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/奇优影院.js"
+        },
 		{
             "key": "csp_aidi",
             "name": "爱迪",
