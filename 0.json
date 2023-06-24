@@ -180,6 +180,49 @@
             "ext":"./js/达达龟.js"
         },
         {
+			"key":"csp_侦探TV",
+			"name":"侦探",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://get.lfytyl.com/api.php/app/"
+		},
+		{
+            "key": "csp_aidi",
+            "name": "爱迪",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+        },
+		{
+			"key": "apv2_瑞丰",
+			"name": "瑞丰",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"ext": "http://www.miniku.cc/xgapp.php/v2/"
+		},
+		{
+			"key": "app_影视之光",
+			"name": "八仟",
+			"type": 1,
+			"api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod"
+		},
+        {
+            "key": "csp_beijihu",
+            "name": "极狐",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.kuin.one/api.php/app/"
+        },
+        {
             "key": "csp_YQKAPP",
             "name": "一起看",
             "type": 3,
