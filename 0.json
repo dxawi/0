@@ -44,16 +44,6 @@
             "ext": "https://dxawi.github.io/1/json/nm.json"
         },
         {
-            "key":"MV_vod",
-            "name":"MV",
-            "type":1,
-            "api":"https://mv.饭太硬.ml/mv/vod",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0
-        },
-        {
             "key": "csp_Bili",
             "name": "哔哔合集",
             "type": 3,
@@ -81,6 +71,17 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key":"csp_fantuan",
+            "name":"饭团",
+            "type":3,
+            "api":"csp_Fantuan",
+            "playerType":1,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://www.fantuan3.com"
         },
         {
             "key": "csp_DuoX",
@@ -129,15 +130,6 @@
             "quickSearch":1,
             "searchable":1,
             "ext":"https://api123.adys.app/xgapp.php/v3/"
-        },
-        {
-            "key":"csp_fantuan",
-            "name":"饭团",
-            "type":3,
-            "api":"csp_Fantuan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key": "csp_AppMr",
@@ -335,6 +327,16 @@
             "searchable":"1",
             "changeable":"1",
             "categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]
+        },
+        {
+            "key":"MV_vod",
+            "name":"MV",
+            "type":1,
+            "api":"https://mv.饭太硬.ml/mv/vod",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":0
         },
         {
             "key":"Zhaozy",
