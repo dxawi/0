@@ -64,6 +64,13 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
         },
         {
+            "key":"drpy_js_奇优影院",
+            "name":"奇优影院[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/奇优影院.js"
+        },
+        {
             "key":"drpy_js_FreeOK",
             "name":"FreeOK[js]",
             "type":3,
@@ -71,32 +78,11 @@
             "ext":"https://xhdwc.tk/js/FreeOK.js"
         },
         {
-            "key":"drpy_js_骚火电影",
-            "name":"骚火电影[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/骚火电影.js"
-        },
-        {
-            "key":"drpy_js_追剧兔",
-            "name":"追剧兔[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/追剧兔.js"
-        },
-        {
             "key":"drpy_js_花猫TV",
             "name":"花猫TV[js]",
             "type":3,
             "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/花猫TV.js"
-        },
-        {
-            "key":"drpy_js_奇优影院",
-            "name":"奇优影院[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/奇优影院.js"
         },
         {
             "key":"探探",
@@ -319,6 +305,20 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.ysgc.fun"
+        },
+        {
+            "key":"drpy_js_骚火电影",
+            "name":"骚火电影[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/骚火电影.js"
+        },
+        {
+            "key":"drpy_js_追剧兔",
+            "name":"追剧兔[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/追剧兔.js"
         },
         {
             "key":"量子",
