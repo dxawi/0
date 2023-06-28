@@ -85,6 +85,27 @@
             "ext":"https://xhdwc.tk/js/花猫TV.js"
         },
         {
+            "key":"drpy_js_爱迪[V2]",
+            "name":"爱迪[V2][js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/爱迪[V2].js"
+        },
+        {
+            "key":"drpy_js_速看100[V2]",
+            "name":"速看100[V2][js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/速看100[V2].js"
+        },
+        {
+            "key":"drpy_js_花猪影视[V2]",
+            "name":"花猪影视[V2][js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/花猪影视[V2].js"
+        },
+        {
             "key":"探探",
             "name":"探探",
             "type":3,
