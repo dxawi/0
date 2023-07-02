@@ -11,14 +11,13 @@
             "playerType": 1
         }
     ],
-    "sites": [
-        
+    "sites": [    
         {
-            "key": "js豆瓣",
-            "name": "豆瓣推荐",
-            "type": 3,
-            "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
-            "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js",
+            "key":"drpy_js_豆瓣",
+            "name":"豆瓣推荐[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/drpy.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
