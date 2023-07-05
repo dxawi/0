@@ -73,11 +73,11 @@
             "ext":"http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="
         },
         {
-            "key":"drpy_js_蘑菇",
-            "name":"蘑菇[js]",
+            "key":"drpy_js_FreeOK",
+            "name":"FreeOK[js]",
             "type":3,
             "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/蘑菇.js"
+            "ext":"https://xhdwc.tk/js/FreeOK.js"
         },
         {
             "key":"drpy_js_奇优影院",
@@ -85,13 +85,6 @@
             "type":3,
             "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/奇优影院.js"
-        },
-        {
-            "key":"drpy_js_FreeOK",
-            "name":"FreeOK[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/FreeOK.js"
         },
         {
             "key":"drpy_js_花猫TV",
@@ -202,16 +195,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key":"黄黄",
-            "name":"黄黄",
-            "api":"csp_AppYsV2",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1,
-            "ext":"https://api123.adys.app/xgapp.php/v3/"
         },
         {
             "key": "csp_AppMr",
