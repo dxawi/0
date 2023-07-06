@@ -63,6 +63,16 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
         },
         {
+            "key": "蘑菇",
+            "name": "蘑菇",
+            "type":3,
+            "changeable":1,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "filterable": 1,
+            "ext": "https://www.moguys.xyz/api.php/app/"
+        },
+        {
             "key":"csp_DuoX",
             "name":"多线",
             "type":3,
