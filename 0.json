@@ -373,58 +373,46 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
         },
         {
-            "key": "csp_SP33",
-            "name": "360(解析)",
-            "type": 3,
-            "api": "csp_SP33",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Qtv",
-            "name": "腾(解析)",
-            "type": 3,
-            "api": "csp_Qtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Itv",
-            "name": "爱(解析)",
-            "type": 3,
-            "api": "csp_Itv",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Mtv",
-            "name": "芒(解析)",
-            "type": 3,
-            "api": "csp_Mtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key":"drpy_js_优",
-            "name":"优[js]",
+            "key":"drpy_js_360影视",
+            "name":"360[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/优.js"
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/360影视.js"
         },
         {
-            "key":"drpy_js_狗",
-            "name":"狗[js]",
+            "key":"drpy_js_奇珍异兽",
+            "name":"爱奇艺[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/狗.js"
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/奇珍异兽.js"
+        },
+        {
+            "key":"drpy_js_优酷",
+            "name":"优酷[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/优酷.js"
+        },
+        {
+            "key":"drpy_js_腾云驾雾",
+            "name":"腾讯[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/腾云驾雾.js"
+        },
+        {
+            "key":"drpy_js_百忙无果",
+            "name":"芒果[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/百忙无果.js"
+        },
+        {
+            "key":"drpy_js_菜狗",
+            "name":"搜狗[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/菜狗.js"
         },
         {
             "key": "csp_Nbys",
