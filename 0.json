@@ -7,7 +7,7 @@
         {
             "name": "tvlive",
             "type": 0,
-            "url": "https://dxawi.github.io/0/tvlive.txt",
+            "url": "https://xhdwc.tk/tvlive.txt",
             "playerType": 1
         }
     ],
@@ -83,16 +83,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Lib",
-            "name": "Libvio",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tv.libvio.cc/"
-        },
-        {
             "key":"探探",
             "name":"探探",
             "type":3,
@@ -123,15 +113,6 @@
             "categories":["4K电影","4K电视剧"]
         },
         {
-            "key":"陌陌",
-            "name":"陌陌",
-            "type":3,
-            "api":"csp_MmYs",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":0
-        },
-        {
             "key":"csp_Xinsj",
             "name":"视觉",
             "type":3,
@@ -152,6 +133,19 @@
             "ext":"http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="
         },
         {
+            "key":"drpy_js_lf_ikanbot",
+            "name":"lf_ikanbot[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/js/lf_ikanbot2_4_min.js"
+        },
+        {
+            "key":"drpy_js_LIBVIO",
+            "name":"LIBVIO[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/LIBVIO.js"
+        },
+        {
             "key":"drpy_js_FreeOK",
             "name":"FreeOK[js]",
             "type":3,
@@ -162,8 +156,8 @@
             "key":"drpy_js_子子影视",
             "name":"子子影视[js]",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/子子影视.js"
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/子子影视.js"
         },
         {
             "key":"drpy_js_花猫TV",
@@ -368,43 +362,43 @@
             "key":"drpy_js_360影视",
             "name":"360[js]",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/360影视.js"
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/360影视.js"
         },
         {
             "key":"drpy_js_奇珍异兽",
             "name":"爱奇艺[js]",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/奇珍异兽.js"
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/奇珍异兽.js"
         },
         {
             "key":"drpy_js_优酷",
             "name":"优酷[js]",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/优酷.js"
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/优酷.js"
         },
         {
             "key":"drpy_js_腾云驾雾",
             "name":"腾讯[js]",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/腾云驾雾.js"
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/腾云驾雾.js"
         },
         {
             "key":"drpy_js_百忙无果",
             "name":"芒果[js]",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/百忙无果.js"
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/百忙无果.js"
         },
         {
             "key":"drpy_js_菜狗",
             "name":"搜狗[js]",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/菜狗.js"
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/菜狗.js"
         },
         {
             "key": "csp_Nbys",
