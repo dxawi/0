@@ -141,12 +141,6 @@
             "ext":"https://www.6080yy3.com/"
         },
         {
-            "key":"drpy_js_lf_ikanbot",
-            "name":"lf_ikanbot[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/js/lf_ikanbot2_4_min.js"
-        },
-        {
             "key":"drpy_js_LIBVIO",
             "name":"LIBVIO[js]",
             "type":3,
@@ -175,11 +169,25 @@
             "ext":"https://xhdwc.tk/js/花猫TV.js"
         },
         {
-            "key":"drpy_js_素白白",
-            "name":"素白白[js]",
+            "key":"drpy_js_91free",
+            "name":"91free[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/素白白.js"
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/91free.js"
+        },
+        {
+            "key":"drpy_js_HDmoli",
+            "name":"HDmoli[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/HDmoli.js"
+        },
+        {
+            "key":"drpy_js_Voflix",
+            "name":"Voflix[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/Voflix.js"
         },
         {
             "key":"drpy_js_骚火电影",
