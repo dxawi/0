@@ -271,10 +271,6 @@ CETV1,http://222.71.90.218:8888/newlive/live/hls/48/live.m3u8
 高清翡翠,http://r.jdshipin.com/qrfbg
 高清翡翠,http://113.117.74.20:8081/hls/25/index.m3u8
 翡翠台,http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
-明珠台,http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1351_4500
-凤凰中文,http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=fhzw_1500
-星空卫视,http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=xingkong_1500
-澳亚卫视,http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=aoya_1500
 TVBS星河,http://r.jdshipin.com/sXuuD
 翡翠台,http://r.jdshipin.com/n90gt
 有线,http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
@@ -288,8 +284,8 @@ TVBS星河,http://r.jdshipin.com/sXuuD
 澳門蓮花,https://p.ggiptv.com/v/macaulotustv.php
 澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳門蓮花,http://nettvpro.live/hls/lotustv.php?zgangd
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰中文台,http://r.jdshipin.com/cCCzW
+凤凰资讯台,http://r.jdshipin.com/0Rp07
 無線新聞台1080P,http://kkwk1122.top/tvvb.php?id=0&hq
 無線新聞台720P,http://kkwk1122.top/tvvb.php?id=0
 無線新聞台360P,http://kkwk1122.top/tvvb.php?id=1
