@@ -110,16 +110,6 @@
             "changeable":0
         },
         {
-            "key":"csp_Lib",
-            "name": "Libvio",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable":1,
-            "ext":"https://www.libvio.fun/"
-        },
-        {
             "key":"drpy_js_lf_ikanbot",
             "name":"lf_ikanbot[js]",
             "type":3,
@@ -147,11 +137,25 @@
             "ext":"./js/花猫TV.js"
         },
         {
+            "key":"drpy_js_LIBVIO",
+            "name":"LIBVIO[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/LIBVIO.js"
+        },
+        {
             "key":"drpy_js_91free",
             "name":"91free[js]",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/91free.js"
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/91free.js"
+        },
+        {
+            "key":"drpy_js_Voflix",
+            "name":"Voflix[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/Voflix.js"
         },
         {
             "key":"drpy_js_骚火电影",
