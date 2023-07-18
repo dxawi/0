@@ -110,27 +110,6 @@
             "changeable":0
         },
         {
-            "key":"酷酷",
-            "name":"酷酷",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":0,
-            "ext":"http://ys.realdou.cn/api.php/app/",
-            "categories":["4K电影","4K电视剧"]
-        },
-        {
-            "key":"csp_Xinsj",
-            "name":"视觉",
-            "type":3,
-            "api":"csp_Xinsj",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext":"https://www.6080yy3.com/"
-        },
-        {
             "key":"csp_Lib",
             "name": "Libvio",
             "type": 3,
@@ -141,11 +120,17 @@
             "ext":"https://www.libvio.fun/"
         },
         {
+            "key":"drpy_js_lf_ikanbot",
+            "name":"lf_ikanbot[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/js/lf_ikanbot2_4_min.js"
+        },
+        {
             "key":"drpy_js_FreeOK",
             "name":"FreeOK[js]",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/FreeOK.js"
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/FreeOK.js"
         },
         {
             "key":"drpy_js_子子影视",
@@ -169,25 +154,25 @@
             "ext":"./js/91free.js"
         },
         {
-            "key":"drpy_js_HDmoli",
-            "name":"HDmoli[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/HDmoli.js"
-        },
-        {
-            "key":"drpy_js_Voflix",
-            "name":"Voflix[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/Voflix.js"
-        },
-        {
             "key":"drpy_js_骚火电影",
             "name":"骚火电影[js]",
             "type":3,
             "api":"./lib/drpy2.min.js",
             "ext":"./js/骚火电影.js"
+        },
+        {
+            "key":"drpy_js_速看100[V2]",
+            "name":"速看100[V2][js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/速看100[V2].js"
+        },
+        {
+            "key":"drpy_js_花猪影视[V2]",
+            "name":"花猪影视[V2][js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/花猪影视[V2].js"
         },
         {
             "key":"csp_Cokemv",
