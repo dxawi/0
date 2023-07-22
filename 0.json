@@ -16,8 +16,8 @@
             "key":"drpy_js_豆瓣",
             "name":"豆瓣推荐[js]",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/drpy.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/drpy.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -114,15 +114,15 @@
             "key":"drpy_js_子子影视",
             "name":"子子影视[js]",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/子子影视.js"
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/子子影视.js"
         },
         {
             "key":"drpy_js_花猫TV",
             "name":"花猫TV[js]",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/花猫TV.js"
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/花猫TV.js"
         },
         {
             "key":"drpy_js_LIBVIO",
@@ -149,8 +149,8 @@
             "key":"drpy_js_骚火电影",
             "name":"骚火电影[js]",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/骚火电影.js"
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/骚火电影.js"
         },
         {
             "key":"drpy_js_速看100[V2]",
@@ -255,8 +255,8 @@
             "key":"drpy_js_宅腐影视",
             "name":"宅腐影视[js]",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/宅腐影视.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/宅腐影视.js",
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1
