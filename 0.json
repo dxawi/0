@@ -2,7 +2,7 @@
 
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;f4ec316a5fa752ef8082328b9b28e708",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;065f5221ab68939e0084f1bd6900d4ac",
     "lives": [
         {
             "name": "tvlive",
@@ -69,15 +69,6 @@
             "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/荐片.js",
             "playerType":"1"
-        },
-        {
-            "key":"csp_DuoX",
-            "name":"多线",
-            "type":3,
-            "api":"csp_DuoX",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1
         },
         {
             "key": "csp_Czsapp",
@@ -176,6 +167,27 @@
             "ext":"https://xhdwc.tk/js/花猪影视[V2].js"
         },
         {
+            "key":"drpy_js_F7好看剧[V2]",
+            "name":"F7好看剧[V2][js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/F7好看剧[V2].js"
+        },
+        {
+            "key":"drpy_js_鸭鸭[V2]",
+            "name":"鸭鸭[V2][js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/鸭鸭[V2].js"
+        },
+        {
+            "key":"drpy_js_爱看",
+            "name":"爱看[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/爱看.js"
+        },
+        {
             "key":"csp_Cokemv",
             "name":"Cokemv",
             "type":3,
@@ -219,16 +231,6 @@
             "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/荐片.js",
             "playerType":"1"
-        },
-        {
-            "key": "csp_beijihu",
-            "name": "极狐",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.kuin.one/api.php/app/"
         },
         {
             "key": "csp_YQKAPP",
