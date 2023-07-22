@@ -98,6 +98,13 @@
             "changeable":0
         },
         {
+            "key":"drpy_js_新视觉影视",
+            "name":"新视觉影视[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/新视觉影视.js"
+        },
+        {
             "key":"drpy_js_lf_ikanbot",
             "name":"lf_ikanbot[js]",
             "type":3,
@@ -144,13 +151,6 @@
             "type":3,
             "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/Voflix.js"
-        },
-        {
-            "key":"drpy_js_骚火电影",
-            "name":"骚火电影[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/骚火电影.js"
         },
         {
             "key":"drpy_js_速看100[V2]",
