@@ -63,6 +63,28 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
         },
         {
+            "key":"荐片(cli)",
+            "name":"荐片(cli)",
+            "type":4,
+            "api":"http://home.jundie.top:9510/spider/csp_JP",
+            "playerType":1,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":1
+        },
+        {
+            "key":"乐猪(cli)",
+            "name":"乐猪(cli)",
+            "type":4,
+            "api":"http://home.jundie.top:9510/spider/csp_Lezhu",
+            "playerType":1,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":1
+        },
+        {
             "key":"陌陌",
             "name":"陌陌",
             "type":3,
