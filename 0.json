@@ -2,7 +2,7 @@
 
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;10e0f2ba0dd24e8d80a991678fc52985",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;6cd8c412419113dfe01499b4e2fa7a92",
     "lives": [
         {
             "name": "tvlive",
@@ -61,6 +61,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+        },
+        {
+            "key":"探探",
+            "name":"探探",
+            "type":3,
+            "playerType":"1",
+            "api":"csp_YT",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":0
         },
         {
             "key":"荐片(cli)",
