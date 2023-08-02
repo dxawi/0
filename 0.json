@@ -73,8 +73,16 @@
             "filterable": 1
         },
         {
+            "key":"drpy_js_荐片",
+            "name":"荐片[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/荐片.js",
+            "playerType":"1"
+        },
+        {
             "key":"drpy_js_lf_ikanbot",
-            "name":"lf_ikanbot[js]",
+            "name":"ikanbot[js]",
             "type":3,
             "api":"https://xhdwc.tk/js/lf_ikanbot3_1_min.js"
         },
