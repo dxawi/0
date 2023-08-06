@@ -73,6 +73,20 @@
             "filterable": 1
         },
         {
+            "key":"drpy_js_往往影视",
+            "name":"往往影视[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/往往影视.js"
+        },
+        {
+            "key":"drpy_js_素白白",
+            "name":"素白白[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/素白白.js"
+        },
+        {
             "key":"drpy_js_荐片",
             "name":"荐片[js]",
             "type":3,
@@ -155,13 +169,6 @@
             "type":3,
             "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/花猪影视[V2].js"
-        },
-        {
-            "key":"drpy_js_F7好看剧[V2]",
-            "name":"F7好看剧[V2][js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/F7好看剧[V2].js"
         },
         {
             "key":"drpy_js_鸭鸭[V2]",
