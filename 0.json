@@ -108,13 +108,6 @@
             "ext":"https://xhdwc.tk/js/新视觉影视.js"
         },
         {
-            "key":"drpy_js_FreeOK",
-            "name":"FreeOK[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/FreeOK.js"
-        },
-        {
             "key":"drpy_js_子子影视",
             "name":"子子影视[js]",
             "type":3,
@@ -220,14 +213,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key":"drpy_js_荐片",
-            "name":"荐片[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/荐片.js",
-            "playerType":"1"
         },
         {
             "key": "csp_YQKAPP",
