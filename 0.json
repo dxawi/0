@@ -73,11 +73,14 @@
             "filterable": 1
         },
         {
-            "key":"drpy_js_Freeok",
-            "name":"FreeOK[js]",
+            "key":"csp_XBPQ_FreeOK",
+            "name":"FreeOK小暴脾气",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/FreeOK.js"
+            "api":"csp_XBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "ext":"https://xhdwc.tk/0/FreeOK.json"
         },
         {
             "key":"drpy_js_往往影视",
