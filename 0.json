@@ -2,7 +2,7 @@
 
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;6cd8c412419113dfe01499b4e2fa7a92",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;55894a9f32ba4201a1e2b157bb2e5c91",
     "lives": [
         {
             "name": "tvlive",
@@ -73,6 +73,26 @@
             "filterable": 1
         },
         {
+            "key":"迪迪",
+            "name":"迪迪",
+            "api":"csp_AppYsV2",
+            "type":3,
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "ext":"https://api123.adys.app/xgapp.php/v3/"
+        },
+        {
+            "key":"影探",
+            "name":"影探",
+            "type":3,
+            "playerType":"1",
+            "api":"csp_YT",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1
+        },
+        {
             "key":"csp_XBPQ_FreeOK",
             "name":"FreeOK小暴脾气",
             "type":3,
@@ -108,7 +128,7 @@
             "key":"drpy_js_lf_ikanbot",
             "name":"ikanbot[js]",
             "type":3,
-            "api":"https://xhdwc.tk/js/lf_ikanbot4_1_min.js"
+            "api":"https://xhdwc.tk/js/lf_ikanbot3_1_min.js"
         },
         {
             "key":"drpy_js_低端",
