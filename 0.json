@@ -70,7 +70,8 @@
             "playerType":2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://czzy.pw/"
         },
         {
             "key":"迪迪",
@@ -90,18 +91,18 @@
             "ext":"https://xhdwc.tk/js/花猫TV.js"
         },
         {
-            "key":"drpy_js_往往影视",
-            "name":"往往影视[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/往往影视.js"
-        },
-        {
             "key":"drpy_js_素白白",
             "name":"素白白[js]",
             "type":3,
             "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/素白白.js"
+        },
+        {
+            "key":"drpy_js_HDmoli",
+            "name":"HDmoli[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/HDmoli.js"
         },
         {
             "key":"drpy_js_荐片",
@@ -110,12 +111,6 @@
             "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/荐片.js",
             "playerType":"1"
-        },
-        {
-            "key":"drpy_js_lf_ikanbot",
-            "name":"ikanbot[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/js/lf_ikanbot3_1_min.js"
         },
         {
             "key":"drpy_js_低端",
