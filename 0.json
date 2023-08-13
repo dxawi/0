@@ -71,7 +71,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://czzy.pw/"
+            "ext": "https://www.cz01.me/"
         },
         {
             "key":"迪迪",
@@ -359,16 +359,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://dxawi.github.io/1/json/biliych.json"
-        },
-        {
-            "key": "dr_兔小贝",
-            "name": "儿童启蒙",
-            "type": 3,
-            "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
-            "ext": "http://ftyyy.tk/JS/js/兔小贝.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
         },
         {
             "key": "课堂教育",
