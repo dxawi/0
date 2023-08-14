@@ -77,7 +77,7 @@
             "key":"nangua",
             "name":"南瓜影视[cat]",
             "type":3,
-            "api":"https://xhdwc.tk/js/ng_open.js"
+            "api":"./cat/ng_open.js"
         },
         {
             "key":"迪迪",
