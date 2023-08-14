@@ -73,6 +73,12 @@
             "filterable": 1,
             "ext": "https://www.cz01.me/"
         },
+        {   
+            "key":"nangua",
+            "name":"南瓜影视[cat]",
+            "type":3,
+            "api":"https://xhdwc.tk/js/ng_open.js"
+        },
         {
             "key":"迪迪",
             "name":"迪迪",
