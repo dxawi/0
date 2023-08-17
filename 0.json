@@ -2,7 +2,7 @@
 
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;55894a9f32ba4201a1e2b157bb2e5c91",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;b3a5a49c793dd82c3fd04e75d3071b20",
     "lives": [
         {
             "name": "tvlive",
@@ -87,6 +87,53 @@
             "api":"./cat/kkys_open.js"
         },
         {
+            "key":"奇奇",
+            "name":"奇奇",
+            "type":1,
+            "api":"http://www.csykkj.club/api.php/provide/vod/from/qiqi",
+            "playUrl":"json:http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=",
+            "searchable":1,
+            "quickSearch":1,
+            "categories":["电影","连续剧","综艺","动漫"]
+        },
+        {
+            "key":"kuaikan",
+            "name":"快看",
+            "type":3,
+            "api":"csp_Kuaikan",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1
+        },
+        {
+            "key":"DiDuan",
+            "name":"低端",
+            "type":3,
+            "api":"csp_Ddrk",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1
+        },
+        {
+            "key":"Vofl",
+            "name":"VOF",
+            "type":3,
+            "api":"csp_Voflix",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1
+        },
+        {
+            "key":"Lib",
+            "name": "Libvio",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable":1,
+            "ext":"https://www.libvio.fun/"
+        },
+        {
             "key":"迪迪",
             "name":"迪迪",
             "api":"csp_AppYsV2",
@@ -126,13 +173,6 @@
             "playerType":"1"
         },
         {
-            "key":"drpy_js_低端",
-            "name":"低端[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/ddys.js"
-        },
-        {
             "key":"drpy_js_骚火电影",
             "name":"骚火电影[js]",
             "type":3,
@@ -154,13 +194,6 @@
             "ext":"https://xhdwc.tk/js/子子影视.js"
         },
         {
-            "key":"drpy_js_LIBVIO",
-            "name":"LIBVIO[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/LIBVIO.js"
-        },
-        {
             "key":"drpy_js_91free",
             "name":"91free[js]",
             "type":3,
@@ -168,25 +201,11 @@
             "ext":"https://xhdwc.tk/js/91free.js"
         },
         {
-            "key":"drpy_js_Voflix",
-            "name":"Voflix[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/Voflix.js"
-        },
-        {
             "key":"drpy_js_花猪影视[V2]",
             "name":"花猪影视[V2][js]",
             "type":3,
             "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/花猪影视[V2].js"
-        },
-        {
-            "key":"drpy_js_爱看",
-            "name":"爱看[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/爱看.js"
         },
         {
             "key":"csp_XBPQ_FreeOK",
