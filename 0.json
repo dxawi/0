@@ -83,16 +83,6 @@
             "api":"./cat/mybili_open.js"
         },
         {
-            "key":"哈喽",
-            "name":"哈喽",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext":"http://www.miniku.cc/xgapp.php/v1/"
-        },
-        {
             "key":"奇奇",
             "name":"奇奇",
             "type":1,
