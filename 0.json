@@ -70,6 +70,12 @@
             "api":"./cat/czzy_open.js"
         },
         {
+            "key":"subaibai",
+            "name":"素白白[cat]",
+            "type":3,
+            "api":"./cat/subaibai_open.js"
+        },
+        {
             "key":"nangua",
             "name":"南瓜影视[cat]",
             "type":3,
