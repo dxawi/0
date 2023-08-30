@@ -2,7 +2,7 @@
 
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;125712f0807f914eae788cd96348e259",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;de50ad6ce386187037fbf980b04b229e",
     "lives": [
         {
             "name": "tvlive",
@@ -95,6 +95,16 @@
             "name":"哔哩[cat]",
             "type":3,
             "api":"./cat/mybili_open.js"
+        },
+        {
+            "key":"Czsapp",
+            "name":"厂长",
+            "type":3,
+            "api":"csp_Czsapp",
+            "playerType":2,
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1
         },
         {
             "key":"DiDuan",
