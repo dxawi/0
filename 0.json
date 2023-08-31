@@ -101,16 +101,6 @@
             "changeable":1
         },
         {
-            "key":"哈喽",
-            "name":"哈喽",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext":"http://www.miniku.cc/xgapp.php/v1/"
-        },
-        {
             "key":"DiDuan",
             "name":"低端",
             "type":3,
@@ -137,16 +127,6 @@
             "quickSearch": 1,
             "changeable":1,
             "ext":"https://www.libvio.fun/"
-        },
-        {
-            "key":"迪迪",
-            "name":"迪迪",
-            "api":"csp_AppYsV2",
-            "type":3,
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext":"https://api123.adys.app/xgapp.php/v3/"
         },
         {
             "key":"csp_XBPQ_FreeOK",
