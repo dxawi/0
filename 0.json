@@ -139,6 +139,13 @@
             "ext":"https://xhdwc.tk/0/FreeOK.json"
         },
         {
+            "key":"drpy_js_爱看",
+            "name":"爱看[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/爱看.js"
+        },
+        {
             "key":"drpy_js_花猫TV",
             "name":"花猫TV[js]",
             "type":3,
