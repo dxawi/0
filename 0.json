@@ -16,7 +16,7 @@
             "key":"drpy_js_豆瓣",
             "name":"豆瓣推荐[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/drpy.js",
             "searchable": 0,
             "quickSearch": 0,
@@ -47,7 +47,7 @@
             "key":"drpy_js_荐片",
             "name":"荐片[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/荐片.js",
             "playerType":"1"
         },
@@ -109,17 +109,19 @@
             "changeable": 1
         },
         {
-            "key":"drpy_js_量子",
-            "name":"量子[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/量子影视.js"
+            "key":"量子",
+            "name":"量子",
+            "type":0,
+            "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "searchable":1,
+            "changeable":1,
+            "categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]
         },
         {
             "key":"drpy_js_农民",
             "name":"农民[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/农民影视.js"
         },
         {
@@ -188,56 +190,56 @@
             "key":"drpy_js_爱看",
             "name":"爱看[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/爱看.js"
         },
         {
             "key":"drpy_js_花猫TV",
             "name":"花猫TV[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/花猫TV.js"
         },
         {
             "key":"drpy_js_素白白",
             "name":"素白白[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/素白白.js"
         },
         {
             "key":"drpy_js_HDmoli",
             "name":"HDmoli[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/HDmoli.js"
         },
         {
             "key":"drpy_js_骚火电影",
             "name":"骚火电影[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/骚火电影.js"
         },
         {
             "key":"drpy_js_子子影视",
             "name":"子子影视[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/子子影视.js"
         },
         {
             "key":"drpy_js_花猪影视[V2]",
             "name":"花猪影视[V2][js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/花猪影视[V2].js"
         },
         {
             "key":"drpy_js_两个BT",
             "name":"两个BT[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/两个BT.js"
         },
         {
@@ -273,7 +275,7 @@
             "key":"drpy_js_宅腐影视",
             "name":"宅腐影视[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/宅腐影视.js",
             "searchable": 0,
             "quickSearch": 1,
