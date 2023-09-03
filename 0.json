@@ -44,12 +44,6 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
         },
         {
-            "key":"drpy_js_lf_ikanbot",
-            "name":"ikanbot5[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/js/lf_ikanbot5_1_min.js"
-        },
-        {
             "key":"drpy_js_荐片",
             "name":"荐片[js]",
             "type":3,
