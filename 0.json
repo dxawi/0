@@ -96,12 +96,6 @@
             "api":"./cat/kkys_open.js"
         },
         {
-            "key":"libvio_open",
-            "name":"Libvio[cat]",
-            "type":3,
-            "api":"./cat/libvio_open.js"
-        },
-        {
             "key":"mybili",
             "name":"哔哩[cat]",
             "type":3,
