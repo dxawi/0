@@ -62,12 +62,18 @@
             "changeable": 1
         },
         {
-            "key": "量子",
-            "name": "量子",
-            "type": 0,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "changeable": 1
+            "key":"drpy_js_量子",
+            "name":"量子[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/量子影视.js"
+        },
+        {
+            "key":"drpy_js_农民",
+            "name":"农民[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/农民影视.js"
         },
         {
             "key":"drpy_js_荐片",
@@ -128,13 +134,6 @@
             "quickSearch": 1,
             "changeable":1,
             "ext":"https://www.libvio.fun/"
-        },
-        {
-            "key":"drpy_js_农民",
-            "name":"农民[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/农民影视.js"
         },
         {
             "key":"csp_XBPQ_FreeOK",
