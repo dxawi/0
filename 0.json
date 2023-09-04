@@ -90,17 +90,6 @@
             "filterable": 1
         },
         {
-            "key":"Moguys",
-            "name":"Moguys",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "playerType":1,
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "changeable":1, 
-            "ext": "http://11111111.moguys.xyz/api.php/app/"
-        },
-        {
             "key": "暴风",
             "name": "暴风",
             "type": 1,
