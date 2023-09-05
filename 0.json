@@ -23,17 +23,6 @@
             "filterable": 0
         },
         {
-            "key":"Bili",
-            "name":"Bili",
-            "type": 3,
-            "api": "csp_Bili",
-            "style":{"type":"rect","ratio":1.597},
-            "searchable":1,
-            "quickSearch":0,
-            "changeable":0,
-            "ext":"https://xhdwc.tk/json/bilibili.json"
-        },
-        {
             "key": "csp_WoGG",
             "name": "玩偶哥哥(饭太硬阿里)",
             "type": 3,
@@ -76,6 +65,15 @@
             "name":"快看",
             "type":3,
             "api":"csp_Kuaikan",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1
+        },
+        {
+            "key":"Vofl",
+            "name":"VOF",
+            "type":3,
+            "api":"csp_Voflix",
             "searchable":1,
             "quickSearch":1,
             "changeable":1
@@ -138,19 +136,21 @@
             "api":"./cat/mybili_open.js"
         },
         {
+            "key":"Bili",
+            "name":"Bili",
+            "type": 3,
+            "api": "csp_Bili",
+            "style":{"type":"rect","ratio":1.597},
+            "searchable":1,
+            "quickSearch":0,
+            "changeable":0,
+            "ext":"https://xhdwc.tk/json/bilibili.json"
+        },
+        {
             "key":"DiDuan",
             "name":"低端",
             "type":3,
             "api":"csp_Ddrk",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1
-        },
-        {
-            "key":"Vofl",
-            "name":"VOF",
-            "type":3,
-            "api":"csp_Voflix",
             "searchable":1,
             "quickSearch":1,
             "changeable":1
@@ -174,13 +174,6 @@
             "quickSearch":1,
             "changeable":1,
             "ext":"https://xhdwc.tk/0/FreeOK.json"
-        },
-        {
-            "key":"drpy_js_爱看",
-            "name":"爱看[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/爱看.js"
         },
         {
             "key":"drpy_js_花猫TV",
@@ -229,7 +222,10 @@
             "name":"两个BT[js]",
             "type":3,
             "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/两个BT.js"
+            "ext":"https://xhdwc.tk/js/两个BT.js",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key":"csp_Cokemv",
