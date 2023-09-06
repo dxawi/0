@@ -61,6 +61,26 @@
             "ext":"https://www.6080yy3.com/"
         },
         {
+            "key": "csp_365影视",
+            "name": "365",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,   
+            "ext": "http://guan.yy365.vip/api.php/app/"
+        },
+        {
+            "key": "野兔资源",
+            "name": "野兔",
+            "type": 1,
+            "playerType": 1,
+            "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
+            "categories": ["无敌4K资源","电影","动漫动画","国产剧","日韩剧","泰剧","欧美剧","纪录片"],
+            "searchable": 1,
+            "quickSearch": 1
+        }, 
+        {
             "key":"kuaikan",
             "name":"快看",
             "type":3,
