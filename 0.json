@@ -138,13 +138,6 @@
             "api":"https://xhdwc.tk/js/小纸条一级推送测试.js"
         },
         {
-            "key":"drpy_js_蛋蛋剧",
-            "name":"蛋蛋剧[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/蛋蛋剧.js"
-        },
-        {
             "key":"drpy_js_酷客影院",
             "name":"酷客影院[js]",
             "type":3,
