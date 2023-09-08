@@ -71,15 +71,38 @@
             "ext": "http://guan.yy365.vip/api.php/app/"
         },
         {
-            "key": "野兔资源",
-            "name": "野兔",
-            "type": 1,
-            "playerType": 1,
-            "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
-            "categories": ["无敌4K资源","电影","动漫动画","国产剧","日韩剧","泰剧","欧美剧","纪录片"],
-            "searchable": 1,
-            "quickSearch": 1
-        }, 
+            "key":"subaibai",
+            "name":"素白白[cat]",
+            "type":3,
+            "api":"https://xhdwc.tk/cat/subaibai_open.js"
+        },
+        {
+            "key":"kkys",
+            "name":"快看影视[cat]",
+            "type":3,
+            "api":"https://xhdwc.tk/cat/kkys_open.js"
+        },
+        {
+            "key":"drpy_js_新视觉影视",
+            "name":"新视觉影视[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "ext":"https://xhdwc.tk/js/新视觉影视.js"
+        },
+        {
+            "key":"drpy_js_南瓜影视",
+            "name":"南瓜影视[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "ext":"https://xhdwc.tk/js/南瓜影视.js"
+        },
+        {
+            "key":"drpy_js_农民",
+            "name":"农民[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "ext":"https://xhdwc.tk/js/农民影视.js"
+        },
         {
             "key":"kuaikan",
             "name":"快看",
@@ -117,13 +140,6 @@
             "categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]
         },
         {
-            "key":"drpy_js_农民",
-            "name":"农民[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/农民影视.js"
-        },
-        {
             "key":"drpy_js_小纸条",
             "name":"小纸条[测试js]",
             "type":3,
@@ -137,50 +153,10 @@
             "ext":"https://xhdwc.tk/js/酷客影院.js"
         },
         {
-            "key":"drpy_js_新视觉影视",
-            "name":"新视觉影视[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/新视觉影视.js"
-        },
-        {
-            "key":"drpy_js_孜然影视",
-            "name":"孜然影视[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/孜然影视.js"
-        },
-        {
-            "key":"drpy_js_小狗影院",
-            "name":"小狗影院[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/小狗影院.js"
-        },
-        {
-            "key":"drpy_js_南瓜影视",
-            "name":"南瓜影视[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/南瓜影视.js"
-        },
-        {
             "key":"czzy",
             "name":"厂长资源[cat]",
             "type":3,
             "api":"https://xhdwc.tk/cat/czzy_open.js"
-        },
-        {
-            "key":"subaibai",
-            "name":"素白白[cat]",
-            "type":3,
-            "api":"https://xhdwc.tk/cat/subaibai_open.js"
-        },
-        {
-            "key":"kkys",
-            "name":"快看影视[cat]",
-            "type":3,
-            "api":"https://xhdwc.tk/cat/kkys_open.js"
         },
         {
             "key":"mybili",
