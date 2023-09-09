@@ -61,16 +61,6 @@
             "ext":"https://www.6080yy3.com/"
         },
         {
-            "key": "csp_365影视",
-            "name": "365",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,   
-            "ext": "http://guan.yy365.vip/api.php/app/"
-        },
-        {
             "key":"subaibai",
             "name":"素白白[cat]",
             "type":3,
@@ -81,13 +71,6 @@
             "name":"快看影视[cat]",
             "type":3,
             "api":"https://xhdwc.tk/cat/kkys_open.js"
-        },
-        {
-            "key":"drpy_js_新视觉影视",
-            "name":"新视觉影视[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/新视觉影视.js"
         },
         {
             "key":"drpy_js_南瓜影视",
@@ -102,6 +85,13 @@
             "type":3,
             "api":"https://xhdwc.tk/lib/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/农民影视.js"
+        },
+        {
+            "key":"drpy_js_新视觉影视",
+            "name":"新视觉影视[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "ext":"https://xhdwc.tk/js/新视觉影视.js"
         },
         {
             "key":"kuaikan",
