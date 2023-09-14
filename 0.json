@@ -106,6 +106,18 @@
             "filterable": 1
         },
         {
+            "key":"kunyu77",
+            "name":"琨娱七七[cat]",
+            "type":3,
+            "api":"https://xhdwc.tk/cat/kunyu77_open.js"
+        },
+        {
+            "key":"libvio_open",
+            "name":"LIB[cat]",
+            "type":3,
+            "api":"https://xhdwc.tk/cat/libvio_open.js"
+        },
+        {
             "key":"drpy_js_新视觉影视",
             "name":"新视觉影视[js]",
             "type":3,
