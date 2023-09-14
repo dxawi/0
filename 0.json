@@ -73,13 +73,13 @@
             "key":"subaibai",
             "name":"素白白[cat]",
             "type":3,
-            "api":"https://xhdwc.tk/cat/subaibai_open.js"
+            "api":"./cat/subaibai_open.js"
         },
         {
             "key":"kkys",
             "name":"快看影视[cat]",
             "type":3,
-            "api":"https://xhdwc.tk/cat/kkys_open.js"
+            "api":"./cat/kkys_open.js"
         },
         {
             "key":"drpy_js_南瓜影视",
@@ -109,13 +109,20 @@
             "key":"kunyu77",
             "name":"琨娱七七[cat]",
             "type":3,
-            "api":"https://xhdwc.tk/cat/kunyu77_open.js"
+            "api":"./cat/kunyu77_open.js"
         },
         {
             "key":"libvio_open",
             "name":"LIB[cat]",
             "type":3,
-            "api":"https://xhdwc.tk/cat/libvio_open.js"
+            "api":"./cat/libvio_open.js"
+        },
+        {
+            "key":"drpy_js_厂长资源",
+            "name":"厂长资源[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "ext":"https://xhdwc.tk/js/厂长资源.js"
         },
         {
             "key":"drpy_js_新视觉影视",
@@ -174,16 +181,10 @@
             "ext":"https://xhdwc.tk/js/酷客影院.js"
         },
         {
-            "key":"czzy",
-            "name":"厂长资源[cat]",
-            "type":3,
-            "api":"https://xhdwc.tk/cat/czzy_open.js"
-        },
-        {
             "key":"mybili",
             "name":"哔哩[cat]",
             "type":3,
-            "api":"https://xhdwc.tk/cat/mybili_open.js"
+            "api":"./cat/mybili_open.js"
         },
         {
             "key":"Bili",
