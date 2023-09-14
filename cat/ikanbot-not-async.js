@@ -7,8 +7,8 @@ let siteType = 0;
 
 const UA = 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1';
 
-async function request(reqUrl, agentSp) {
-    let res = await req(reqUrl, {
+function request(reqUrl, agentSp) {
+    let res = req(reqUrl, {
         method: 'get',
         headers: {
             'User-Agent': agentSp || UA,
@@ -19,7 +19,7 @@ async function request(reqUrl, agentSp) {
 }
 
 // cfg = {skey: siteKey, ext: extend}
-async function init(cfg) {
+function init(cfg) {
     siteKey = cfg.skey;
     siteType = cfg.stype;
 }
@@ -38,11 +38,11 @@ function getClass($) {
     return { cls: { type_id: tags.value[0].v, type_name: title }, tags: [tags] };
 }
 
-async function home(filter) {
+function home(filter) {
     let classes = [];
     let filterObj = {};
     for (const cate of ['/hot/index-movie-热门.html', '/hot/index-tv-热门.html']) {
-        const html = await request(url + cate);
+        const html = request(url + cate);
         const $ = load(html);
         const { cls, tags } = getClass($);
         classes.push(cls);
@@ -54,38 +54,26 @@ async function home(filter) {
     });
 }
 
-async function homeVod() {
-    const html = await request(url);
-    const $ = load(html);
-    const items = $('div.v-list a.item');
-    var jsBase = await js2Proxy(true, siteType, siteKey, 'img/', {});
-    let videos = _.map(items, (item) => {
-        const img = $(item).find('img:first')[0];
-        return {
-            vod_id: item.attribs.href,
-            vod_name: img.attribs.alt,
-            vod_pic: jsBase + base64Encode(img.attribs['data-src']),
-            vod_remarks: '',
-        };
-    });
-    return JSON.stringify({
-        list: videos,
-    });
+function homeVod() {
+    return '{}';
 }
 
-async function category(tid, pg, filter, extend) {
+function category(tid, pg, filter, extend) {
     if (pg <= 0) pg = 1;
     const link = url + (extend.tag || tid).replace('.html', pg > 1 ? `-p-${pg}.html` : '.html');
-    const html = await request(link);
+    const html = request(link);
     const $ = load(html);
     const items = $('div.v-list a.item');
-    var jsBase = await js2Proxy(true, siteType, siteKey, 'img/', {});
+    // var jsBase = js2Proxy(true, siteType, siteKey, 'img/', {});
+    // console.log(jsBase);
     let videos = _.map(items, (item) => {
         const img = $(item).find('img:first')[0];
+        // console.log(jsBase + base64Encode(img.attribs['data-src']));
         return {
             vod_id: item.attribs.href,
             vod_name: img.attribs.alt,
-            vod_pic: jsBase + base64Encode(img.attribs['data-src']),
+            // vod_pic: jsBase + base64Encode(img.attribs['data-src']),
+            vod_pic: img.attribs['data-src'] + '@Referer=' + url + '@User-Agent=' + UA,
             vod_remarks: '',
         };
     });
@@ -100,86 +88,52 @@ async function category(tid, pg, filter, extend) {
     });
 }
 
-async function detail(id) {
-	const html = await request(url + id);
-	const $ = load(html);
-	var jsBase = await js2Proxy(true, siteType, siteKey, 'img/', {});
-	const detail = $('div.detail');
-	const remarks = $('span#line-tips').text();
-	let vod = {
-		vod_id: id,
-		vod_pic: jsBase + base64Encode($('div.item-root > img')[0].attribs['data-src']),
-		vod_remarks: '',
-        vod_content: remarks || '',
-		vod_name: $(detail).find('h2').text().trim(),
-		vod_year: $(detail).find('h3:nth-child(3)').text(),
-		vod_area: $(detail).find('h3:nth-child(4)').text(),
-		vod_actor: $(detail).find('h3:nth-child(5)').text(),
-	};
-	const res = await req(url + '/api/getResN?videoId=' + id.substring(id.lastIndexOf('/') + 1) + '&mtype=2&token=9109590b194731fde643ce27924fcf6f', {
-		headers: {
-			Referer: 'play',
-			'User-Agent': UA,
-		},
-	});
-	const list = JSON.parse(res.content).data.list;
-	let playlist = {};
-	let arr = []
-	for (const l of list) {
-		const flagData = JSON.parse(l.resData);
-		for (const f of flagData) {
-			const from = f.flag;
-			const urls = f.url;
-			if (!from || !urls) continue;
-			if (playlist[from]) continue;
-			playlist[from] = urls;
-		}
-	}
-	for (var key in playlist) {
-		if ('kuaikan' == key) {
-			arr.push({
-				flag: '快看',
-				url: playlist[key],
-				sort: 1
-			})
-		} else if ('bfzym3u8' == key) {
-			arr.push({
-				flag: '暴风',
-				url: playlist[key],
-				sort: 2
-			})
-		} else if ('ffm3u8' == key) {
-			arr.push({
-				flag: '非凡',
-				url: playlist[key],
-				sort: 3
-			})
-		} else if ('lzm3u8' == key) {
-			arr.push({
-				flag: '量子',
-				url: playlist[key],
-				sort: 4
-			})
-		} else {
-			arr.push({
-				flag: key,
-				url: playlist[key],
-				sort: 5
-			})
-		}
-	}
-	arr.sort((a, b) => a.sort - b.sort);
-	let playFrom = [];
-	let playList = [];
-	arr.map(val => {
-		playFrom.push(val.flag);
-		playList.push(val.url);
-	})
-	vod.vod_play_from = playFrom.join("$$$");
-	vod.vod_play_url = playList.join("$$$");
-	return JSON.stringify({
-		list: [vod],
-	});
+function detail(id) {
+    console.log(url + id);
+    const html = request(url + id);
+    const $ = load(html);
+    // var jsBase = js2Proxy(true, siteType, siteKey, 'img/', {});
+    const detail = $('div.detail > .meta');
+    let vod = {
+        vod_id: id,
+        // vod_pic: jsBase + base64Encode($('div.item-root > img')[0].attribs['data-src']),
+        vod_pic: $('div.item-root > img')[0].attribs['data-src'] + '@Referer=' + url + '@User-Agent=' + UA,        
+        vod_remarks: '',
+    };
+    for (const info of detail) {
+        if ($(info).hasClass('title')) {
+            vod.vod_name = info.children[0].data;
+        } else if ($(info).hasClass('year')) {
+            vod.vod_area = info.children[0].data;
+        } else if ($(info).hasClass('country')) {
+            vod.vod_area = info.children[0].data;
+        } else if ($(info).hasClass('celebrity')) {
+            vod.vod_actor = info.children[0].data;
+        }
+    }
+
+    const res = req(url + '/api/getResN?videoId=' + id.substring(id.lastIndexOf('/') + 1) + '&mtype=2', {
+        headers: {
+            'User-Agent': UA
+        }
+    });
+    const list = JSON.parse(res.content).data.list;
+    let playlist = {};
+    for (const l of list) {
+        const flagData = JSON.parse(l.resData);
+        for (const f of flagData) {
+            const from = f.flag;
+            const urls = f.url;
+            if (!from || !urls) continue;
+            if (playlist[from]) continue;
+            playlist[from] = urls;
+        }
+    }
+    vod.vod_play_from = _.keys(playlist).join('$$$');
+    vod.vod_play_url = _.values(playlist).join('$$$');
+    return JSON.stringify({
+        list: [vod],
+    });
 }
 
 function base64Encode(text) {
@@ -190,17 +144,21 @@ function base64Decode(text) {
     return Crypto.enc.Utf8.stringify(Crypto.enc.Base64.parse(text));
 }
 
-async function proxy(segments, headers) {
+function proxy(params) {
+    console.log(JSON.stringify(params)); 
+    // {"from":"catvod","header":"{}","do":"js","url":"img/aHR0cHM6Ly9pbWcxLmlrYW5ib3QuY29tL2ltYWdlcy81L2I2LzE5OWQ1ZDhmZmQ1YmRhZDk5ZGVlNzY1MjQ3NjliYjY1LmpwZw=="}
+    let segments = params.url.split("/");
     let what = segments[0];
     let url = base64Decode(segments[1]);
     if (what == 'img') {
-        var resp = await req(url, {
+        var resp = req(url, {
             buffer: 2,
             headers: {
                 Referer: url,
                 'User-Agent': UA,
             },
         });
+        console.log('@Referer=' + url + '@User-Agent=' + UA );
         return JSON.stringify({
             code: resp.code,
             buffer: 2,
@@ -214,19 +172,19 @@ async function proxy(segments, headers) {
     });
 }
 
-async function play(flag, id, flags) {
+function play(flag, id, flags) {
     return JSON.stringify({
         parse: 0,
         url: id,
     });
 }
 
-async function search(wd, quick, pg) {
+function search(wd, quick, pg) {
     if (pg <= 0 || typeof(pg) == 'undefined') pg = 1;
-    const html = await request(url + '/search?q=' + wd + '&p=' + pg);
+    const html = request(url + '/search?q=' + wd + '&p=' + pg);
     const $ = load(html);
     const items = $('div.media');
-    var jsBase = await js2Proxy(true, siteType, siteKey, 'img/', {});
+    // var jsBase = js2Proxy(true, siteType, siteKey, 'img/', {});
     let videos = _.map(items, (item) => {
         const a = $(item).find('a:first')[0];
         const img = $(item).find('img:first')[0];
@@ -234,7 +192,8 @@ async function search(wd, quick, pg) {
         return {
             vod_id: a.attribs.href,
             vod_name: img.attribs.alt,
-            vod_pic: jsBase + base64Encode(img.attribs['data-src']),
+            // vod_pic: jsBase + base64Encode(img.attribs['data-src']),
+            vod_pic: img.attribs['data-src'] + '@Referer=' + url + '@User-Agent=' + UA,
             vod_remarks: remarks || '',
         };
     });
