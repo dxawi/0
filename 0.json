@@ -214,7 +214,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable":1,
-            "ext":"https://www.libvio.fun/"
+            "ext":"https://www.libvio.pro/"
         },
         {
             "key":"drpy_js_花猫TV",
@@ -243,13 +243,6 @@
             "type":3,
             "api":"https://xhdwc.tk/lib/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/骚火电影.js"
-        },
-        {
-            "key":"drpy_js_子子影视",
-            "name":"子子影视[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/子子影视.js"
         },
         {
             "key":"drpy_js_花猪影视[V2]",
