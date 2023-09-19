@@ -41,12 +41,15 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
         },
         {
-            "key":"drpy_js_荐片",
-            "name":"荐片[js]",
+            "key":"荐片",
+            "name":"荐片",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/荐片.js",
-            "playerType":"1"
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "playerType":"1",
+            "api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
         },
         {
             "key":"Czsapp",
