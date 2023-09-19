@@ -13,14 +13,22 @@
     ],
     "sites": [    
         {
-            "key":"drpy_js_豆瓣",
-            "name":"豆瓣推荐[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/drpy.js",
+            "key":"豆瓣推荐",
+            "name":"豆瓣推荐",
+            "type": 3, 
+            "api": "csp_DouDou",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
+        },
+        {
+            "key": "bili_open",
+            "name": "哔哩猫",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": { "categories": "沙雕动画#沙雕穿越#沙雕","cookie": ""}
         },
         {
             "key": "csp_WoGG",
@@ -36,7 +44,7 @@
             "key":"drpy_js_荐片",
             "name":"荐片[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/荐片.js",
             "playerType":"1"
         },
@@ -85,25 +93,39 @@
             "key":"drpy_js_南瓜影视",
             "name":"南瓜影视[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/南瓜影视.js"
         },
         {
             "key":"drpy_js_农民",
             "name":"农民[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/农民影视.js"
         },
         {
             "key":"drpy_js_两个BT",
             "name":"两个BT[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/两个BT.js",
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key":"drpy_js_LIBVIO",
+            "name":"LIBVIO[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/LIBVIO.js"
+        },
+        {
+            "key":"drpy_js_子子影视",
+            "name":"子子影视[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/子子影视.js"
         },
         {
             "key":"kunyu77",
@@ -112,23 +134,17 @@
             "api":"./cat/kunyu77_open.js"
         },
         {
-            "key":"libvio_open",
-            "name":"LIB[cat]",
-            "type":3,
-            "api":"./cat/libvio_open.js"
-        },
-        {
             "key":"drpy_js_厂长资源",
             "name":"厂长资源[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/厂长资源.js"
         },
         {
             "key":"drpy_js_新视觉影视",
             "name":"新视觉影视[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/新视觉影视.js"
         },
         {
@@ -177,14 +193,8 @@
             "key":"drpy_js_酷客影院",
             "name":"酷客影院[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/酷客影院.js"
-        },
-        {
-            "key":"mybili",
-            "name":"哔哩[cat]",
-            "type":3,
-            "api":"./cat/mybili_open.js"
         },
         {
             "key":"Bili",
@@ -207,55 +217,45 @@
             "changeable":1
         },
         {
-            "key":"Lib",
-            "name": "Libvio",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable":1,
-            "ext":"https://www.libvio.pro/"
-        },
-        {
             "key":"drpy_js_花猫TV",
             "name":"花猫TV[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/花猫TV.js"
         },
         {
             "key":"drpy_js_素白白",
             "name":"素白白[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/素白白.js"
         },
         {
             "key":"drpy_js_HDmoli",
             "name":"HDmoli[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/HDmoli.js"
         },
         {
             "key":"drpy_js_骚火电影",
             "name":"骚火电影[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/骚火电影.js"
         },
         {
             "key":"drpy_js_花猪影视[V2]",
             "name":"花猪影视[V2][js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/花猪影视[V2].js"
         },
         {
             "key":"drpy_js_宅腐影视",
             "name":"宅腐影视[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/宅腐影视.js",
             "searchable": 0,
             "quickSearch": 1,
