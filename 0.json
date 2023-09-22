@@ -2,7 +2,7 @@
 
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;25bb6cc4f338fc20df9e5121b5bd1a25",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;533f279c487b5bd34cf4947a7afbee34",
     "lives": [
         {
             "name": "tvlive",
@@ -29,6 +29,16 @@
             "searchable": 1,
             "changeable": 0,
             "ext": { "categories": "沙雕动画#沙雕穿越#沙雕","cookie": ""}
+        },
+        {
+            "key":"Aid",
+            "name":"急救教学",
+            "type":3,
+            "api":"csp_FirstAid",
+            "searchable":0,
+            "quickSearch":0,
+            "changeable":0,
+            "style": { "type": "rect", "ratio":3.8}
         },
         {
             "key": "csp_WoGG",
