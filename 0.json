@@ -41,14 +41,16 @@
             "style": { "type": "rect", "ratio":3.8}
         },
         {
-            "key": "csp_WoGG",
-            "name": "玩偶哥哥(饭太硬阿里)",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "key":"csp_WoGG",
+            "name":"玩偶哥哥(PG)",
+            "type":3,
+            "api":"csp_Wogg",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":0,
+            "ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://www.wogg.xyz/",
+            "timeout":30,
+            "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/jy0757042fd721f69474283cb12104fcd4a2a;md5;324e8292e7fbbe12cf00b348a64d7fc8"
         },
         {
             "key":"Czsapp",
