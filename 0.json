@@ -2,7 +2,7 @@
 
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;9d742bf942adf729cadceba23f83ebd8",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;64fa98fbba7758f483e6e82dea311f77",
     "lives": [
         {
             "name": "tvlive",
@@ -98,6 +98,36 @@
             "api":"./cat/kunyu77_open.js"
         },
         {
+            "key":"Mino",
+            "name":"Mino",
+            "type":3,
+            "api":"csp_Appto",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
+        },
+        {
+            "key":"追忆",
+            "name":"追忆",
+            "type":3,
+            "api":"csp_Appto",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
+        },
+        {
+            "key":"毛驴",
+            "name":"毛驴",
+            "type":3,
+            "api":"csp_MLYS",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "ext":"https://www.maolvys.com/"
+        },
+        {
             "key":"荐片",
             "name":"荐片",
             "type":3,
@@ -177,15 +207,6 @@
             "searchable":1,
             "quickSearch":1,
             "changeable":1
-        },
-        {
-            "key": "csp_AppMr",
-            "name": "明明",
-            "type": 3,
-            "api": "csp_AppMr",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "暴風",
