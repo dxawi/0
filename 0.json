@@ -192,15 +192,6 @@
             "changeable":1
         },
         {
-            "key":"Vofl",
-            "name":"VOF",
-            "type":3,
-            "api":"csp_Voflix",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1
-        },
-        {
             "key": "暴風",
             "name": "暴風",
             "type": 1,
@@ -213,14 +204,6 @@
             "name": "索尼 ",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "快帆",
-            "name": "快帆",
-            "type": 1,
-            "api": "https://api.kuaifan.tv/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1
         },
@@ -288,35 +271,11 @@
             "ext":"https://xhdwc.tk/js/素白白.js"
         },
         {
-            "key":"drpy_js_HDmoli",
-            "name":"HDmoli[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/HDmoli.js"
-        },
-        {
             "key":"drpy_js_骚火电影",
             "name":"骚火电影[js]",
             "type":3,
             "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/骚火电影.js"
-        },
-        {
-            "key":"drpy_js_花猪影视[V2]",
-            "name":"花猪影视[V2][js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/花猪影视[V2].js"
-        },
-        {
-            "key":"drpy_js_宅腐影视",
-            "name":"宅腐影视[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/宅腐影视.js",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key":"Zhaozy",
