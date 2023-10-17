@@ -1,9 +1,9 @@
 var rule = {
     title:'荐片',
-    host:'http://jpmobile.acdn.axcxa.top',
-   // host:'http://api2.rinhome.com',
-    homeUrl:'https://yjpapipxblwdohpakljwg.hxhzs.com/api/tag/hand?code=unknown601193cf375db73d&channel=wandoujia',//网站的首页链接,用于分类获取和推荐获取
-   // homeUrl:'/api/tag/hand?code=unknown601193cf375db73d&channel=wandoujia',//网站的首页链接,用于分类获取和推荐获取
+    //host:'http://jpmobile.acdn.axcxa.top',
+    host:'http://api2.rinhome.com',
+    //homeUrl:'https://yjpapipxblwdohpakljwg.hxhzs.com/api/tag/hand?code=unknown601193cf375db73d&channel=wandoujia',//网站的首页链接,用于分类获取和推荐获取
+    homeUrl:'/api/tag/hand?code=unknown601193cf375db73d&channel=wandoujia',//网站的首页链接,用于分类获取和推荐获取
     // url:'/api/crumb/list?area=0&category_id=fyclass&page=fypage&type=0&limit=24&fyfilter',
     url:'/api/crumb/list?area=0&page=fypage&type=0&limit=24&fyfilter',
     class_name:'电视剧&综艺&电影&动漫&全部',     // 筛选 /api/term/ad_fenlei?limit=10&page=1
