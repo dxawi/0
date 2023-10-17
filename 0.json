@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;e60ee56ecb22ea3575471e7dd9e0c338",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;b16805667428f2e36ac34a8d31af2ffe",
     "lives": [
         {
             "name": "tvlive",
@@ -110,6 +110,33 @@
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
         },
         {
+            "key": "JOJO", 
+            "name":"JOJO",
+            "type": 3,
+            "api": "csp_JOJO",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable":1
+        },
+        {
+            "key":"drpy_js_荐片",
+            "name":"荐片[js]",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/荐片.js",
+            "playerType":"1"
+        },
+        {
+            "key":"zxzj",
+            "name":"在线",
+            "type":3,
+            "api":"csp_Zxzj",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "ext":"https://www.zxzj.pro/"
+        },
+        {
             "key": "一起看 ",
             "name": "一起看",
             "type": 3,
@@ -127,17 +154,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
-        },
-        {
-            "key": "荐片",
-            "name": "荐片",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": "1",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
         },
         {
             "key": "drpy_js_南瓜影视",
