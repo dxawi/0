@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;5388d60fb0519fa359339c3252fa5e69",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;e60ee56ecb22ea3575471e7dd9e0c338",
     "lives": [
         {
             "name": "tvlive",
@@ -49,7 +49,8 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "https://www.cz0101.com/"
         },
         {
             "key": "Xinsj",
