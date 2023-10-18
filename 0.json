@@ -78,12 +78,6 @@
             "api": "./cat/subaibai_open.js"
         },
         {
-            "key": "kkys",
-            "name": "快看影视[cat]",
-            "type": 3,
-            "api": "./cat/kkys_open.js"
-        },
-        {
             "key": "kunyu77",
             "name": "琨娱七七[cat]",
             "type": 3,
