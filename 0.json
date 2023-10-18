@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;b16805667428f2e36ac34a8d31af2ffe",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;f6eac2c1831ccd0215892f30c306958f",
     "lives": [
         {
             "name": "tvlive",
@@ -156,6 +156,13 @@
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
         },
         {
+            "key":"drpy_js_短剧网",
+            "name":"短剧网[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/短剧网.js"
+        },
+        {
             "key": "drpy_js_南瓜影视",
             "name": "南瓜影视[js]",
             "type": 3,
@@ -167,16 +174,6 @@
             "name": "77",
             "type": 3,
             "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Cokemv",
-            "name": "Cokemv",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -289,13 +286,6 @@
             "type": 3,
             "api": "https://xhdwc.tk/lib/drpy2.min.js",
             "ext": "https://xhdwc.tk/js/新视觉影视.js"
-        },
-        {
-            "key": "drpy_js_酷客影院",
-            "name": "酷客影院[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/酷客影院.js"
         },
         {
             "key": "drpy_js_花猫TV",
