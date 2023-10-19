@@ -183,6 +183,17 @@
             "ext": "https://api123.adys.app/xgapp.php/v3/"
         },
         {
+            "key":"腐宅",
+            "name":"腐宅",
+            "type":3,
+            "api":"csp_AppYsV2",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":0,
+            "ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+        },
+        {
             "key": "kuaikan",
             "name": "快看",
             "type": 3,
