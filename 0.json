@@ -329,6 +329,49 @@
             "ext": "https://xhdwc.tk/js/骚火电影.js"
         },
         {
+            "key":"88",
+            "name":"88看球",
+            "type":3,
+            "api":"https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
+            "style":{"type":"rect","ratio":1},
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable":0
+        },
+        {
+            "key":"MV_vod",
+            "name":"明星MV",
+            "type":1,
+            "api":"https://mv.wogg.link/mv/vod",
+            "style":{"type":"oval"},
+            "searchable":1,
+            "quickSearch":0,
+            "changeable":0
+        },
+        {
+            "key":"虎牙",
+            "name":"虎牙直播",
+            "type":3,
+            "api":"https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
+            "style":{"type":"rect","ratio":1.755},
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable":0
+        },
+        {
+            "key":"斗鱼",
+            "name":"斗鱼直播",
+            "type":3,
+            "api":"https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+            "style":{"type":"rect","ratio":1.755},
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable":0
+        },
+        {
             "key": "Zhaozy",
             "name": "找资源(阿里搜索)",
             "type": 3,
