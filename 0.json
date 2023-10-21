@@ -23,7 +23,7 @@
             "key": "bili_open",
             "name": "哔哩猫",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+            "api": "https://xhdwc.tk/js/bili_open.js",
             "searchable": 1,
             "changeable": 0,
             "ext": {
@@ -72,18 +72,6 @@
             "filterable": 1
         },
         {
-            "key": "subaibai",
-            "name": "素白白[cat]",
-            "type": 3,
-            "api": "./cat/subaibai_open.js"
-        },
-        {
-            "key": "kunyu77",
-            "name": "琨娱七七[cat]",
-            "type": 3,
-            "api": "./cat/kunyu77_open.js"
-        },
-        {
             "key": "橘子",
             "name": "橘子",
             "type": 3,
@@ -126,20 +114,34 @@
             "playerType":"1"
         },
         {
+            "key":"腐宅",
+            "name":"腐宅",
+            "type":3,
+            "api":"csp_AppYsV2",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":0,
+            "ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+        },
+        {
+            "key": "subaibai",
+            "name": "素白白[cat]",
+            "type": 3,
+            "api": "./cat/subaibai_open.js"
+        },
+        {
+            "key": "kunyu77",
+            "name": "琨娱七七[cat]",
+            "type": 3,
+            "api": "./cat/kunyu77_open.js"
+        },
+        {
             "key":"Cokemv",
             "name":"可乐",
             "type":3,
             "api":"csp_Cokemv",
             "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1
-        },
-        {
-            "key":"csp_Dm84",
-            "name":"动漫巴士",
-            "type":3,
-            "api":"csp_Dm84",
             "searchable":1,
             "quickSearch":1,
             "changeable":1
@@ -205,17 +207,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://api123.adys.app/xgapp.php/v3/"
-        },
-        {
-            "key":"腐宅",
-            "name":"腐宅",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0,
-            "ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
         },
         {
             "key": "kuaikan",
