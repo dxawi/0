@@ -82,13 +82,14 @@
             "ext": "https://www.libvio.pro/"
         },
         {
-            "key": "csp_Bttoo",
-            "name": "Bt",
+            "key": "drpy_js_两个BT",
+            "name": "BT[js]",
             "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
+            "api": "https://xhdwc.tk/lib/drpy2.min.js",
+            "ext": "https://xhdwc.tk/js/两个BT.js",
+            "searchable": 0,
             "quickSearch": 1,
-            "changeable": 0
+            "filterable": 1
         },
         {
             "key":"热剧猫",
@@ -267,16 +268,6 @@
             "api": "csp_Ying",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "drpy_js_两个BT",
-            "name": "BT[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/两个BT.js",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "drpy_js_子子影视",
