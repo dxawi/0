@@ -72,14 +72,23 @@
             "filterable": 1
         },
         {
-            "key":"Mino",
-            "name":"Mino",
-            "type":3,
-            "api":"csp_AppMao",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
+            "key": "Lib",
+            "name": "Lib",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.libvio.pro/"
+        },
+        {
+            "key": "csp_Bttoo",
+            "name": "Bt",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key":"热剧猫",
@@ -90,15 +99,6 @@
             "quickSearch":1,
             "changeable":1,
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA8MND2wVtbm3ykpXXJ3bqXTQ0QXY5aa4ACm9djOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgqdPQKDtPWh4fhHsOhoVtp+X5gHQWNAPTdwLiEUYrQOCBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr04e951VEYXUQxQnysQQADx838e6ihlgsUzqcr1mU0wSCBZ7aw6em0LlqCi8Q2ZRdrz8zKIuN+nXZTeZx8nXbWlSFUw2O9lf2Hs4Pf87vf+g9Nk7qRCAHwQDsY62lPCqruUDkfKGV1FS0Afdl8L/QzvvsosjOb3hmPGhg+HCK8hhvjIhBORqTqs6sYW1iHeqkkm7Unr+KNC1+2stfYOhbvQ8Xxg51KdMMnDPSh0OX+opaZ8+5n5Wfc1laahI7hJ"
-        },
-        {
-            "key": "JOJO",
-            "name": "︎JOJO",
-            "type": 3,
-            "api": "csp_JOJO",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
 			"key": "ok",
@@ -228,15 +228,6 @@
             "ext": "https://api123.adys.app/xgapp.php/v3/"
         },
         {
-            "key": "kuaikan",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "DiDuan",
             "name": "低端",
             "type": 3,
@@ -246,27 +237,8 @@
             "changeable": 1
         },
         {
-            "key": "Lib",
-            "name": "Lib",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.pro/"
-        },
-        {
-            "key": "csp_Bttoo",
-            "name": "Bt",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "暴風",
-            "name": "暴風",
+            "key": "暴风",
+            "name": "暴风",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "searchable": 1,
@@ -295,12 +267,6 @@
             "api": "csp_Ying",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "drpy_js_小纸条",
-            "name": "小纸条[测试js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/js/小纸条一级推送测试.js"
         },
         {
             "key": "drpy_js_两个BT",
@@ -374,17 +340,6 @@
             "type":3,
             "api":"https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
-            "style":{"type":"rect","ratio":1.755},
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable":0
-        },
-        {
-            "key":"斗鱼",
-            "name":"斗鱼直播",
-            "type":3,
-            "api":"https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-            "ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
             "style":{"type":"rect","ratio":1.755},
             "searchable": 0,
             "quickSearch": 0,
