@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;60a9856a6deb7dcff27f3056626bbb5a",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;5bb9b815e54c4103323386d637fada95",
     "lives": [
         {
             "name": "tvlive",
@@ -20,18 +20,6 @@
             "filterable": 0
         },
         {
-            "key": "bili_open",
-            "name": "哔哩猫",
-            "type": 3,
-            "api": "https://xhdwc.tk/js/bili_open.js",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "categories": "沙雕动画#沙雕穿越#沙雕",
-                "cookie": ""
-            }
-        },
-        {
             "key": "csp_WoGG",
             "name": "玩偶哥哥(饭太硬)",
             "type": 3,
@@ -40,17 +28,6 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd"
-        },
-        {
-            "key": "Czsapp",
-            "name": "厂长",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czz9.com/"
         },
         {
             "key": "Xinsj",
@@ -63,118 +40,13 @@
             "ext": "https://www.6080yy3.com/"
         },
         {
-            "key": "csp_Auete",
-            "name": "Auete",
+            "key": "77",
+            "name": "77",
             "type": 3,
-            "api": "csp_Auete",
+            "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Lib",
-            "name": "Lib",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.pro/"
-        },
-        {
-            "key": "drpy_js_两个BT",
-            "name": "BT[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/两个BT.js",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key":"热剧猫",
-            "name":"热剧猫",
-            "type":3,
-            "api":"csp_AppMao",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA8MND2wVtbm3ykpXXJ3bqXTQ0QXY5aa4ACm9djOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgqdPQKDtPWh4fhHsOhoVtp+X5gHQWNAPTdwLiEUYrQOCBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr04e951VEYXUQxQnysQQADx838e6ihlgsUzqcr1mU0wSCBZ7aw6em0LlqCi8Q2ZRdrz8zKIuN+nXZTeZx8nXbWlSFUw2O9lf2Hs4Pf87vf+g9Nk7qRCAHwQDsY62lPCqruUDkfKGV1FS0Afdl8L/QzvvsosjOb3hmPGhg+HCK8hhvjIhBORqTqs6sYW1iHeqkkm7Unr+KNC1+2stfYOhbvQ8Xxg51KdMMnDPSh0OX+opaZ8+5n5Wfc1laahI7hJ"
-        },
-        {
-			"key": "ok",
-			"name": "FreeOk",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"playerType": "1",
-			"ext": {
-				"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-				"分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
-				"分类值": "new&1&2&3&4&hot",
-				"嗅探词": "m3u8#.m3u8#.mp4#mp4",
-				"搜索url": "https://search.ymck.me/index.php?q={wd}",
-                "搜索数组": "<b>&&</b>[包含:Freeok]",
-                "搜索副标题": "<a>&&</a>",
-                "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-                "线路标题": "<span>&&</small>",
-                "搜索标题": "class='movie_name'>&&</a>",
-                "搜索链接": "href=\"&&\"",
-                "搜索图片": "http://xhww.fun:63/ss.jpg",
-				"导演": "导演：&&</div>",
-				"主演": "主演：&&</div>",
-				"简介": "<p>&&</p>"
-			}
-		},
-        {
-            "key":"drpy_js_荐片",
-            "name":"荐片[js]",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/荐片.js",
-            "playerType":"1"
-        },
-        {
-            "key":"腐宅",
-            "name":"腐宅",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0,
-            "ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "key": "subaibai",
-            "name": "素白白[cat]",
-            "type": 3,
-            "api": "./cat/subaibai_open.js"
-        },
-        {
-            "key": "kunyu77",
-            "name": "琨娱七七[cat]",
-            "type": 3,
-            "api": "./cat/kunyu77_open.js"
-        },
-        {
-            "key":"Cokemv",
-            "name":"可乐",
-            "type":3,
-            "api":"csp_Cokemv",
-            "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1
-        },
-        {
-            "key":"zxzj",
-            "name":"在线",
-            "type":3,
-            "api":"csp_Zxzj",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext":"https://www.zxzj.pro/"
+            "changeable": 1
         },
         {
             "key": "一起看 ",
@@ -196,11 +68,21 @@
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
         },
         {
-            "key":"drpy_js_短剧网",
-            "name":"短剧网[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/短剧网.js"
+            "key": "Lib",
+            "name": "Lib",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.libvio.pro/"
+        },
+        {
+            "key": "drpy_js_两个BT",
+            "name": "BT[js]",
+            "type": 3,
+            "api": "https://xhdwc.tk/lib/drpy2.min.js",
+            "ext": "https://xhdwc.tk/js/两个BT.js"
         },
         {
             "key": "drpy_js_南瓜影视",
@@ -208,15 +90,88 @@
             "type": 3,
             "api": "https://xhdwc.tk/lib/drpy2.min.js",
             "ext": "https://xhdwc.tk/js/南瓜影视.js"
+        },     
+        {
+            "key": "ok",
+            "name": "FreeOk",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": {
+                "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+                "分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
+                "分类值": "new&1&2&3&4&hot",
+                "嗅探词": "m3u8#.m3u8#.mp4#mp4",
+                "搜索url": "https://search.ymck.me/index.php?q={wd}",
+                "搜索数组": "<b>&&</b>[包含:Freeok]",
+                "搜索副标题": "<a>&&</a>",
+                "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+                "线路标题": "<span>&&</small>",
+                "搜索标题": "class='movie_name'>&&</a>",
+                "搜索链接": "href=\"&&\"",
+                "搜索图片": "http://xhww.fun:63/ss.jpg",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "简介": "<p>&&</p>"
+            }
         },
         {
-            "key": "77",
-            "name": "77",
+            "key": "drpy_js_荐片",
+            "name": "荐片[js]",
             "type": 3,
-            "api": "csp_Kunyu77",
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/荐片.js",
+            "playerType": "1"
+        },
+        {
+            "key": "腐宅",
+            "name": "腐宅",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+        },
+        {
+            "key": "subaibai",
+            "name": "素白白[cat]",
+            "type": 3,
+            "api": "./cat/subaibai_open.js"
+        },
+        {
+            "key": "kunyu77",
+            "name": "琨娱七七[cat]",
+            "type": 3,
+            "api": "./cat/kunyu77_open.js"
+        },
+        {
+            "key": "Cokemv",
+            "name": "可乐",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "zxzj",
+            "name": "在线",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzj.pro/"
+        },
+        {
+            "key": "drpy_js_短剧网",
+            "name": "短剧网[js]",
+            "type": 3,
+            "api": "https://xhdwc.tk/lib/drpy2.min.js",
+            "ext": "https://xhdwc.tk/js/短剧网.js"
         },
         {
             "key": "迪迪",
@@ -236,6 +191,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "bili_open",
+            "name": "哔哩猫",
+            "type": 3,
+            "api": "https://xhdwc.tk/js/bili_open.js",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "categories": "沙雕动画#沙雕穿越#沙雕",
+                "cookie": ""
+            }
         },
         {
             "key": "暴风",
@@ -270,13 +237,6 @@
             "changeable": 1
         },
         {
-            "key": "drpy_js_子子影视",
-            "name": "子子影视[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/子子影视.js"
-        },
-        {
             "key": "drpy_js_新视觉影视",
             "name": "新视觉影视[js]",
             "type": 3,
@@ -305,36 +265,44 @@
             "ext": "https://xhdwc.tk/js/骚火电影.js"
         },
         {
-            "key":"88",
-            "name":"88看球",
-            "type":3,
-            "api":"https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-            "ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
-            "style":{"type":"rect","ratio":1},
+            "key": "88",
+            "name": "88看球",
+            "type": 3,
+            "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
             "searchable": 0,
             "quickSearch": 0,
-            "changeable":0
+            "changeable": 0
         },
         {
-            "key":"MV_vod",
-            "name":"明星MV",
-            "type":1,
-            "api":"https://mv.wogg.link/mv/vod",
-            "style":{"type":"oval"},
-            "searchable":1,
-            "quickSearch":0,
-            "changeable":0
+            "key": "MV_vod",
+            "name": "明星MV",
+            "type": 1,
+            "api": "https://mv.wogg.link/mv/vod",
+            "style": {
+                "type": "oval"
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
         },
         {
-            "key":"虎牙",
-            "name":"虎牙直播",
-            "type":3,
-            "api":"https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-            "ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
-            "style":{"type":"rect","ratio":1.755},
+            "key": "虎牙",
+            "name": "虎牙直播",
+            "type": 3,
+            "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.755
+            },
             "searchable": 0,
             "quickSearch": 0,
-            "changeable":0
+            "changeable": 0
         },
         {
             "key": "Zhaozy",
