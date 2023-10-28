@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;1a676d21a89c589f2ebc13528a591fcd",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;3eb3583bc70b80ec673d88397967dbec",
     "lives": [
         {
             "name": "tvlive",
@@ -40,13 +40,24 @@
             "ext": "https://www.6080yy3.com/"
         },
         {
-            "key": "77",
-            "name": "77",
+            "key": "csp_Auete",
+            "name": "Auete",
             "type": 3,
-            "api": "csp_Kunyu77",
+            "api": "csp_Auete",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "filterable": 1
+        },
+        {
+            "key": "Czsapp",
+            "name": "厂长",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.czz9.com/"
         },
         {
             "key": "一起看 ",
@@ -90,7 +101,7 @@
             "type": 3,
             "api": "https://xhdwc.tk/lib/drpy2.min.js",
             "ext": "https://xhdwc.tk/js/南瓜影视.js"
-        },     
+        },
         {
             "key": "ok",
             "name": "FreeOk",
@@ -122,6 +133,24 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/荐片.js",
             "playerType": "1"
+        },
+        {
+            "key": "猫农民",
+            "name": "农民[cat]",
+            "type": 3,
+            "api": "./cat/猫农民.js"
+        },
+        {
+            "key": "猫在线之家",
+            "name": "在线之家[cat]",
+            "type": 3,
+            "api": "./cat/猫在线之家.js"
+        },
+        {
+            "key": "猫南瓜",
+            "name": "南瓜[cat]",
+            "type": 3,
+            "api": "./cat/猫南瓜.js"
         },
         {
             "key": "腐宅",
