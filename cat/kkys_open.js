@@ -51,7 +51,7 @@ async function init(cfg) {
     if (_.isEmpty(device)) {
         device = randDevice();
         device.id = randStr(33).toLowerCase();
-        device.ua = 'okhttp/3.12.0';
+        device.ua = 'okhttp/4.1.0';
         await local.set(key, deviceKey, JSON.stringify(device));
     }
 }

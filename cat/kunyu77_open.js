@@ -70,10 +70,6 @@ async function init(cfg) {
         device.ua = 'Dalvik/2.1.0 (Linux; U; Android ' + device.release + '; ' + device.model + ' Build/' + device.buildId + ')';
         await local.set(key, deviceKey, JSON.stringify(device));
     }
-    await request(url + '/api.php/provide/getDomain');
-    await request(url + '/api.php/provide/config');
-    await request(url + '/api.php/provide/checkUpgrade');
-    await request(url + '/api.php/provide/channel');
 }
 
 async function home(filter) {

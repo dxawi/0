@@ -2,7 +2,7 @@
 import { load, _ } from './lib/cat.js';
 
 var key = 'libvio';
-var HOST = 'https://www.libvio.pro'; // 地址发布页
+var HOST = 'https://libvio.app'; // 地址发布页
 var host = '';
 var siteKey = '';
 var siteType = 0;
@@ -146,6 +146,22 @@ async function detail(id) {
 
 async function play(flag, id, flags) {
     var html = await request(host + id);
+    if (/"url":"https:.+?pan.quark.cn.+?"/.test(html)) {
+        const pushUrl = 'mpush://' + html.match(/"url":"(https:.+?pan.quark.cn.+?)"/)[1].replace(/\\/g, '');
+        console.log('====>>>>' + pushUrl);
+        return JSON.stringify({
+            parse: 0,
+            url: pushUrl
+        });
+    }
+    if (/"url":"https:.+?www.aliyundrive.com.+?"/.test(html)) {
+        const pushUrl = 'mpush://' + html.match(/"url":"(https:.+?www.aliyundrive.com.+?)"/)[1].replace(/\\/g, '');
+        console.log('====>>>>' + pushUrl);
+        return JSON.stringify({
+            parse: 0,
+            url: pushUrl
+        });
+    }
     html = html.match(/r player_.*?=(.*?)</)[1];
     var js = JSON.parse(html);
     var url = js.url;
@@ -158,7 +174,7 @@ async function play(flag, id, flags) {
     var purl = paurl + url + '&next=' + next + '&id=' + id + '&nid=' + nid;
     var playUrl = await request(purl);
     playUrl = playUrl.match(/var .* = '(.*?)'/)[1];
-    // console.debug('libvio playUrl =====>' + playUrl); // js_debug.log
+    console.debug('libvio playUrl =====>' + playUrl); // js_debug.log
     return JSON.stringify({
         parse: 0,
         url: playUrl,
