@@ -49,17 +49,6 @@
             "filterable": 1
         },
         {
-            "key": "Czsapp",
-            "name": "厂长",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czz9.com/"
-        },
-        {
             "key": "一起看 ",
             "name": "一起看",
             "type": 3,
@@ -151,6 +140,18 @@
             "name": "南瓜[cat]",
             "type": 3,
             "api": "./cat/猫南瓜.js"
+        },
+        {
+            "key": "czzy",
+            "name": "厂长资源[cat]",
+            "type": 3,
+            "api": "./cat/czzy_open.js"
+        },
+        {
+            "key": "livbo",
+            "name": "Lib[cat]",
+            "type": 3,
+            "api": "./cat/MyCatLibvio.js"
         },
         {
             "key": "腐宅",
