@@ -124,15 +124,6 @@
             "ext": "https://www.czzy88.com/"
         },
         {
-            "key": "77",
-            "name": "77",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "ok",
             "name": "FreeOk",
             "type": 3,
