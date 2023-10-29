@@ -30,6 +30,14 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹"
         },
         {
+            "key": "drpy_js_荐片",
+            "name": "荐片[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/荐片.js",
+            "playerType": "1"
+        },
+        {
             "key": "Xinsj",
             "name": "新视觉",
             "type": 3,
@@ -58,26 +66,6 @@
             "changeable": 1
         },
         {
-            "key": "Czsapp",
-            "name": "厂长",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czzy88.com/"
-        },
-        {
-            "key": "77",
-            "name": "77",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Nmys",
             "name": "农民",
             "type": 3,
@@ -98,18 +86,51 @@
             "ext": "https://www.libvio.pro/"
         },
         {
-            "key": "drpy_js_两个BT",
-            "name": "BT[js]",
+            "key": "zxzj",
+            "name": "在线",
             "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/两个BT.js"
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzj.pro/"
         },
         {
-            "key": "drpy_js_南瓜影视",
-            "name": "南瓜影视[js]",
+            "key": "DiDuan",
+            "name": "低端",
             "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/南瓜影视.js"
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "櫻花",
+            "name": "櫻花",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Czsapp",
+            "name": "厂长",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.czzy88.com/"
+        },
+        {
+            "key": "77",
+            "name": "77",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "ok",
@@ -136,44 +157,6 @@
             }
         },
         {
-            "key": "drpy_js_荐片",
-            "name": "荐片[js]",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/荐片.js",
-            "playerType": "1"
-        },
-        {
-            "key": "猫农民",
-            "name": "农民[cat]",
-            "type": 3,
-            "api": "./cat/猫农民.js"
-        },
-        {
-            "key": "猫在线之家",
-            "name": "在线之家[cat]",
-            "type": 3,
-            "api": "./cat/猫在线之家.js"
-        },
-        {
-            "key": "猫南瓜",
-            "name": "南瓜[cat]",
-            "type": 3,
-            "api": "./cat/猫南瓜.js"
-        },
-        {
-            "key": "czzy",
-            "name": "厂长资源[cat]",
-            "type": 3,
-            "api": "./cat/czzy_open.js"
-        },
-        {
-            "key": "livbo",
-            "name": "Lib[cat]",
-            "type": 3,
-            "api": "./cat/MyCatLibvio.js"
-        },
-        {
             "key": "腐宅",
             "name": "腐宅",
             "type": 3,
@@ -183,45 +166,6 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "key": "subaibai",
-            "name": "素白白[cat]",
-            "type": 3,
-            "api": "./cat/subaibai_open.js"
-        },
-        {
-            "key": "kunyu77",
-            "name": "琨娱七七[cat]",
-            "type": 3,
-            "api": "./cat/kunyu77_open.js"
-        },
-        {
-            "key": "Cokemv",
-            "name": "可乐",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "zxzj",
-            "name": "在线",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzj.pro/"
-        },
-        {
-            "key": "drpy_js_短剧网",
-            "name": "短剧网[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/短剧网.js"
         },
         {
             "key": "迪迪",
@@ -234,13 +178,57 @@
             "ext": "https://api123.adys.app/xgapp.php/v3/"
         },
         {
-            "key": "DiDuan",
-            "name": "低端",
+            "key": "猫农民",
+            "name": "农民[cat]",
             "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "api": "./cat/猫农民.js"
+        },
+        {
+            "key": "猫南瓜",
+            "name": "南瓜[cat]",
+            "type": 3,
+            "api": "./cat/猫南瓜.js"
+        },
+        {
+            "key": "kunyu77",
+            "name": "琨娱七七[cat]",
+            "type": 3,
+            "api": "./cat/kunyu77_open.js"
+        },
+        {
+            "key": "drpy_js_两个BT",
+            "name": "BT[js]",
+            "type": 3,
+            "api": "https://xhdwc.tk/lib/drpy2.min.js",
+            "ext": "https://xhdwc.tk/js/两个BT.js"
+        },
+        {
+            "key": "drpy_js_新视觉影视",
+            "name": "新视觉影视[js]",
+            "type": 3,
+            "api": "https://xhdwc.tk/lib/drpy2.min.js",
+            "ext": "https://xhdwc.tk/js/新视觉影视.js"
+        },
+        {
+            "key": "drpy_js_花猫TV",
+            "name": "花猫TV[js]",
+            "type": 3,
+            "api": "https://xhdwc.tk/lib/drpy2.min.js",
+            "ext": "https://xhdwc.tk/js/花猫TV.js"
+        },
+        {
+            "key": "drpy_js_骚火电影",
+            "name": "骚火电影[js]",
+            "type": 3,
+            "api": "https://xhdwc.tk/lib/drpy2.min.js",
+            "ext": "https://xhdwc.tk/js/骚火电影.js"
+        },
+        {
+            "key": "drpy_js_短剧网",
+            "name": "短剧网[js]",
+            "type": 3,
+            "api": "https://xhdwc.tk/lib/drpy2.min.js",
+            "ext": "https://xhdwc.tk/js/短剧网.js"
         },
         {
             "key": "bili_open",
@@ -277,56 +265,6 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "櫻花",
-            "name": "櫻花",
-            "type": 3,
-            "api": "csp_Ying",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_新视觉影视",
-            "name": "新视觉影视[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/新视觉影视.js"
-        },
-        {
-            "key": "drpy_js_花猫TV",
-            "name": "花猫TV[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/花猫TV.js"
-        },
-        {
-            "key": "drpy_js_素白白",
-            "name": "素白白[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/素白白.js"
-        },
-        {
-            "key": "drpy_js_骚火电影",
-            "name": "骚火电影[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/骚火电影.js"
-        },
-        {
-            "key": "88",
-            "name": "88看球",
-            "type": 3,
-            "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-            "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
         },
         {
             "key": "MV_vod",
