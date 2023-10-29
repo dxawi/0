@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;3eb3583bc70b80ec673d88397967dbec",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;aabde6a8ab69185b3de13788799f5f53",
     "lives": [
         {
             "name": "tvlive",
@@ -76,6 +76,15 @@
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
         },
         {
+            "key": "77",
+            "name": "七七",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "Lib",
             "name": "Lib",
             "type": 3,
@@ -105,8 +114,8 @@
             "changeable": 1
         },
         {
-            "key": "櫻花",
-            "name": "櫻花",
+            "key": "樱花",
+            "name": "樱花",
             "type": 3,
             "api": "csp_Ying",
             "searchable": 1,
