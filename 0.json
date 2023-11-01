@@ -216,7 +216,7 @@
         },
         {
             "key": "drpy_js_两个BT",
-            "name": "BT[js]",
+            "name": "Bttwoo[js]",
             "type": 3,
             "api": "https://xhdwc.tk/lib/drpy2.min.js",
             "ext": "https://xhdwc.tk/js/两个BT.js"
@@ -286,18 +286,6 @@
             "changeable": 1
         },
         {
-            "key": "MV_vod",
-            "name": "明星MV",
-            "type": 1,
-            "api": "https://mv.wogg.link/mv/vod",
-            "style": {
-                "type": "oval"
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "虎牙",
             "name": "虎牙直播",
             "type": 3,
@@ -310,17 +298,6 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
-        },
-        {
-            "key": "Zhaozy",
-            "name": "找资源(阿里搜索)",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanty$$$qqq111"
         },
         {
             "key": "七夜",
