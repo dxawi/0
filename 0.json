@@ -133,14 +133,6 @@
             "changeable": 1
         },
         {
-            "key": "樱花",
-            "name": "樱花",
-            "type": 3,
-            "api": "csp_Ying",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "Czsapp",
             "name": "厂长",
             "type": 3,
