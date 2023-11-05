@@ -189,22 +189,10 @@
             "ext": "https://api123.adys.app/xgapp.php/v3/"
         },
         {
-            "key": "猫农民",
-            "name": "农民[cat]",
-            "type": 3,
-            "api": "./cat/猫农民.js"
-        },
-        {
             "key": "猫南瓜",
             "name": "南瓜[cat]",
             "type": 3,
             "api": "./cat/猫南瓜.js"
-        },
-        {
-            "key": "kunyu77",
-            "name": "琨娱七七[cat]",
-            "type": 3,
-            "api": "./cat/kunyu77_open.js"
         },
         {
             "key": "drpy_js_两个BT",
