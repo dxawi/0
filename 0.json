@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;f6ce0ce7bd8b398540be062ebef7051d",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
     "lives": [
         {
             "name": "tvlive",
@@ -116,15 +116,6 @@
             "ext": "https://www.zxzj.pro/"
         },
         {
-            "key": "DiDuan",
-            "name": "低端",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "Czsapp",
             "name": "厂长",
             "type": 3,
@@ -142,30 +133,6 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/荐片.js",
             "playerType": "1"
-        },
-        {
-            "key": "ok",
-            "name": "FreeOk",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "1",
-            "ext": {
-                "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-                "分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
-                "分类值": "new&1&2&3&4&hot",
-                "嗅探词": "m3u8#.m3u8#.mp4#mp4",
-                "搜索url": "https://search.ymck.me/index.php?q={wd}",
-                "搜索数组": "<b>&&</b>[包含:Freeok]",
-                "搜索副标题": "<a>&&</a>",
-                "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-                "线路标题": "<span>&&</small>",
-                "搜索标题": "class='movie_name'>&&</a>",
-                "搜索链接": "href=\"&&\"",
-                "搜索图片": "http://xhww.fun:63/ss.jpg",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "简介": "<p>&&</p>"
-            }
         },
         {
             "key": "腐宅",
@@ -187,26 +154,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://api123.adys.app/xgapp.php/v3/"
-        },
-        {
-            "key": "猫南瓜",
-            "name": "南瓜[cat]",
-            "type": 3,
-            "api": "./cat/猫南瓜.js"
-        },
-        {
-            "key": "drpy_js_两个BT",
-            "name": "Bttwoo[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/两个BT.js"
-        },
-        {
-            "key": "drpy_js_新视觉影视",
-            "name": "新视觉影视[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/新视觉影视.js"
         },
         {
             "key": "drpy_js_花猫TV",
