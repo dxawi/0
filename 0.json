@@ -106,6 +106,16 @@
             "ext": "https://www.libvio.pro/"
         },
         {
+            "key": "DiDuan",
+            "name": "低端",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "zxzj",
             "name": "在线",
             "type": 3,
@@ -125,6 +135,16 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://czz9.com/"
+        },
+        {
+            "key": "新6V",
+            "name": "新6V磁力",
+            "type": 3,
+            "api": "csp_SixV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://www.xb6v.com/"
         },
         {
             "key": "drpy_js_荐片",
