@@ -27,7 +27,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.json+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
         },
         {
             "key": "Xinsj",
@@ -188,13 +188,6 @@
             "type": 3,
             "api": "https://xhdwc.tk/lib/drpy2.min.js",
             "ext": "https://xhdwc.tk/js/骚火电影.js"
-        },
-        {
-            "key": "drpy_js_短剧网",
-            "name": "短剧网[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/短剧网.js"
         },
         {
             "key": "bili_open",
