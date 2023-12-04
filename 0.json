@@ -30,17 +30,6 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.json+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
         },
         {
-            "key": "迪迪",
-            "name": "迪迪",
-            "api": "csp_AppYsV2",
-            "type": 3,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://api123.adys.app/xgapp.php/v3/"
-        },
-        {
             "key": "csp_Nmys",
             "name": "农民",
             "type": 3,
@@ -168,6 +157,13 @@
             "ext": "https://www.zxzj.pro/"
         },
         {
+            "key": "drpy_js_骚火电影",
+            "name": "骚火电影[js]",
+            "type": 3,
+            "api": "https://xhdwc.tk/lib/drpy2.min.js",
+            "ext": "https://xhdwc.tk/js/骚火电影.js"
+        },
+        {
             "key": "新6V",
             "name": "新6V磁力",
             "type": 3,
@@ -189,6 +185,17 @@
             "ext": "https://fanty.run.goorm.site/ext/jp.js"
         },
         {
+            "key": "迪迪",
+            "name": "迪迪",
+            "api": "csp_AppYsV2",
+            "type": 3,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://api123.adys.app/xgapp.php/v3/"
+        },
+        {
             "key": "腐宅",
             "name": "腐宅",
             "type": 3,
@@ -198,13 +205,6 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "key": "drpy_js_骚火电影",
-            "name": "骚火电影[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/骚火电影.js"
         },
         {
             "key": "bili_open",
