@@ -30,6 +30,48 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.json+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
         },
         {
+            "key": "迪迪",
+            "name": "迪迪",
+            "api": "csp_AppYsV2",
+            "type": 3,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://api123.adys.app/xgapp.php/v3/"
+        },
+        {
+            "key": "csp_Nmys",
+            "name": "农民",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://fanty.run.goorm.site/ext/nmys.json"
+        },
+        {
+            "key": "Czsapp",
+            "name": "厂长",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://czz9.com/"
+        },
+        {
+            "key": "毛驴",
+            "name": "毛驴",
+            "type": 3,
+            "api": "csp_MLYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.maolvys.com/"
+        },
+        {
             "key": "Xinsj",
             "name": "新视觉",
             "type": 3,
@@ -37,7 +79,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.6080yy3.com/"
+            "ext": "https://www.hdmyy.com/"
+        },
+        {
+            "key": "Cokemv",
+            "name": "Cokemv",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "csp_Auete",
@@ -75,16 +127,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "csp_Nmys",
-            "name": "农民",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
         },
         {
             "key": "77",
@@ -126,17 +168,6 @@
             "ext": "https://www.zxzj.pro/"
         },
         {
-            "key": "Czsapp",
-            "name": "厂长",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://czz9.com/"
-        },
-        {
             "key": "新6V",
             "name": "新6V磁力",
             "type": 3,
@@ -147,12 +178,15 @@
             "ext": "http://www.xb6v.com/"
         },
         {
-            "key": "drpy_js_荐片",
-            "name": "荐片[js]",
+            "key": "荐片",
+            "name": "荐片",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/荐片.js",
-            "playerType": "1"
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/jp.js"
         },
         {
             "key": "腐宅",
@@ -164,23 +198,6 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "key": "迪迪",
-            "name": "迪迪",
-            "api": "csp_AppYsV2",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://api123.adys.app/xgapp.php/v3/"
-        },
-        {
-            "key": "drpy_js_花猫TV",
-            "name": "花猫TV[js]",
-            "type": 3,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/花猫TV.js"
         },
         {
             "key": "drpy_js_骚火电影",
@@ -224,20 +241,6 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "虎牙",
-            "name": "虎牙直播",
-            "type": 3,
-            "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-            "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
         },
         {
             "key": "七夜",
