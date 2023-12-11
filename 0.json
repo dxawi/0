@@ -207,18 +207,6 @@
             "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
         },
         {
-            "key": "bili_open",
-            "name": "哔哩猫",
-            "type": 3,
-            "api": "https://xhdwc.tk/js/bili_open.js",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "categories": "沙雕动画#沙雕穿越#沙雕",
-                "cookie": ""
-            }
-        },
-        {
             "key": "暴风",
             "name": "暴风",
             "type": 1,
