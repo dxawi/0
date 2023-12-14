@@ -48,7 +48,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://czz9.com/"
+            "ext": "https://www.czzy33.com/"
+        },
+        {
+            "key": "忍者",
+            "name": "忍者",
+            "type": 3,
+            "api": "csp_MYYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://rzys.xyz"
         },
         {
             "key": "Xinsj",
