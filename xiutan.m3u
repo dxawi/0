@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1高清
+video://https://yangshipin.cn/#/tv/home?pid=600001859
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2财经高清
+video://https://yangshipin.cn/#/tv/home?pid=600001800
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV4k" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4k超高清
+video://https://yangshipin.cn/#/tv/home?pid=600002264
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4中文国际高清
+video://https://yangshipin.cn/#/tv/home?pid=600001814
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5高清
+video://https://yangshipin.cn/#/tv/home?pid=600001818
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+体育赛事
+video://https://yangshipin.cn/#/tv/home?pid=600001817
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7军事-农业高清
+video://https://yangshipin.cn/#/tv/home?pid=600004092
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9高清
+video://https://yangshipin.cn/#/tv/home?pid=600004078
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10科教高清
+video://https://yangshipin.cn/#/tv/home?pid=600001805
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11戏曲
+video://https://yangshipin.cn/#/tv/home?pid=600001806
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12社会与法高清
+video://https://yangshipin.cn/#/tv/home?pid=600001807
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13新闻
+video://https://yangshipin.cn/#/tv/home?pid=600001811
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14少儿高清
+video://https://yangshipin.cn/#/tv/home?pid=600001809
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15音乐
+video://https://yangshipin.cn/#/tv/home?pid=600001815
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16奥林匹克
+video://https://yangshipin.cn/#/tv/home?pid=600098637
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17农业农村
+video://https://yangshipin.cn/#/tv/home?pid=600001810
+#EXTINF:-1 tvg-id="19" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
+video://https://yangshipin.cn/#/tv/home?pid=600014550
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN外语纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN外语纪录
+video://https://yangshipin.cn/#/tv/home?pid=600084781
+#EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视高清
+video://http://www.jxntv.cn/live
