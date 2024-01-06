@@ -26,16 +26,6 @@
             "filterable": 0
         },
         {
-            "key": "csp_Nmys",
-            "name": "农民",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://fanty.run.goorm.site/ext/nmys.json"
-        },
-        {
             "key": "南瓜",
             "name": "南瓜",
             "type": 3,
@@ -142,6 +132,13 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "http://www.xb6v.com/"
+        },
+        {
+            "key": "drpy_js_农民",
+            "name": "农民[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/农民影视.js"
         },
         {
             "key": "drpy_js_荐片",
