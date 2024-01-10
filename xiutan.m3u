@@ -49,6 +49,8 @@ video://https://yangshipin.cn/#/tv/home?pid=600084758
 video://https://yangshipin.cn/#/tv/home?pid=600084782
 #EXTINF:-1 tvg-id="25" tvg-name="CGTN西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN西班牙语
 video://https://yangshipin.cn/#/tv/home?pid=600002503
+#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" group-title="卫视",浙江卫视高清
+video://https://yangshipin.cn/#/tv/home?pid=600002520
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" group-title="卫视",湖南卫视高清
 video://https://yangshipin.cn/#/tv/home?pid=600002475
 #EXTINF:-1 tvg-id="1" tvg-name="东方卫视" group-title="卫视",东方卫视高清
@@ -57,10 +59,8 @@ video://https://yangshipin.cn/#/tv/home?pid=600002483
 video://https://yangshipin.cn/#/tv/home?pid=600002521
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" group-title="卫视",北京卫视高清
 video://https://yangshipin.cn/#/tv/home?pid=600002309
-#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" group-title="卫视",浙江卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600099651
 #EXTINF:-1 tvg-id="1" tvg-name="江西卫视" group-title="卫视",江西卫视高清
-video://https://yangshipin.cn/#/tv/home?pid=600002520
+video://https://yangshipin.cn/#/tv/home?pid=600002503
 #EXTINF:-1 tvg-id="1" tvg-name="河南卫视" group-title="卫视",河南卫视高清
 video://https://yangshipin.cn/#/tv/home?pid=600002525
 #EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" group-title="卫视",湖北卫视高清
