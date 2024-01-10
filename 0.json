@@ -150,14 +150,14 @@
         },
         {
             "key": "drpy_js_骚火电影",
-            "name": "骚火电影[js]",
+            "name": "骚火[js]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/骚火电影.js"
         },
         {
             "key": "drpy_js_量子资源",
-            "name": "量子资源[js]",
+            "name": "量子[js]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/量子资源.js"
@@ -200,6 +200,66 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.zxzj.pro/"
+        },
+        {
+            "key": "ggys_open",
+            "name": "高光[cat]",
+            "type": 3,
+            "api": "./cat/ggys_open.js"
+        },
+        {
+            "key": "猫农民",
+            "name": "农民[cat]",
+            "type": 3,
+            "api": "./cat/猫农民.js"
+        },
+        {
+            "key": "猫南瓜",
+            "name": "南瓜[cat]",
+            "type": 3,
+            "api": "./cat/猫南瓜.js"
+        },
+        {
+            "key": "555",
+            "name": "三五[cat]",
+            "type": 3,
+            "api": "./cat/555dy_open.js"
+        },
+        {
+            "key": "cntv",
+            "name": "央视[cat]",
+            "type": 3,
+            "api": "./cat/cntv_open.js"
+        },
+        {
+            "key": "230ts",
+            "name": "爱上你听书网[cat]",
+            "type": 3,
+            "api": "./cat/230ts_open.js"
+        },
+        {
+            "key": "bookan_book_open",
+            "name": "Bookan[cat]",
+            "type": 3,
+            "api": "./cat/MyCatBookan.js"
+        },
+        {
+            "key": "boosj_open",
+            "name": "童趣[cat]",
+            "type": 3,
+            "api": "./cat/boosj_open.js"
+        },
+        {
+            "key": "tuxiaobei_open",
+            "name": "兔小贝[cat]",
+            "type": 3,
+            "api": "./cat/tuxiaobei_open.js"
+        },
+        {
+            "key": "ubestkid_open",
+            "name": "贝乐虎[cat]",
+            "type": 3,
+            "api": "./cat/ubestkid_open.js"
         },
         {
             "key": "迪迪",
