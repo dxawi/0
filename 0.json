@@ -198,6 +198,26 @@
             "ext": "https://www.zxzj.pro/"
         },
         {
+            "key": "kkys",
+            "name": "快看[cat]",
+            "type": 3,
+            "api": "./cat/kkys_open.js"
+        },
+        {
+            "key": "wobg",
+            "name": "玩偶表[cat]",
+            "type": 3,
+            "api": "./cat/wobg_open.js",
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.json"
+        },
+        {
+            "key": "ysc",
+            "name": "影视车[cat]",
+            "type": 3,
+            "api": "./cat/ysc_open.js",
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.json"
+        },
+        {
             "key": "ggys_open",
             "name": "高光[cat]",
             "type": 3,
