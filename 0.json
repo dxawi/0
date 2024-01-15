@@ -43,7 +43,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.json+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.json+auto|4k|fhd$$$https://api.wogg.xyz/"
         },
         {
             "key": "九六",
@@ -67,16 +67,6 @@
             "ext": "https://www.czzy22.com/"
         },
         {
-            "key": "毛驴",
-            "name": "毛驴",
-            "type": 3,
-            "api": "csp_MLYS",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.maolvys.com/"
-        },
-        {
             "key": "Xinsj",
             "name": "新视觉",
             "type": 3,
@@ -87,14 +77,14 @@
             "ext": "https://www.hdmyy.com/"
         },
         {
-            "key": "Cokemv",
-            "name": "Cokemv",
+            "key": "赞赞",
+            "name": "赞赞",
             "type": 3,
-            "api": "csp_Cokemv",
-            "playerType": 2,
+            "api": "csp_AppYsV2",
+            "ext": "http://111.230.51.151:9696//api.php/app/",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "csp_Auete",
