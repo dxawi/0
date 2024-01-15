@@ -124,19 +124,25 @@
             "ext": "http://www.xb6v.com/"
         },
         {
-            "key": "drpy_js_农民",
-            "name": "农民[js]",
+            "key": "农民影视",
+            "name": "农民影视",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/农民影视.js"
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
         },
         {
-            "key": "drpy_js_荐片",
-            "name": "荐片[js]",
+            "key": "荐片",
+            "name": "荐片",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/荐片.js",
-            "playerType": "1"
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
         },
         {
             "key": "drpy_js_骚火电影",
