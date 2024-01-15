@@ -2,7 +2,7 @@
 import { load, _ } from './lib/cat.js';
 
 var key = 'libvio';
-var HOST = 'https://www.libvio.pro'; // 地址发布页
+var HOST = 'https://libvio.app'; // 地址发布页
 var host = '';
 var siteKey = '';
 var siteType = 0;
