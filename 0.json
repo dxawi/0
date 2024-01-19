@@ -3,16 +3,16 @@
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
     "lives": [
         {
+            "name": "tvlive",
+            "type": 0,
+            "url": "https://dxawi.github.io/0/tvlive.txt",
+            "playerType": 2
+        },
+        {
             "name": "嗅探",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "type": 0,
             "url": "https://dxawi.github.io/0/xiutan.m3u"
-        },
-        {
-            "name": "tvlive",
-            "type": 0,
-            "url": "https://dxawi.github.io/0/tvlive.txt",
-            "playerType": 1
         }
     ],
     "sites": [
