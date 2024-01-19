@@ -43,7 +43,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.json+auto|4k|fhd$$$https://api.wogg.xyz/"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.link/$$$弹"
         },
         {
             "key": "九六",
@@ -124,8 +124,8 @@
             "ext": "http://www.xb6v.com/"
         },
         {
-            "key": "农民影视",
-            "name": "农民影视",
+            "key": "农民",
+            "name": "农民",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
