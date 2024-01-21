@@ -454,21 +454,10 @@
                 "haiwaikan"
             ],
             "regex": [
+                "8.1748",
                 "10.0099",
                 "10.3333",
-                "16.0599",
-                "8.1748",
-                "10.85"
-            ]
-        },
-        {
-            "name": "索尼",
-            "hosts": [
-                "suonizy"
-            ],
-            "regex": [
-                "15.1666",
-                "15.2666"
+                "16.0599"
             ]
         },
         {
@@ -497,7 +486,8 @@
                 "v.cdnlz"
             ],
             "regex": [
-                "18.5333"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
         {
@@ -517,6 +507,42 @@
             ],
             "regex": [
                 "item_id="
+            ]
+        },
+        {
+            "name": "蚂蚁",
+            "hosts": [
+                "v.cdnlz1.com"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "索尼",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "15.1666"
+            ]
+        },
+        {
+            "name": "一起看",
+            "hosts": [
+                "yqk88"
+            ],
+            "regex": [
+                "18.4666"
+            ]
+        },
+        {
+            "name": "一起看",
+            "hosts": [
+                "yqk88"
+            ],
+            "regex": [
+                "15.1666"
             ]
         },
         {
