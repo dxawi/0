@@ -367,6 +367,27 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
         },
         {
+            "key": "bili_open",
+            "name": "哔哩貓",
+            "type": 3,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "categories": "短剧#沙雕动画#沙雕穿越#沙雕",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "csp_Nbys",
+            "name": "泥视频(墙外)",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Bili",
             "name": "Bili",
             "type": 3,
@@ -378,70 +399,63 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://xhdwc.tk/json/bilibili.json"
-        },
-        {
-            "key": "Aid",
-            "name": "急救教学",
-            "type": 3,
-            "api": "csp_FirstAid",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 3.8
-            }
-        },
-        {
-            "key": "课堂教育",
-            "name": "课堂教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://xhdwc.tk/json/xx1.json"
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"
         },
         {
             "key": "少儿教育",
             "name": "少儿教育",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://xhdwc.tk/json/xx2.json"
+            "changeable": 0,
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/少儿教育.json"
         },
         {
             "key": "小学课堂",
             "name": "小学课堂",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://xhdwc.tk/json/xx3.json"
+            "changeable": 0,
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/小学课堂.json"
         },
         {
             "key": "初中课堂",
             "name": "初中课堂",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://xhdwc.tk/json/xx4.json"
+            "changeable": 0,
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/初中课堂.json"
         },
         {
             "key": "高中教育",
             "name": "高中课堂",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://xhdwc.tk/json/xx5.json"
+            "changeable": 0,
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
         }
     ],
     "rules": [
