@@ -4,14 +4,14 @@
         {
             "name": "tvlive",
             "type": 0,
-            "url": "https://dxawi.github.io/0/tvlive.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
             "playerType": 2
         },
         {
             "name": "嗅探",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "type": 0,
-            "url": "https://dxawi.github.io/0/xiutan.m3u"
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/xiutan.m3u"
         }
     ],
     "sites": [
