@@ -399,63 +399,57 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/json/bilibili.json"
+        },
+        {
+            "key": "课堂教育",
+            "name": "课堂教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/json/xx1.json"
         },
         {
             "key": "少儿教育",
             "name": "少儿教育",
             "type": 3,
             "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/少儿教育.json"
+            "filterable": 1,
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/json/xx2.json"
         },
         {
-            "key": "小学课堂",
-            "name": "小学课堂",
+            "key": "小学教育",
+            "name": "小学教育",
             "type": 3,
             "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/小学课堂.json"
+            "filterable": 1,
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/json/xx3.json"
         },
         {
-            "key": "初中课堂",
-            "name": "初中课堂",
+            "key": "初中教育",
+            "name": "初中教育",
             "type": 3,
             "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/初中课堂.json"
+            "filterable": 1,
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/json/xx4.json"
         },
         {
             "key": "高中教育",
-            "name": "高中课堂",
+            "name": "高中教育",
             "type": 3,
             "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
+            "filterable": 1,
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/json/xx5.json"
         }
     ],
     "rules": [
