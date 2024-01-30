@@ -126,7 +126,7 @@
         },
         {
             "key": "荐片",
-            "name": "荐片",
+            "name": "荐片[js]",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -136,18 +136,53 @@
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
         },
         {
-            "key": "drpy_js_骚火电影",
-            "name": "骚火[js]",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/骚火电影.js"
-        },
-        {
             "key": "drpy_js_量子资源",
             "name": "量子[js]",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/量子资源.js"
+            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/量子资源.js"
+        },
+        {
+            "key": "鑫鑫[V2]",
+            "name": "鑫鑫[V2][js]",
+            "type": 3,
+            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/鑫鑫[V2].js"
+        },
+        {
+            "key": "北极狐[V2]",
+            "name": "北极狐[V2][js]",
+            "type": 3,
+            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/北极狐[V2].js"
+        },
+        {
+            "key": "ikanbot3",
+            "name": "ikanbot3[js]",
+            "type": 3,
+            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
+        },
+        {
+            "key": "drpy_js_玄天",
+            "name": "玄天[js]",
+            "type": 3,
+            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/玄天.js"
+        },
+        {
+            "key": "drpy_js_爱看",
+            "name": "爱看[js]",
+            "type": 3,
+            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/爱看.js"
+        },
+        {
+            "key": "新视觉js",
+            "name": "新视觉[js]",
+            "type": 3,
+            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/新视觉影视.js"
         },
         {
             "key": "csp_Bttoo",
