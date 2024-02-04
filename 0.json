@@ -1,5 +1,5 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/cc.jar;md5;63f50337d37d87c6a3b61d81375fc378",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/cc.jar;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
     "lives": [
         {
             "name": "tvlive",
@@ -64,6 +64,35 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.hdmyy.com/"
+        },
+        {
+            "key": "快看",
+            "name": "快看",
+            "type": 3,
+            "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Lib",
+            "name": "Libvio",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.libvio.la/"
+        },
+        {
+            "key": "Auete",
+            "name": "Auete",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://auete.pro/"
         },
         {
             "key": "369",
@@ -181,16 +210,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "Lib",
-            "name": "Lib",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.pro/"
         },
         {
             "key": "DiDuan",
