@@ -45,6 +45,12 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.link/$$$弹"
         },
         {
+            "key": "drpy_js_lf_p2p",
+            "name": "磁力p2p(搜索)",
+            "type": 3,
+            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/lf_p2p1_min.js"
+        },
+        {
             "key": "Czsapp",
             "name": "厂长",
             "type": 3,
