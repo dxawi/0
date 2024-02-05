@@ -81,24 +81,23 @@
             "changeable": 1
         },
         {
-            "key": "Lib",
-            "name": "Libvio",
+            "key": "csp_Bttoo",
+            "name": "Bttwoo",
             "type": 3,
-            "api": "csp_Libvio",
+            "api": "csp_Bttwoo",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.la/"
+            "changeable": 1
         },
         {
-            "key": "Auete",
-            "name": "Auete",
+            "key": "DiDuan",
+            "name": "低端",
             "type": 3,
-            "api": "csp_Auete",
+            "api": "csp_Ddrk",
+            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://auete.pro/"
+            "changeable": 1
         },
         {
             "key": "369",
@@ -174,32 +173,11 @@
             "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/鑫鑫[V2].js"
         },
         {
-            "key": "北极狐[V2]",
-            "name": "北极狐[V2][js]",
-            "type": 3,
-            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/北极狐[V2].js"
-        },
-        {
             "key": "ikanbot3",
             "name": "ikanbot3[js]",
             "type": 3,
             "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
             "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
-        },
-        {
-            "key": "drpy_js_玄天",
-            "name": "玄天[js]",
-            "type": 3,
-            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/玄天.js"
-        },
-        {
-            "key": "drpy_js_爱看",
-            "name": "爱看[js]",
-            "type": 3,
-            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/爱看.js"
         },
         {
             "key": "新视觉js",
@@ -209,43 +187,24 @@
             "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/新视觉影视.js"
         },
         {
-            "key": "csp_Bttoo",
-            "name": "Bttwoo",
+            "key": "drpy_js_Auete",
+            "name": "Auete[js]",
             "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/Auete.js"
         },
         {
-            "key": "DiDuan",
-            "name": "低端",
+            "key": "drpy_js_LIBVIO",
+            "name": "LIBVIO[js]",
             "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/LIBVIO.js"
         },
         {
             "key": "kkys",
             "name": "快看[cat]",
             "type": 3,
             "api": "./cat/kkys_open.js"
-        },
-        {
-            "key": "wobg",
-            "name": "玩偶表[cat]",
-            "type": 3,
-            "api": "./cat/wobg_open.js",
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.json"
-        },
-        {
-            "key": "ysc",
-            "name": "影视车[cat]",
-            "type": 3,
-            "api": "./cat/ysc_open.js",
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.json"
         },
         {
             "key": "ggys_open",
