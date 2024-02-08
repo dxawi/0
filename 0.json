@@ -1,5 +1,5 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/cc.jar;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/cc.jar;md5;1f399f48364375f6687cb69873482cc6",
     "lives": [
         {
             "name": "tvlive",
@@ -201,6 +201,46 @@
             "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/LIBVIO.js"
         },
         {
+            "key": "YiSo",
+            "name": "易搜┃搜索",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
+            "key": "PanSou",
+            "name": "盘搜┃搜索",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
+            "key": "UpYun",
+            "name": "Up搜┃搜索",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
+            "key": "PanSearch",
+            "name": "盘Se┃搜索",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
             "key": "kkys",
             "name": "快看[cat]",
             "type": 3,
@@ -284,50 +324,6 @@
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "七夜",
-            "name": "七夜(阿里搜索)",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
-        },
-        {
-            "key": "YiSo",
-            "name": "一搜(阿里搜索)",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
-        },
-        {
-            "key": "UpYun",
-            "name": "云搜(阿里搜索)",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
-        },
-        {
-            "key": "PanSearch",
-            "name": "盘搜索(阿里搜索)",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
         },
         {
             "key": "push_agent",
