@@ -100,16 +100,6 @@
             "changeable": 1
         },
         {
-            "key": "369",
-            "name": "369",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "一起看 ",
             "name": "一起看",
             "type": 3,
