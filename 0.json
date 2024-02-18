@@ -1,5 +1,5 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/cc.jar;md5;be7060a567ce9e8021946b6de0ed8dae",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/cc.jar",
     "lives": [
         {
             "name": "tvlive",
@@ -45,21 +45,21 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.link/$$$弹"
         },
         {
+            "key": "荐片",
+            "name": "荐片[js]",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
+        },
+        {
             "key": "drpy_js_lf_p2p",
             "name": "磁力p2p(搜索)",
             "type": 3,
             "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/lf_p2p1_min.js"
-        },
-        {
-            "key": "Czsapp",
-            "name": "厂长",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czzy55.com/"
         },
         {
             "key": "Xinsj",
@@ -109,6 +109,17 @@
             "changeable": 1
         },
         {
+            "key": "Czsapp",
+            "name": "厂长",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.czzy55.com/"
+        },
+        {
             "key": "77",
             "name": "七七",
             "type": 3,
@@ -136,17 +147,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
-        },
-        {
-            "key": "荐片",
-            "name": "荐片[js]",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": "1",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
         },
         {
             "key": "drpy_js_量子资源",
