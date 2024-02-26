@@ -1,12 +1,10 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/cc.jar",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
     "lives": [
         {
             "name": "白嫖",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
-            "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
-            "logo": "https://public.t4tv.hz.cz/logo?ch={name}"
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u"
         },
         {
             "name": "tvlive",
