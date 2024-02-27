@@ -76,6 +76,16 @@
             "changeable": 1
         },
         {
+            "key": "Xinsj",
+            "name": "新视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.hdmyy.com/"
+        },
+        {
             "key": "csp_Bttoo",
             "name": "Bttwoo",
             "type": 3,
@@ -124,11 +134,24 @@
             "changeable": 1
         },
         {
-            "key": "drpy_js_新视觉影视",
-            "name": "新视觉影视[js]",
+            "key": "Lib",
+            "name": "Libvio",
             "type": 3,
-            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/新视觉影视.js"
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.libvio.pw/"
+        },
+        {
+            "key": "Auete",
+            "name": "Auete",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://auete.pro/"
         },
         {
             "key": "新6V",
@@ -149,6 +172,13 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+        },
+        {
+            "key": "drpy_js_新视觉影视",
+            "name": "新视觉影视[js]",
+            "type": 3,
+            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/新视觉影视.js"
         },
         {
             "key": "drpy_js_量子资源",
