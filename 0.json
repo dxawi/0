@@ -30,6 +30,49 @@
             "filterable": 0
         },
         {
+            "key": "快看",
+            "name": "快看",
+            "type": 3,
+            "api": "csp_Kkys",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "原创",
+            "name": "原创",
+            "type": 3,
+            "api": "csp_YCyz",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Xinsj",
+            "name": "新视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.80yy3.com/"
+        },
+        {
+            "key": "厂长",
+            "name": "厂长",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.czzy77.com/"
+        },
+        {
             "key": "南瓜",
             "name": "南瓜",
             "type": 3,
@@ -47,7 +90,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.link/$$$弹"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
         {
             "key": "荐片",
@@ -65,25 +108,6 @@
             "name": "磁力p2p(搜索)",
             "type": 3,
             "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/lf_p2p1_min.js"
-        },
-        {
-            "key": "快看",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Xinsj",
-            "name": "新视觉",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.hdmyy.com/"
         },
         {
             "key": "csp_Bttoo",
@@ -129,17 +153,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "Czsapp",
-            "name": "厂长",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czzy55.com/"
         },
         {
             "key": "77",
@@ -278,36 +291,6 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "kkys",
-            "name": "快看[cat]",
-            "type": 3,
-            "api": "./cat/kkys_open.js"
-        },
-        {
-            "key": "ggys_open",
-            "name": "高光[cat]",
-            "type": 3,
-            "api": "./cat/ggys_open.js"
-        },
-        {
-            "key": "猫农民",
-            "name": "农民[cat]",
-            "type": 3,
-            "api": "./cat/猫农民.js"
-        },
-        {
-            "key": "猫南瓜",
-            "name": "南瓜[cat]",
-            "type": 3,
-            "api": "./cat/猫南瓜.js"
-        },
-        {
-            "key": "555",
-            "name": "三五[cat]",
-            "type": 3,
-            "api": "./cat/555dy_open.js"
         },
         {
             "key": "cntv",
@@ -482,7 +465,9 @@
             ],
             "regex": [
                 "18.4",
-                "15.1666"
+                "15.1666",
+                "16.5333",
+                "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
             ]
         },
         {
