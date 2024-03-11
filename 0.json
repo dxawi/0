@@ -137,15 +137,6 @@
             "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
         },
         {
-            "key": "哔嘀",
-            "name": "哔嘀",
-            "type": 3,
-            "api": "csp_Bdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "一起看 ",
             "name": "一起看",
             "type": 3,
