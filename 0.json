@@ -150,14 +150,6 @@
             "changeable": 1
         },
         {
-            "key": "追剧",
-            "name": "追剧",
-            "type": 3,
-            "api": "csp_AppTT",
-            "playerType": 2,
-            "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
-        },
-        {
             "key": "一起看 ",
             "name": "一起看",
             "type": 3,
