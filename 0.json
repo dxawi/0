@@ -120,15 +120,25 @@
             "changeable": 1
         },
         {
-            "key": "Baipiao",
-            "name": "Baipiao",
+            "key": "白嫖",
+            "name": "白飘",
             "type": 3,
             "api": "csp_BaiPiao",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.baipiaoys.com/"
+            "ext": "https://www.baipiaoys.com:9092/"
+        },
+        {
+            "key": "短剧",
+            "name": "短剧",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "csp_Bttoo",
@@ -437,29 +447,26 @@
     ],
     "rules": [
         {
-            "name": "hwk",
+            "name": "kk",
             "hosts": [
-                "haiwaikan"
+                "kuaikan"
             ],
             "regex": [
-                "10.0099",
-                "10.3333",
-                "16.0599",
-                "8.1748",
-                "12.33",
-                "10.85"
+                "5",
+                "20.123",
+                "20.167",
+                "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
             "name": "yqk",
             "hosts": [
-                "yqk88"
+                "yqk"
             ],
             "regex": [
                 "18.4",
                 "15.1666",
-                "16.5333",
-                "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
+                "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
             ]
         },
         {
@@ -496,11 +503,15 @@
         {
             "name": "lz",
             "hosts": [
-                "lz"
+                "vip.lz",
+                "hd.lz",
+                "v.cdnlz",
+                "yzzy1.play"
             ],
             "regex": [
                 "18.5333",
-                "19.52"
+                "19.52",
+                "18.6666"
             ]
         },
         {
