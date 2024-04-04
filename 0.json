@@ -40,18 +40,8 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
         {
-            "key": "短剧",
-            "name": "短剧",
-            "type": 3,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "酷看",
-            "name": "酷看",
+            "key": "快看",
+            "name": "快看",
             "type": 3,
             "api": "csp_Kkys",
             "timeout": 15,
@@ -196,7 +186,7 @@
         },
         {
             "key": "csp_Bttoo",
-            "name": "比特",
+            "name": "Bttwoo",
             "type": 3,
             "api": "csp_Bttwoo",
             "searchable": 1,
@@ -205,7 +195,7 @@
         },
         {
             "key": "Lib",
-            "name": "立播",
+            "name": "Libvio",
             "type": 3,
             "api": "csp_Libvio",
             "timeout": 15,
@@ -216,7 +206,7 @@
         },
         {
             "key": "Auete",
-            "name": "奥特",
+            "name": "Auete",
             "type": 3,
             "api": "csp_Auete",
             "timeout": 15,
@@ -224,6 +214,16 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://auete.pro/"
+        },
+        {
+            "key": "短剧",
+            "name": "短剧",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "贱贱",
@@ -251,6 +251,17 @@
             "name": "磁力p2p(搜索)",
             "type": 3,
             "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/lf_p2p1_min.js"
+        },
+        {
+            "key": "腐宅",
+            "name": "腐宅",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
         },
         {
             "key": "drpy_js_新视觉影视",
@@ -293,13 +304,6 @@
             "type": 3,
             "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
             "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/Auete.js"
-        },
-        {
-            "key": "drpy_js_LIBVIO",
-            "name": "LIBVIO[js]",
-            "type": 3,
-            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/LIBVIO.js"
         },
         {
             "key": "YiSo",
@@ -348,12 +352,6 @@
             "api": "./cat/cntv_open.js"
         },
         {
-            "key": "230ts",
-            "name": "爱上你听书网[cat]",
-            "type": 3,
-            "api": "./cat/230ts_open.js"
-        },
-        {
             "key": "bookan_book_open",
             "name": "Bookan[cat]",
             "type": 3,
@@ -376,25 +374,6 @@
             "name": "贝乐虎[cat]",
             "type": 3,
             "api": "./cat/ubestkid_open.js"
-        },
-        {
-            "key": "腐宅",
-            "name": "腐宅",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "key": "暴风",
-            "name": "暴风",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "push_agent",
