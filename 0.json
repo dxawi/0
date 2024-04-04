@@ -30,8 +30,28 @@
             "filterable": 0
         },
         {
-            "key": "快看",
-            "name": "快看",
+            "key": "csp_WoGG",
+            "name": "玩偶哥哥(饭太硬阿里)",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+        },
+        {
+            "key": "短剧",
+            "name": "短剧",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "酷看",
+            "name": "酷看",
             "type": 3,
             "api": "csp_Kkys",
             "timeout": 15,
@@ -50,71 +70,10 @@
             "changeable": 1
         },
         {
-            "key": "Xinsj",
-            "name": "新视觉",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.80yy3.com/"
-        },
-        {
-            "key": "厂长",
-            "name": "厂长",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czzy77.com/"
-        },
-        {
-            "key": "南瓜",
-            "name": "南瓜",
-            "type": 3,
-            "api": "csp_NanGua",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_WoGG",
-            "name": "玩偶哥哥(饭太硬)",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-        },
-        {
-            "key": "荐片",
-            "name": "荐片[js]",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": "1",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
-        },
-        {
-            "key": "drpy_js_lf_p2p",
-            "name": "磁力p2p(搜索)",
-            "type": 3,
-            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/lf_p2p1_min.js"
-        },
-        {
             "key": "苹果",
-            "name": "小苹果",
+            "name": "苹果",
             "type": 3,
             "api": "csp_LiteApple",
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -131,20 +90,34 @@
             "ext": "https://www.baipiaoys.com:9092/"
         },
         {
-            "key": "短剧",
-            "name": "短剧",
+            "key": "厂长",
+            "name": "厂长",
             "type": 3,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
+            "api": "csp_Czsapp",
+            "timeout": 15,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
+            "changeable": 1,
+            "ext": "https://www.czzy77.com/"
         },
         {
-            "key": "csp_Bttoo",
-            "name": "Bttwoo",
+            "key": "77",
+            "name": "七七",
             "type": 3,
-            "api": "csp_Bttwoo",
+            "api": "csp_Kunyu77",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "南瓜",
+            "name": "南瓜",
+            "type": 3,
+            "api": "csp_NanGua",
+            "timeout": 15,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -160,8 +133,61 @@
             "changeable": 1
         },
         {
-            "key": "一起看 ",
-            "name": "一起看",
+            "key": "csp_Nmys",
+            "name": "农民",
+            "type": 3,
+            "api": "csp_Nmys",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+        },
+        {
+            "key": "毛驴",
+            "name": "毛驴",
+            "type": 3,
+            "api": "csp_MLYS",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.maolvys.com/"
+        },
+        {
+            "key": "萌米",
+            "name": "萌米",
+            "type": 3,
+            "api": "csp_AppTT",
+            "timeout": 15,
+            "playerType": 1,
+            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+        },
+        {
+            "key": "Xinsj",
+            "name": "视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.80yy3.com/"
+        },
+        {
+            "key": "zxzj",
+            "name": "在线",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzja.com/"
+        },
+        {
+            "key": "一起看",
+            "name": "一起",
             "type": 3,
             "api": "csp_YQKan",
             "searchable": 1,
@@ -169,19 +195,20 @@
             "changeable": 1
         },
         {
-            "key": "77",
-            "name": "七七",
+            "key": "csp_Bttoo",
+            "name": "比特",
             "type": 3,
-            "api": "csp_Kunyu77",
+            "api": "csp_Bttwoo",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
         },
         {
             "key": "Lib",
-            "name": "Libvio",
+            "name": "立播",
             "type": 3,
             "api": "csp_Libvio",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -189,13 +216,25 @@
         },
         {
             "key": "Auete",
-            "name": "Auete",
+            "name": "奥特",
             "type": 3,
             "api": "csp_Auete",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://auete.pro/"
+        },
+        {
+            "key": "贱贱",
+            "name": "贱贱",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js"
         },
         {
             "key": "新6V",
@@ -208,14 +247,10 @@
             "ext": "http://www.xb6v.com/"
         },
         {
-            "key": "农民",
-            "name": "农民",
+            "key": "drpy_js_lf_p2p",
+            "name": "磁力p2p(搜索)",
             "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/lf_p2p1_min.js"
         },
         {
             "key": "drpy_js_新视觉影视",
