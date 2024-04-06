@@ -30,14 +30,20 @@
             "filterable": 0
         },
         {
-            "key": "csp_WoGG",
-            "name": "玩偶哥哥(饭太硬阿里)",
+            "key": "玩偶",
+            "name": "玩偶哥哥(网盘4K)",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd",
+                "siteUrl": "https://api.wogg.xyz/",
+                "danMu": "弹"
+            }
         },
         {
             "key": "快看",
