@@ -98,16 +98,6 @@
             "ext": "https://www.czys03.com/"
         },
         {
-            "key": "77",
-            "name": "七七",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "南瓜",
             "name": "南瓜",
             "type": 3,
@@ -222,18 +212,8 @@
             "ext": "https://auete.pro/"
         },
         {
-            "key": "短剧",
-            "name": "短剧",
-            "type": 3,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "贱贱",
-            "name": "贱贱",
+            "key": "荐片",
+            "name": "荐片",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
