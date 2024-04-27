@@ -46,6 +46,15 @@
             }
         },
         {
+            "key": "短剧",
+            "name": "短剧",
+            "type": 3,
+            "api": "csp_Djuu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "快看",
             "name": "快看",
             "type": 3,
@@ -75,8 +84,8 @@
             "changeable": 1
         },
         {
-            "key": "白嫖",
-            "name": "白飘",
+            "key": "BP",
+            "name": "BP",
             "type": 3,
             "api": "csp_BaiPiao",
             "playerType": 2,
@@ -86,16 +95,37 @@
             "ext": "https://www.baipiaoys.com:9092/"
         },
         {
+            "key": "视觉",
+            "name": "视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.80yy3.com/"
+        },
+        {
             "key": "厂长",
             "name": "厂长",
             "type": 3,
-            "api": "csp_Czsapp",
+            "api": "csp_NewCz",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.cz233.com/"
+            "ext": "https://www.czys.top/"
+        },
+        {
+            "key": "七七",
+            "name": "七七",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "南瓜",
@@ -109,17 +139,7 @@
             "changeable": 1
         },
         {
-            "key": "DiDuan",
-            "name": "低端",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Nmys",
+            "key": "农民",
             "name": "农民",
             "type": 3,
             "api": "csp_Nmys",
@@ -127,7 +147,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
+        },
+        {
+            "key": "低端",
+            "name": "低端",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "毛驴",
@@ -150,19 +180,17 @@
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },
         {
-            "key": "Xinsj",
-            "name": "视觉",
+            "key": "Bt",
+            "name": "Bt",
             "type": 3,
-            "api": "csp_Xinsj",
-            "timeout": 15,
+            "api": "csp_Bttwoo",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.80yy3.com/"
+            "changeable": 1
         },
         {
             "key": "zxzj",
-            "name": "在线",
+            "name": "在线之家",
             "type": 3,
             "api": "csp_Zxzj",
             "timeout": 15,
@@ -170,24 +198,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.zxzja.com/"
-        },
-        {
-            "key": "一起看",
-            "name": "一起",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Bttoo",
-            "name": "Bttwoo",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "Lib",
@@ -213,14 +223,14 @@
         },
         {
             "key": "荐片",
-            "name": "荐片",
+            "name": "荐片p2p",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js"
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
         },
         {
             "key": "新6V",
