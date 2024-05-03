@@ -2,11 +2,6 @@
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
     "lives": [
         {
-            "name": "白嫖",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u"
-        },
-        {
             "name": "tvlive",
             "type": 0,
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
@@ -41,18 +36,19 @@
                 "aliToken": "tvfan/token.txt",
                 "quarkCookie": "tvfan/cookie.txt",
                 "from": "4k|auto|fhd",
-                "siteUrl": "https://api.wogg.xyz/",
+                "siteUrl": "https://www.wogg.link/",
                 "danMu": "弹"
             }
         },
         {
-            "key": "短剧",
-            "name": "短剧",
+            "key": "小点",
+            "name": "小点",
             "type": 3,
-            "api": "csp_Djuu",
+            "api": "csp_Xdys",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "快看",
@@ -118,16 +114,6 @@
             "ext": "https://www.czys.top/"
         },
         {
-            "key": "七七",
-            "name": "七七",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "南瓜",
             "name": "南瓜",
             "type": 3,
@@ -158,17 +144,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "毛驴",
-            "name": "毛驴",
-            "type": 3,
-            "api": "csp_MLYS",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.maolvys.com/"
         },
         {
             "key": "萌米",
@@ -247,6 +222,15 @@
             "name": "磁力p2p(搜索)",
             "type": 3,
             "api": "https://xhdwc.tk/JS/js/lf_p2p1_min.js"
+        },
+        {
+            "key": "csp_Nbys",
+            "name": "泥视频(墙外)",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "腐宅",
@@ -345,15 +329,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "泥视频(墙外)",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "Bili",
