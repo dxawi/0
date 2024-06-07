@@ -41,18 +41,17 @@
             }
         },
         {
-            "key": "小点",
-            "name": "小点",
+            "key": "短剧",
+            "name": "短剧",
             "type": 3,
-            "api": "csp_Xdys",
+            "api": "csp_Djuu",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
-            "key": "快看",
-            "name": "快看",
+            "key": "酷看",
+            "name": "酷看",
             "type": 3,
             "api": "csp_Kkys",
             "timeout": 15,
@@ -66,29 +65,10 @@
             "type": 3,
             "api": "csp_YCyz",
             "timeout": 15,
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "苹果",
-            "name": "苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "BP",
-            "name": "BP",
-            "type": 3,
-            "api": "csp_BaiPiao",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.baipiaoys.com:9092/"
         },
         {
             "key": "视觉",
@@ -102,6 +82,26 @@
             "ext": "https://www.80yy3.com/"
         },
         {
+            "key": "苹果",
+            "name": "苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "糯米",
+            "name": "糯米",
+            "type": 3,
+            "api": "csp_Nmys",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
+        },
+        {
             "key": "厂长",
             "name": "厂长",
             "type": 3,
@@ -111,18 +111,49 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czys.top/"
+            "ext": "https://czzy.top/"
         },
         {
-            "key": "南瓜",
-            "name": "南瓜",
+            "key": "低端",
+            "name": "低端",
             "type": 3,
-            "api": "csp_NanGua",
-            "timeout": 15,
-            "playerType": 2,
+            "api": "csp_Ddrk",
+            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "zxzj",
+            "name": "在线",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzjhd.com/"
+        },
+        {
+            "key": "贱贱",
+            "name": "荐片P2P",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+        },
+        {
+            "key": "小点",
+            "name": "小点",
+            "type": 3,
+            "api": "csp_Xdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "热播",
@@ -137,36 +168,6 @@
             "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
         },
         {
-            "key": "短剧",
-            "name": "短剧",
-            "type": 3,
-            "api": "csp_Djuu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "农民",
-            "name": "农民",
-            "type": 3,
-            "api": "csp_Nmys",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
-        },
-        {
-            "key": "低端",
-            "name": "低端",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "萌米",
             "name": "萌米",
             "type": 3,
@@ -176,8 +177,19 @@
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },
         {
-            "key": "Bt",
-            "name": "Bt",
+            "key": "南瓜",
+            "name": "南瓜",
+            "type": 3,
+            "api": "csp_NanGua",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "比特",
+            "name": "比特",
             "type": 3,
             "api": "csp_Bttwoo",
             "searchable": 1,
@@ -185,19 +197,19 @@
             "changeable": 1
         },
         {
-            "key": "zxzj",
-            "name": "在线之家",
+            "key": "可可",
+            "name": "可可",
             "type": 3,
-            "api": "csp_Zxzj",
+            "api": "csp_Kekys",
             "timeout": 15,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzja.com/"
+            "changeable": 1
         },
         {
             "key": "Lib",
-            "name": "Libvio",
+            "name": "立播",
             "type": 3,
             "api": "csp_Libvio",
             "timeout": 15,
@@ -208,7 +220,7 @@
         },
         {
             "key": "Auete",
-            "name": "Auete",
+            "name": "奥特",
             "type": 3,
             "api": "csp_Auete",
             "timeout": 15,
@@ -218,15 +230,15 @@
             "ext": "https://auete.pro/"
         },
         {
-            "key": "荐片",
-            "name": "荐片p2p",
+            "key": "毛驴",
+            "name": "毛驴",
             "type": 3,
+            "api": "csp_MLYS",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "playerType": "1",
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+            "ext": "https://www.maolvys.com/"
         },
         {
             "key": "新6V",
@@ -237,12 +249,6 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "http://www.xb6v.com/"
-        },
-        {
-            "key": "drpy_js_lf_p2p",
-            "name": "磁力p2p(搜索)",
-            "type": 3,
-            "api": "https://xhdwc.tk/JS/js/lf_p2p1_min.js"
         },
         {
             "key": "量子资源",
@@ -334,13 +340,16 @@
         },
         {
             "key": "YiSo",
-            "name": "易搜索",
+            "name": "易搜搜索",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
             "key": "PanSou",
@@ -350,27 +359,36 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "UpYun",
-            "name": "云搜索",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
             "key": "PanSearch",
-            "name": "盘搜索",
+            "name": "盘Se搜索",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
+        {
+            "key": "push_agent",
+            "name": "手机推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
             "key": "cntv",
@@ -401,16 +419,6 @@
             "name": "贝乐虎[cat]",
             "type": 3,
             "api": "./cat/ubestkid_open.js"
-        },
-        {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
         },
         {
             "key": "Bili",
