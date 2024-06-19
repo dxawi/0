@@ -400,6 +400,19 @@
             "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
         },
         {
+            "key": "UpYun",
+            "name": "云搜索",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
+        {
             "key": "YiSo",
             "name": "易搜搜索",
             "type": 3,
