@@ -44,7 +44,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://czzy.top/"
+            "ext": "https://www.czys.pro/"
         },
         {
             "key": "贱贱",
@@ -71,6 +71,15 @@
                 "siteUrl": "https://www.wogg.link/",
                 "danMu": "弹"
             }
+        },
+        {
+            "key": "短剧",
+            "name": "短剧",
+            "type": 3,
+            "api": "csp_Djtt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "Zx4k",
@@ -244,15 +253,6 @@
             ]
         },
         {
-            "key": "短剧",
-            "name": "短剧",
-            "type": 3,
-            "api": "csp_Djuu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "小点",
             "name": "小点",
             "type": 3,
@@ -385,17 +385,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "腐宅",
-            "name": "腐宅",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
         },
         {
             "key": "YiSo",
