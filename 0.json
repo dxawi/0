@@ -135,6 +135,15 @@
             "changeable": 1
         },
         {
+            "key": "煤球",
+            "name": "煤球",
+            "type": 3,
+            "api": "csp_Appmq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "文采",
             "name": "文采",
             "type": 3,
