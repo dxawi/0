@@ -46,16 +46,6 @@
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
         },
         {
-            "key": "小点",
-            "name": "小点",
-            "type": 3,
-            "api": "csp_Appxdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
             "key": "原创",
             "name": "原创",
             "type": 3,
@@ -148,28 +138,6 @@
             "name": "文采",
             "type": 3,
             "api": "csp_Jpys",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "蛋蛋",
-            "name": "蛋蛋",
-            "type": 3,
-            "api": "csp_Cddys",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "专线",
-            "name": "专线",
-            "type": 3,
-            "api": "csp_Zx4k",
-            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -270,13 +238,10 @@
             "changeable": 1
         },
         {
-            "key": "比特",
-            "name": "比特",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "key": "暴风",
+            "name": "暴风",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod"
         },
         {
             "key": "IK",
