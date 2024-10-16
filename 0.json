@@ -25,18 +25,7 @@
             "filterable": 0
         },
         {
-            "key": "Auete",
-            "name": "Auete",
-            "type": 3,
-            "api": "csp_Auete",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://auete.pro/"
-        },
-        {
-            "key": "贱贱",
+            "key": "荐片",
             "name": "荐片P2P",
             "type": 3,
             "searchable": 1,
@@ -51,19 +40,17 @@
             "name": "厂长",
             "type": 3,
             "api": "csp_NewCz",
-            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy77.com/"
+            "ext": "http://www.czzy77.com/"
         },
         {
             "key": "原创",
             "name": "原创",
             "type": 3,
             "api": "csp_YCyz",
-            "timeout": 15,
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -79,16 +66,6 @@
             "changeable": 1
         },
         {
-            "key": "alllive",
-            "name": "一直播",
-            "type": 3,
-            "api": "csp_Alllive",
-            "playerType": 2,
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "腐剧",
             "name": "腐剧",
             "type": 3,
@@ -97,36 +74,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "http://www.fuju2024.cc:8013/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "key": "苹果",
-            "name": "苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "糯米",
-            "name": "糯米",
-            "type": 3,
-            "api": "csp_Nmyswv",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "欢视",
-            "name": "欢视",
-            "type": 3,
-            "api": "csp_AppTT",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
         },
         {
             "key": "玩偶",
@@ -142,176 +89,6 @@
                 "siteUrl": "https://www.wogg.net/",
                 "danMu": "弹"
             }
-        },
-        {
-            "key": "米搜",
-            "name": "小米(网盘搜索)",
-            "type": 3,
-            "api": "csp_MIPanSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "抠搜",
-            "name": "抠抠(网盘搜索)",
-            "type": 3,
-            "api": "csp_KkSs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "Lib",
-            "name": "立播",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "小点",
-            "name": "小点",
-            "type": 3,
-            "api": "csp_Appxd",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
-        },
-        {
-            "key": "煤球",
-            "name": "煤球",
-            "type": 3,
-            "api": "csp_Appmq",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "短剧",
-            "name": "短剧",
-            "type": 3,
-            "api": "csp_Djtt",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "文采",
-            "name": "文采",
-            "type": 3,
-            "api": "csp_Jpys",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "zxzj",
-            "name": "在线",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzjhd.com/"
-        },
-        {
-            "key": "低端",
-            "name": "低端",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "可可",
-            "name": "可可",
-            "type": 3,
-            "api": "csp_Kekys",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "热播",
-            "name": "热播",
-            "type": 3,
-            "api": "csp_AppTT",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-        },
-        {
-            "key": "萌米",
-            "name": "萌米",
-            "type": 3,
-            "api": "csp_AppTT",
-            "timeout": 15,
-            "playerType": 1,
-            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-        },
-        {
-            "key": "南瓜",
-            "name": "南瓜",
-            "type": 3,
-            "api": "csp_NanGua",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "快看",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kkys",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "新6V",
-            "name": "新6V磁力",
-            "type": 3,
-            "api": "csp_SixV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "https://www.xb6v.com/"
-        },
-        {
-            "key": "Dm84",
-            "name": "动漫巴士",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "暴风",
@@ -379,6 +156,214 @@
             ],
             "searchable": 1,
             "quickSearch": 1
+        },
+        {
+            "key": "alllive",
+            "name": "一直播LIVE",
+            "type": 3,
+            "api": "csp_Alllive",
+            "playerType": 2,
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "Lib",
+            "name": "立播",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "文采",
+            "name": "文采",
+            "type": 3,
+            "api": "csp_Jpys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "糯米",
+            "name": "糯米",
+            "type": 3,
+            "api": "csp_Nmyswv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "苹果",
+            "name": "苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "萌米",
+            "name": "萌米",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+        },
+        {
+            "key": "欢视",
+            "name": "欢视",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+        },
+        {
+            "key": "南瓜",
+            "name": "南瓜",
+            "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "热播",
+            "name": "热播",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+        },
+        {
+            "key": "可可",
+            "name": "可可",
+            "type": 3,
+            "api": "csp_Kekys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "zxzj",
+            "name": "在线外剧",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://www.zxzjhd.com/"
+        },
+        {
+            "key": "低端",
+            "name": "低端外剧",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Auete",
+            "name": "奥特",
+            "type": 3,
+            "api": "csp_Auete",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://auete.pro/"
+        },
+        {
+            "key": "新6V",
+            "name": "新6V磁力",
+            "type": 3,
+            "api": "csp_SixV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://www.xb6v.com/"
+        },
+        {
+            "key": "短剧",
+            "name": "短剧",
+            "type": 3,
+            "api": "csp_Djtt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Dm84",
+            "name": "巴士动漫",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Ysj",
+            "name": "异界动漫",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Anime1",
+            "name": "日本动漫",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "米搜",
+            "name": "小米(网盘搜索)",
+            "type": 3,
+            "api": "csp_MIPanSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "抠搜",
+            "name": "抠抠(网盘搜索)",
+            "type": 3,
+            "api": "csp_KkSs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
         },
         {
             "key": "haiwaikan",
