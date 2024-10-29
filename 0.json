@@ -36,22 +36,20 @@
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
         },
         {
-            "key": "厂长",
-            "name": "厂长",
+            "key": "文采",
+            "name": "文采",
             "type": 3,
-            "api": "csp_NewCz",
+            "api": "csp_Jpys",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://www.czzy77.com/"
+            "changeable": 1
         },
         {
-            "key": "原创",
-            "name": "原创",
+            "key": "糯米",
+            "name": "糯米",
             "type": 3,
-            "api": "csp_YCyz",
-            "playerType": 1,
+            "api": "csp_Nmyswv",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -64,6 +62,36 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "苹果",
+            "name": "苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "原创",
+            "name": "原创",
+            "type": 3,
+            "api": "csp_YCyz",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "厂长",
+            "name": "厂长",
+            "type": 3,
+            "api": "csp_NewCz",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://czzy.top/"
         },
         {
             "key": "腐剧",
@@ -179,34 +207,6 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             }
-        },
-        {
-            "key": "文采",
-            "name": "文采",
-            "type": 3,
-            "api": "csp_Jpys",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "糯米",
-            "name": "糯米",
-            "type": 3,
-            "api": "csp_Nmyswv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "苹果",
-            "name": "苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "萌米",
