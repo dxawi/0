@@ -538,7 +538,7 @@
         },
         {
             "key": "Bili",
-            "name": "Bili",
+            "name": "哔哔合集┃弹幕",
             "type": 3,
             "api": "csp_Bili",
             "style": {
@@ -548,57 +548,103 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://www.100km.top/json/bilibili.json"
+            "ext": {
+                "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/bilibili.json"
+            }
         },
         {
-            "key": "课堂教育",
-            "name": "课堂教育",
+            "key": "Biliych",
+            "name": "哔哔演唱会┃弹幕",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/biliych.json"
+            }
+        },
+        {
+            "key": "dr_兔小贝",
+            "name": "儿童┃启蒙",
+            "type": 3,
+            "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://www.100km.top/json/xx1.json"
+            "changeable": 0
         },
         {
             "key": "少儿教育",
-            "name": "少儿教育",
+            "name": "少儿┃教育",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://www.100km.top/json/xx2.json"
+            "changeable": 0,
+            "ext": {
+                "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/少儿教育.json"
+            }
         },
         {
-            "key": "小学教育",
-            "name": "小学教育",
+            "key": "小学课堂",
+            "name": "小学┃课堂",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://www.100km.top/json/xx3.json"
+            "changeable": 0,
+            "ext": {
+                "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/小学课堂.json"
+            }
         },
         {
-            "key": "初中教育",
-            "name": "初中教育",
+            "key": "初中课堂",
+            "name": "初中┃课堂",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://www.100km.top/json/xx4.json"
+            "changeable": 0,
+            "ext": {
+                "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/初中课堂.json"
+            }
         },
         {
             "key": "高中教育",
-            "name": "高中教育",
+            "name": "高中┃课堂",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://www.100km.top/json/xx5.json"
+            "changeable": 0,
+            "ext": {
+                "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/高中课堂.json"
+            }
         }
     ]
 }
